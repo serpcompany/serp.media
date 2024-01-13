@@ -78,14 +78,14 @@ const config = yaml.load(fs.readFileSync('src/config.yaml', 'utf8')) as {
   analytics?: unknown;
 };
 
-const DEFAULT_SITE_NAME = 'SERP Games';
+const DEFAULT_SITE_NAME = 'SERP Media';
 
 const getSite = () => {
   const _default = {
     name: DEFAULT_SITE_NAME,
-    site: 'serpgames.github.io',
-    base: 'serpgames.github.io',
-    trailingSlash: false,
+    site: 'serp.media',
+    base: 'serp.media',
+    trailingSlash: true,
 
     googleSiteVerificationId: '',
   };

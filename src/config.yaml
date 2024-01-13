@@ -1,30 +1,30 @@
 site:
-  name: SERP Games
-  site: 'https://serpgames.github.io'
+  name: SERP Media
+  site: 'https://serp.media'
   base: '/'
-  trailingSlash: false
+  trailingSlash: true
 
   googleSiteVerificationId:
 
 # Default SEO metadata
 metadata:
   title:
-    default: SERP Games
-    template: '%s — SERP Games'
-  description: "\U0001F680 from \"Game ON\" to \"Game OVER\"."
+    default: SERP Media
+    template: '%s — SERP Media'
+  description: "\U0001F680 Audio. Video. Disco."
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: SERP Games
+    site_name: SERP Media
     images:
       - url: '~/assets/images/default.png'
         width: 1200
         height: 628
     type: website
   twitter:
-    handle: '@serpdotgames'
-    site: '@serpdotgames'
+    handle: '@serpdotmedia'
+    site: '@serpdotmedia'
     cardType: summary_large_image
 
 i18n:
@@ -34,7 +34,7 @@ i18n:
 apps:
   blog:
     isEnabled: true
-    postsPerPage: 50
+    postsPerPage: 100
 
     post:
       isEnabled: true
