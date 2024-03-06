@@ -43,17 +43,12 @@ export const footerData = {
       title: 'Community',
       links: [
         { text: 'Newsletter', href: '/subscribe/' },
-        { text: 'Community', href: '/#' },
       ],
     },
     {
       title: 'Links',
       links: [
-        { text: 'Medium', href: 'https://medium.com/serpmedia', target: '_blank' },
-        { text: 'Pages', href: 'https://serpmedia.pages.dev', target: '_blank' },
-        { text: 'Substack', href: 'https://serpmedia.substack.com/', target: '_blank' },
-        { text: 'Hashnode', href: 'https://serpdotmedia.hashnode.dev/', target: '_blank' },
-        { text: 'Website', href: 'https://serp.media/', target: '_blank' },
+        { text: 'Website', href: 'https://serp.media', target: '_blank' },
       ],
     },
     {
@@ -78,7 +73,6 @@ export const footerData = {
     { ariaLabel: 'YouTube', icon: 'tabler:brand-youtube', href: 'https://serp.ly/@serpmedia/youtube', target: '_blank' },
     { ariaLabel: 'Linkedin', icon: 'tabler:brand-linkedin', href: 'https://serp.ly/@serpmedia/linkedin', target: '_blank' },
     { ariaLabel: 'TikTok', icon: 'tabler:brand-tiktok', href: 'https://serp.ly/@serpmedia/tiktok', target: '_blank' },
-    { ariaLabel: 'Medium', icon: 'tabler:brand-medium', href: 'https://serp.ly/@serpmedia/medium', target: '_blank' },
   ],
   
 };
