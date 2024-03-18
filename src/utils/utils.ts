@@ -1,3 +1,4 @@
+import type { AstroSeoProps, ImagePrevSize } from '@astrolib/seo';
 import { I18N } from '~/utils/config';
 
 const formatter: Intl.DateTimeFormat =
@@ -52,3 +53,34 @@ export const toUiAmount = (amount: number) => {
 
   return value;
 };
+
+const isImagePrevSize = (str: string): str is ImagePrevSize => str === 'none' || str === 'standard' || str === 'large';
+
+export type MetaRobots = Pick<AstroSeoProps, 'noindex' | 'nofollow' | 'robotsProps'>;
+
+export function parseMetaRobots(robotsString: string): MetaRobots {
+  const fields = robotsString.split(/\s*,\s*/);
+
+  const none = fields.includes('none');
+  const maxSnippet = Number(fields.find((f) => f.startsWith('max-snippet'))?.split(':')?.[1]);
+  const maxImagePreview = fields.find((f) => f.startsWith('max-image-preview'))?.split(':')?.[1];
+  const maxVideoPreview = Number(fields.find((f) => f.startsWith('max-video-preview'))?.split(':')?.[1]);
+  const unavailableAfter = fields.find((f) => f.startsWith('unavailable_after'))?.split(':')?.[1];
+
+  const parsed: MetaRobots = {
+    noindex: fields.includes('noindex') || none, // default to index
+    nofollow: fields.includes('nofollow') || none, // default to follow
+    robotsProps: {
+      nosnippet: fields.includes('nosnippet'),
+      maxSnippet: !Number.isNaN(maxSnippet) ? maxSnippet : undefined,
+      maxImagePreview: maxImagePreview && isImagePrevSize(maxImagePreview) ? maxImagePreview : undefined,
+      maxVideoPreview: !Number.isNaN(maxVideoPreview) ? maxVideoPreview : undefined, // not implemented yet in astrolib/seo... but keeping this in case it is later
+      noarchive: fields.includes('noarchive'),
+      unavailableAfter,
+      noimageindex: fields.includes('noimageindex'),
+      notranslate: fields.includes('notranslate'),
+    },
+  };
+
+  return parsed;
+}

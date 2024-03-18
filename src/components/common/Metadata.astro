@@ -7,6 +7,7 @@ import type { Props as AstroSeoProps } from '@astrolib/seo';
 import { SITE, METADATA, I18N } from '~/utils/config';
 import type { MetaData } from '~/types';
 import { getCanonical } from '~/utils/permalinks';
+import { parseMetaRobots } from '~/utils/utils';
 
 import { adaptOpenGraphImages } from '~/utils/images';
 
@@ -62,18 +63,9 @@ const seoProps: AstroSeoProps = merge(
     description: description,
     openGraph: { url: canonical, ...openGraph },
     twitter: twitter,
-  }
+  },
+  robotsString ? parseMetaRobots(robotsString) : {}
 );
-
-if (robotsString !== undefined) {
-  delete seoProps.noindex;
-  delete seoProps.nofollow;
-
-  if (robots.follow || robots.index) {
-    console.warn(`robots field is overridden by robotsString: ${canonical}`);
-  }
-}
 ---
 
 <AstroSeo {...{ ...seoProps, openGraph: await adaptOpenGraphImages(seoProps?.openGraph, Astro.site) }} />
-{robotsString && <meta name="robots" content={robotsString} />}
