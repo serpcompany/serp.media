@@ -27,7 +27,8 @@ const image = (await findImage(post.image)) as ImageMetadata | string | undefine
 
 const metadata = merge(
   {
-    title: post.title,
+    title: post.seoTitle || post.title,
+    ignoreTitleTemplate: !!post?.seoTitle,
     description: post.excerpt,
     robots: {
       index: blogPostRobots?.index,
@@ -35,7 +36,9 @@ const metadata = merge(
     },
     openGraph: {
       type: 'article',
-      ...(image ? { images: [{ url: image, width: (image as ImageMetadata)?.width, height: (image as ImageMetadata)?.height }] } : {}),
+      ...(image
+        ? { images: [{ url: image, width: (image as ImageMetadata)?.width, height: (image as ImageMetadata)?.height }] }
+        : {}),
     },
   },
   { ...(post?.metadata ? { ...post.metadata, canonical: post.metadata?.canonical || url } : {}) }

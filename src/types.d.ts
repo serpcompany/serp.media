@@ -18,6 +18,8 @@ export interface Post {
 
   /**  */
   title: string;
+  /** if unset, defaults to title */
+  seoTitle?: string;
   /** Optional summary of post content. */
   excerpt?: string;
   /**  */
