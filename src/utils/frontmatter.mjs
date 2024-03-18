@@ -10,6 +10,14 @@ export function readingTimeRemarkPlugin() {
   };
 }
 
+export function seoMetaRemarkPlugin() {
+  return function (tree, file) {
+    const frontmatter = file.data.astro.frontmatter;
+    frontmatter.metaRobots = frontmatter.metaRobots || "index, follow";
+    frontmatter.seoTitle = frontmatter.seoTitle || frontmatter.title || "";
+  };
+}
+
 export function responsiveTablesRehypePlugin() {
   return function (tree) {
     if (!tree.children) return;
