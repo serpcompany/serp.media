@@ -35,6 +35,8 @@ export interface Post {
   /**  */
   metadata?: MetaData;
 
+  metaRobots?: string;
+
   /**  */
   draft?: boolean;
 
