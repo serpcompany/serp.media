@@ -81,8 +81,11 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> =
 
     draft: draft,
 
+    blogTitle: remarkPluginFrontmatter.title,
+
     metadata: {
       ...metadata,
+      seoTitle: remarkPluginFrontmatter.seoTitle,
       robots: {
         index: remarkPluginFrontmatter.metaRobots.includes("noindex") ? false : true,
         follow: remarkPluginFrontmatter.metaRobots.includes("nofollow") ? false : true,

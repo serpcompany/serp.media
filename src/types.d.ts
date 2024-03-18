@@ -18,6 +18,11 @@ export interface Post {
 
   /**  */
   title: string;
+
+  seoTitle?: string;
+
+  blogTitle: string;
+
   /** Optional summary of post content. */
   excerpt?: string;
   /**  */
@@ -46,6 +51,9 @@ export interface Post {
 
 export interface MetaData {
   title?: string;
+
+  seoTitle?: string;
+
   ignoreTitleTemplate?: boolean;
 
   canonical?: string;

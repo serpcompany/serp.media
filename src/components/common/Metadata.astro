@@ -16,6 +16,7 @@ export interface Props extends MetaData {
 
 const {
   title,
+  seoTitle,
   ignoreTitleTemplate = false,
   canonical = String(getCanonical(String(Astro.url.pathname))),
   robots = {},
@@ -27,6 +28,7 @@ const {
 const seoProps: AstroSeoProps = merge(
   {
     title: '',
+    seoTitle: '',
     titleTemplate: '%s',
     canonical: canonical,
     noindex: true,
@@ -44,7 +46,7 @@ const seoProps: AstroSeoProps = merge(
     },
   },
   {
-    title: METADATA?.title?.default,
+    title: typeof METADATA?.seoTitle === 'string' ? METADATA?.seoTitle : METADATA?.title?.default,
     titleTemplate: METADATA?.title?.template,
     noindex: typeof METADATA?.robots?.index !== 'undefined' ? !METADATA.robots.index : undefined,
     nofollow: typeof METADATA?.robots?.follow !== 'undefined' ? !METADATA.robots.follow : undefined,
@@ -53,7 +55,7 @@ const seoProps: AstroSeoProps = merge(
     twitter: METADATA?.twitter,
   },
   {
-    title: title,
+    title: seoTitle ?? title,
     titleTemplate: ignoreTitleTemplate ? '%s' : undefined,
     canonical: canonical,
     noindex: typeof robots?.index !== 'undefined' ? !robots.index : undefined,
