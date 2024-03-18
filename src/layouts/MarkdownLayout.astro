@@ -5,14 +5,16 @@ import type { MetaData } from '~/types';
 
 export interface Props {
   frontmatter: {
-    title?: string
-  }
+    title?: string;
+    seoTitle?: string;
+  };
 }
 
 const { frontmatter } = Astro.props;
 
 const metadata: MetaData = {
-  title: frontmatter?.title,
+  title: frontmatter?.seoTitle || frontmatter?.title,
+  ignoreTitleTemplate: !!frontmatter?.seoTitle,
 };
 ---
 
