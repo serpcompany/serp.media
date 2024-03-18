@@ -7,6 +7,7 @@ export interface Props {
   frontmatter: {
     title?: string;
     seoTitle?: string;
+    metaRobots?: string;
   };
 }
 
@@ -15,6 +16,7 @@ const { frontmatter } = Astro.props;
 const metadata: MetaData = {
   title: frontmatter?.seoTitle || frontmatter?.title,
   ignoreTitleTemplate: !!frontmatter?.seoTitle,
+  robotsString: frontmatter?.metaRobots,
 };
 ---
 

@@ -19,6 +19,7 @@ const {
   ignoreTitleTemplate = false,
   canonical = String(getCanonical(String(Astro.url.pathname))),
   robots = {},
+  robotsString,
   description,
   openGraph = {},
   twitter = {},
@@ -63,6 +64,16 @@ const seoProps: AstroSeoProps = merge(
     twitter: twitter,
   }
 );
+
+if (robotsString !== undefined) {
+  delete seoProps.noindex;
+  delete seoProps.nofollow;
+
+  if (robots.follow || robots.index) {
+    console.warn(`robots field is overridden by robotsString: ${canonical}`);
+  }
+}
 ---
 
 <AstroSeo {...{ ...seoProps, openGraph: await adaptOpenGraphImages(seoProps?.openGraph, Astro.site) }} />
+{robotsString && <meta name="robots" content={robotsString} />}

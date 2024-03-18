@@ -53,6 +53,8 @@ export interface MetaData {
   canonical?: string;
 
   robots?: MetaDataRobots;
+  /** Sets the content for `<meta name="robots">` to an arbitrary string. Overrides the `robots` property. */
+  robotsString?: string;
 
   description?: string;
 
