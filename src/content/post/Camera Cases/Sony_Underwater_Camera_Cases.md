@@ -1,14 +1,16 @@
 ---
 
-title: "The Best Sony Underwater Camera Cases"
+title: "Sony Underwater Camera Cases"
 
 slug: "/shop/sony-underwater-camera-cases/"
 
 excerpt: ""
 
-publishDate: "2024-03-06T15:47:18.326090"
+publishDate: "2024-03-18T17:47:42.805023"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Sony-Underwater-Camera-Cases-1/w=900,h=500,fit=pad,background=black"
+
+seoTitle: "The Best Sony Underwater Camera Cases"
 
 ---
 
@@ -297,7 +299,6 @@ No, Sony underwater camera cases are designed to be compatible specifically with
 
 ### How do I clean my underwater camera lens while using the case?
 
-<div><a href="https://serp.ly/@serpmedia/amazon/sony-underwater-camera-cases?utm_source=serp.media&amp;utm_medium=website&amp;utm_campaign=%40serpmedia&amp;utm_content=sony-underwater-camera-cases&amp;utm_term=durable-underwater-housing-for-sony-a7r-iv"><img alt="Sony-Underwater-Camera-Cases-6" src="https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Sony-Underwater-Camera-Cases-6/w=720,h=540,fit=pad,background=black"/></a></div>
 
 To clean your lens, use a soft, lint-free microfiber cloth. Avoid using harsh chemicals or abrasive materials, as they may damage the lens or case. 
 

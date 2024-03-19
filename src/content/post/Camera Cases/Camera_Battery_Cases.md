@@ -1,14 +1,16 @@
 ---
 
-title: "The Best Camera Battery Cases"
+title: "Camera Battery Cases"
 
 slug: "/shop/camera-battery-cases/"
 
 excerpt: ""
 
-publishDate: "2024-03-06T15:47:18.330159"
+publishDate: "2024-03-18T17:47:42.811852"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Camera+Battery+Cases-1/w=900,h=500,fit=pad,background=black"
+
+seoTitle: "The Best Camera Battery Cases"
 
 ---
 

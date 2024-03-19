@@ -1,14 +1,16 @@
 ---
 
-title: "The Best Travel Camera Cases"
+title: "Travel Camera Cases"
 
 slug: "/shop/travel-camera-cases/"
 
 excerpt: ""
 
-publishDate: "2024-03-06T15:47:18.318289"
+publishDate: "2024-03-18T17:47:42.794270"
 
-image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Travel+Camera+Cases-1/w=900,h=500,fit=pad,background=black"
+image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Travel+Camera+Cases-6/w=720,h=540,fit=pad,background=black"
+
+seoTitle: "The Best Travel Camera Cases"
 
 ---
 

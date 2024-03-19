@@ -1,14 +1,16 @@
 ---
 
-title: "The Best Instax Polaroid Camera Cases"
+title: "Instax Polaroid Camera Cases"
 
 slug: "/shop/instax-polaroid-camera-cases/"
 
 excerpt: ""
 
-publishDate: "2024-03-06T15:47:18.329240"
+publishDate: "2024-03-18T17:47:42.810424"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Instax-Polaroid-Camera-Cases-1/w=900,h=500,fit=pad,background=black"
+
+seoTitle: "The Best Instax Polaroid Camera Cases"
 
 ---
 

@@ -1,14 +1,16 @@
 ---
 
-title: "The Best Small Canon Camera Cases"
+title: "Small Canon Camera Cases"
 
 slug: "/shop/small-canon-camera-cases/"
 
 excerpt: ""
 
-publishDate: "2024-03-06T15:47:18.332565"
+publishDate: "2024-03-18T17:47:42.815947"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Small-Canon-Camera-Cases-1/w=900,h=500,fit=pad,background=black"
+
+seoTitle: "The Best Small Canon Camera Cases"
 
 ---
 
@@ -201,7 +203,6 @@ You can find small Canon camera cases at photography stores, online retailers, a
 
 ### How durable are small Canon camera cases?
 
-<div><a href="https://serp.ly/@serpmedia/amazon/small-canon-camera-cases?utm_source=serp.media&amp;utm_medium=website&amp;utm_campaign=%40serpmedia&amp;utm_content=small-canon-camera-cases&amp;utm_term=foldable-waterproof-dslr-slr-camera-bag"><img alt="Small-Canon-Camera-Cases-6" src="https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Small-Canon-Camera-Cases-6/w=720,h=540,fit=pad,background=black"/></a></div>
 
 The durability of small Canon camera cases depends on the materials used and the construction quality. Generally, well-made cases can withstand normal wear and tear. Check product reviews to get an idea of how the case you're interested in performs under real-world conditions. 
 

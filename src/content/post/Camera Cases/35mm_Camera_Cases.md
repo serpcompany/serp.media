@@ -1,14 +1,16 @@
 ---
 
-title: "The Best 35mm Camera Cases"
+title: "35mm Camera Cases"
 
 slug: "/shop/35mm-camera-cases/"
 
 excerpt: ""
 
-publishDate: "2024-03-06T15:47:18.326351"
+publishDate: "2024-03-18T17:47:42.805454"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/35mm-Camera-Cases-1/w=900,h=500,fit=pad,background=black"
+
+seoTitle: "The Best 35mm Camera Cases"
 
 ---
 

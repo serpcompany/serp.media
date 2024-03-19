@@ -1,14 +1,16 @@
 ---
 
-title: "The Best Sony A7 Camera Cases"
+title: "Sony A7 Camera Cases"
 
 slug: "/shop/sony-a7-camera-cases/"
 
 excerpt: ""
 
-publishDate: "2024-03-06T15:47:18.330496"
+publishDate: "2024-03-18T17:47:42.812321"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Sony+A7+Camera+Cases-1/w=900,h=500,fit=pad,background=black"
+
+seoTitle: "The Best Sony A7 Camera Cases"
 
 ---
 
@@ -195,7 +197,6 @@ When choosing a camera case, consider factors such as material, size, and compat
 
 ### Do Sony A7 camera cases come with a warranty?
 
-<div><a href="https://serp.ly/@serpmedia/amazon/sony-a7-camera-cases?utm_source=serp.media&amp;utm_medium=website&amp;utm_campaign=%40serpmedia&amp;utm_content=sony-a7-camera-cases&amp;utm_term=silicone-protection-cover-for-sony-a9a7-3a7r-3-cameras"><img alt="Sony A7 Camera Cases-6" src="https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Sony+A7+Camera+Cases-6/w=720,h=540,fit=pad,background=black"/></a></div>
 
 Warranties for Sony A7 camera cases may vary depending on the manufacturer or retailer. Check the product's description or packaging for information about warranty terms before making a purchase. 
 

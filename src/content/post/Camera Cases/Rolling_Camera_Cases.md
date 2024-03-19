@@ -1,14 +1,16 @@
 ---
 
-title: "The Best Rolling Camera Cases"
+title: "Rolling Camera Cases"
 
 slug: "/shop/rolling-camera-cases/"
 
 excerpt: ""
 
-publishDate: "2024-03-06T15:47:18.319490"
+publishDate: "2024-03-18T17:47:42.795601"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Rolling+Camera+Cases-1/w=900,h=500,fit=pad,background=black"
+
+seoTitle: "The Best Rolling Camera Cases"
 
 ---
 

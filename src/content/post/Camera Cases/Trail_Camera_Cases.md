@@ -1,14 +1,16 @@
 ---
 
-title: "The Best Trail Camera Cases"
+title: "Trail Camera Cases"
 
 slug: "/shop/trail-camera-cases/"
 
 excerpt: ""
 
-publishDate: "2024-03-06T15:47:18.336923"
+publishDate: "2024-03-18T17:47:42.823456"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Trail+Camera+Cases-1/w=900,h=500,fit=pad,background=black"
+
+seoTitle: "The Best Trail Camera Cases"
 
 ---
 
@@ -216,7 +218,6 @@ The cost of trail camera cases can vary depending on factors like size, material
 
 * Store the case in a cool, dry place when not in use to extend its lifespan.
 
-<div><a href="https://serp.ly/@serpmedia/amazon/trail-camera-cases?utm_source=serp.media&amp;utm_medium=website&amp;utm_campaign=%40serpmedia&amp;utm_content=trail-camera-cases&amp;utm_term=durable-waterproof-16-gear-case-for-sensitive-equipment"><img alt="Trail Camera Cases-6" src="https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Trail+Camera+Cases-6/w=720,h=540,fit=pad,background=black"/></a></div>
 
 
 ### Are trail camera cases weather-resistant?

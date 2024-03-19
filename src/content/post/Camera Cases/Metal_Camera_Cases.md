@@ -1,14 +1,16 @@
 ---
 
-title: "The Best Metal Camera Cases"
+title: "Metal Camera Cases"
 
 slug: "/shop/metal-camera-cases/"
 
 excerpt: ""
 
-publishDate: "2024-03-06T15:47:18.339476"
+publishDate: "2024-03-18T17:47:42.828037"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Metal-Camera-Cases-1/w=900,h=500,fit=pad,background=black"
+
+seoTitle: "The Best Metal Camera Cases"
 
 ---
 

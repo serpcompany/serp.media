@@ -1,14 +1,16 @@
 ---
 
-title: "The Best Nikon Z50 Camera Cases"
+title: "Nikon Z50 Camera Cases"
 
 slug: "/shop/nikon-z50-camera-cases/"
 
 excerpt: ""
 
-publishDate: "2024-03-06T15:47:18.327384"
+publishDate: "2024-03-18T17:47:42.807103"
 
-image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Nikon+Z50+Camera+Cases-1/w=900,h=500,fit=pad,background=black"
+image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Nikon+Z50+Camera+Cases-6/w=720,h=540,fit=pad,background=black"
+
+seoTitle: "The Best Nikon Z50 Camera Cases"
 
 ---
 

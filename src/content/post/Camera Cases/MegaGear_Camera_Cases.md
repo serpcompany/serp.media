@@ -1,14 +1,16 @@
 ---
 
-title: "The Best MegaGear Camera Cases"
+title: "MegaGear Camera Cases"
 
 slug: "/shop/megagear-camera-cases/"
 
 excerpt: ""
 
-publishDate: "2024-03-06T15:47:18.331009"
+publishDate: "2024-03-18T17:47:42.813166"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/MegaGear+Camera+Cases-1/w=900,h=500,fit=pad,background=black"
+
+seoTitle: "The Best MegaGear Camera Cases"
 
 ---
 

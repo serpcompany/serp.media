@@ -1,14 +1,16 @@
 ---
 
-title: "The Best Pelican Camera Cases"
+title: "Pelican Camera Cases"
 
 slug: "/shop/pelican-camera-cases/"
 
 excerpt: ""
 
-publishDate: "2024-03-06T15:47:18.330733"
+publishDate: "2024-03-18T17:47:42.812728"
 
-image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Pelican+Camera+Cases-1/w=900,h=500,fit=pad,background=black"
+image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Pelican+Camera+Cases-6/w=720,h=540,fit=pad,background=black"
+
+seoTitle: "The Best Pelican Camera Cases"
 
 ---
 

@@ -1,14 +1,16 @@
 ---
 
-title: "The Best Pentax K1000 Camera Cases"
+title: "Pentax K1000 Camera Cases"
 
 slug: "/shop/pentax-k1000-camera-cases/"
 
 excerpt: ""
 
-publishDate: "2024-03-06T15:47:18.339200"
+publishDate: "2024-03-18T17:47:42.827574"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Pentax+K1000+Camera+Cases-1/w=900,h=500,fit=pad,background=black"
+
+seoTitle: "The Best Pentax K1000 Camera Cases"
 
 ---
 
@@ -209,7 +211,6 @@ To maintain your case, use a soft, damp cloth to wipe it down periodically, bein
 
 *As an Amazon™ Associate, we earn from qualifying purchases.*ge configurations, and secure closures like zippers or Velcro straps. 
 
-<div><a href="https://serp.ly/@serpmedia/amazon/pentax-k1000-camera-cases?utm_source=serp.media&amp;utm_medium=website&amp;utm_campaign=%40serpmedia&amp;utm_content=pentax-k1000-camera-cases&amp;utm_term=soft-padded-travel-camera-case-universal-fit-for-many-dslr-models-microfiber-cleaning-cloth-included"><img alt="Pentax K1000 Camera Cases-6" src="https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Pentax+K1000+Camera+Cases-6/w=720,h=540,fit=pad,background=black"/></a></div>
 
 
 ### Are there any specific considerations for selecting a camera case if I travel frequently with my Pentax K1000?

@@ -1,14 +1,16 @@
 ---
 
-title: "The Best Kodak Camera Cases"
+title: "Kodak Camera Cases"
 
 slug: "/shop/kodak-camera-cases/"
 
 excerpt: ""
 
-publishDate: "2024-03-06T15:47:18.336055"
+publishDate: "2024-03-18T17:47:42.821770"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Kodak-Camera-Cases-1/w=900,h=500,fit=pad,background=black"
+
+seoTitle: "The Best Kodak Camera Cases"
 
 ---
 

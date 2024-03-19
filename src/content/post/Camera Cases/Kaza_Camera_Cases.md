@@ -1,14 +1,16 @@
 ---
 
-title: "The Best Kaza Camera Cases"
+title: "Kaza Camera Cases"
 
 slug: "/shop/kaza-camera-cases/"
 
 excerpt: ""
 
-publishDate: "2024-03-06T15:47:18.317911"
+publishDate: "2024-03-18T17:47:42.793884"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Kaza+Camera+Cases-1/w=900,h=500,fit=pad,background=black"
+
+seoTitle: "The Best Kaza Camera Cases"
 
 ---
 
@@ -222,7 +224,6 @@ To find the perfect Kaza Camera Case for your needs, consider factors like your 
 
 ### Do Kaza Camera Cases come with a warranty?
 
-<div><a href="https://serp.ly/@serpmedia/amazon/kaza-camera-cases?utm_source=serp.media&amp;utm_medium=website&amp;utm_campaign=%40serpmedia&amp;utm_content=kaza-camera-cases&amp;utm_term=elegant-leather-camera-case-for-canon-eos-m6-mark-ii"><img alt="Kaza Camera Cases-6" src="https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Kaza+Camera+Cases-6/w=720,h=540,fit=pad,background=black"/></a></div>
 
 Yes, Kaza offers a limited warranty on their camera cases. The warranty covers defects in materials and workmanship for a specified period, usually up to one year from the date of purchase. However, the warranty does not cover damage caused by normal wear and tear, accidental damage, or improper use. 
 

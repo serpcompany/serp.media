@@ -1,14 +1,16 @@
 ---
 
-title: "The Best Canon Underwater Camera Case"
+title: "Canon Underwater Camera Case"
 
 slug: "/shop/canon-underwater-camera-case/"
 
 excerpt: ""
 
-publishDate: "2024-03-06T15:47:18.327833"
+publishDate: "2024-03-18T17:47:42.807872"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Canon+Underwater+Camera+Case-1/w=900,h=500,fit=pad,background=black"
+
+seoTitle: "The Best Canon Underwater Camera Case"
 
 ---
 
@@ -180,7 +182,6 @@ If you are experiencing difficulties using or maintaining your Canon underwater 
 
 Yes, you can. Canon offers underwater cases designed to accommodate various lens options, including wide-angle and fish-eye lenses, allowing you to capture the broad underwater views or unique perspectives. 
 
-<div><a href="https://serp.ly/@serpmedia/amazon/canon-underwater-camera-case?utm_source=serp.media&amp;utm_medium=website&amp;utm_campaign=%40serpmedia&amp;utm_content=canon-underwater-camera-case&amp;utm_term=nauticam-canon-eos-r5-underwater-housing"><img alt="Canon Underwater Camera Case-6" src="https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Canon+Underwater+Camera+Case-6/w=720,h=540,fit=pad,background=black"/></a></div>
 
 
 ### What's the warranty length for Canon's underwater camera cases?

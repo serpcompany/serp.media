@@ -1,14 +1,16 @@
 ---
 
-title: "The Best Fujifilm Camera Cases"
+title: "Fujifilm Camera Cases"
 
 slug: "/shop/fujifilm-camera-cases/"
 
 excerpt: ""
 
-publishDate: "2024-03-06T15:47:18.337130"
+publishDate: "2024-03-18T17:47:42.823858"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Fujifilm+Camera+Cases-1/w=900,h=500,fit=pad,background=black"
+
+seoTitle: "The Best Fujifilm Camera Cases"
 
 ---
 

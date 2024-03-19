@@ -4,13 +4,13 @@ title: "Diving Camera Cases"
 
 slug: "/shop/best/diving-camera-cases/"
 
-excerpt: "Explore the top-rated diving camera cases in our roundup, designed to protect your valuable underwater photography gear during deep-sea adventures."
+excerpt: ""
 
-publishDate: "2024-03-06T15:35:10Z"
+publishDate: "2024-03-18T17:47:42.815580"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Diving-Camera-Cases-1/w=900,h=500,fit=pad,background=black"
 
-category: "Camera Cases"
+seoTitle: "The Best Diving Camera Cases"
 
 ---
 

@@ -1,14 +1,16 @@
 ---
 
-title: "The Best Hard Camera Cases with Foam"
+title: "Hard Camera Cases with Foam"
 
 slug: "/shop/hard-camera-cases-with-foam/"
 
 excerpt: ""
 
-publishDate: "2024-03-06T15:47:18.335832"
+publishDate: "2024-03-18T17:47:42.821358"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Hard+Camera+Cases+with+Foam-1/w=900,h=500,fit=pad,background=black"
+
+seoTitle: "The Best Hard Camera Cases with Foam"
 
 ---
 

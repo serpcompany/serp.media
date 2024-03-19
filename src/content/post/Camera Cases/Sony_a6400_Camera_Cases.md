@@ -1,14 +1,16 @@
 ---
 
-title: "The Best Sony a6400 Camera Cases"
+title: "Sony a6400 Camera Cases"
 
 slug: "/shop/sony-a6400-camera-cases/"
 
 excerpt: ""
 
-publishDate: "2024-03-06T15:47:18.328308"
+publishDate: "2024-03-18T17:47:42.808653"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Sony+a6400+Camera+Cases-1/w=900,h=500,fit=pad,background=black"
+
+seoTitle: "The Best Sony a6400 Camera Cases"
 
 ---
 

@@ -1,14 +1,16 @@
 ---
 
-title: "The Best MegaGear Leather Camera Cases"
+title: "MegaGear Leather Camera Cases"
 
 slug: "/shop/megagear-leather-camera-cases/"
 
 excerpt: ""
 
-publishDate: "2024-03-06T15:47:18.323293"
+publishDate: "2024-03-18T17:47:42.801185"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/MegaGear+Leather+Camera+Cases-1/w=900,h=500,fit=pad,background=black"
+
+seoTitle: "The Best MegaGear Leather Camera Cases"
 
 ---
 
@@ -206,7 +208,6 @@ While MegaGear Leather Camera Cases are not waterproof, they provide a high leve
 
 Yes, MegaGear offers a 1-year warranty on their products. In case of any manufacturing defects, they will either repair or replace the affected item. 
 
-<div><a href="https://serp.ly/@serpmedia/amazon/megagear-leather-camera-cases?utm_source=serp.media&amp;utm_medium=website&amp;utm_campaign=%40serpmedia&amp;utm_content=megagear-leather-camera-cases&amp;utm_term=megagear-nikon-coolpix-p950-ever-ready-dark-brown-leather-protective-case"><img alt="MegaGear Leather Camera Cases-6" src="https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/MegaGear+Leather+Camera+Cases-6/w=720,h=540,fit=pad,background=black"/></a></div>
 
 
 ### How do I care for my MegaGear Leather Camera Case?

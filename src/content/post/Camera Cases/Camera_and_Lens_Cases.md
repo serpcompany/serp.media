@@ -1,14 +1,16 @@
 ---
 
-title: "The Best Camera and Lens Cases"
+title: "Camera and Lens Cases"
 
 slug: "/shop/camera-and-lens-cases/"
 
 excerpt: ""
 
-publishDate: "2024-03-06T15:47:18.336289"
+publishDate: "2024-03-18T17:47:42.822193"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Camera+and+Lens+Cases-1/w=900,h=500,fit=pad,background=black"
+
+seoTitle: "The Best Camera and Lens Cases"
 
 ---
 

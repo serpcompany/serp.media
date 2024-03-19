@@ -1,14 +1,16 @@
 ---
 
-title: "The Best Canon Camera Cases"
+title: "Canon Camera Cases"
 
 slug: "/shop/canon-camera-cases/"
 
 excerpt: ""
 
-publishDate: "2024-03-06T15:47:18.333209"
+publishDate: "2024-03-18T17:47:42.816756"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Canon-Camera-Cases-1/w=900,h=500,fit=pad,background=black"
+
+seoTitle: "The Best Canon Camera Cases"
 
 ---
 
@@ -306,7 +308,6 @@ When choosing a Canon camera case, consider the following factors:
 
 Do Canon camera cases come with a warranty? 
 
-<div><a href="https://serp.ly/@serpmedia/amazon/canon-camera-cases?utm_source=serp.media&amp;utm_medium=website&amp;utm_campaign=%40serpmedia&amp;utm_content=canon-camera-cases&amp;utm_term=waterproof-dslr-backpack-for-sony-canon-nikon"><img alt="Canon-Camera-Cases-6" src="https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Canon-Camera-Cases-6/w=720,h=540,fit=pad,background=black"/></a></div>
 
 
 ### Answer 4

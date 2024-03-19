@@ -1,14 +1,16 @@
 ---
 
-title: "The Best DSLR Camera Cases"
+title: "DSLR Camera Cases"
 
 slug: "/shop/dslr-camera-cases/"
 
 excerpt: ""
 
-publishDate: "2024-03-06T15:47:18.338962"
+publishDate: "2024-03-18T17:47:42.827151"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/DSLR+Camera+Cases-1/w=900,h=500,fit=pad,background=black"
+
+seoTitle: "The Best DSLR Camera Cases"
 
 ---
 

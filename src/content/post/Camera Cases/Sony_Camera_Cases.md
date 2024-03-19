@@ -1,14 +1,16 @@
 ---
 
-title: "The Best Sony Camera Cases"
+title: "Sony Camera Cases"
 
 slug: "/shop/sony-camera-cases/"
 
 excerpt: ""
 
-publishDate: "2024-03-06T15:47:18.333986"
+publishDate: "2024-03-18T17:47:42.817941"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Sony-Camera-Cases-1/w=900,h=500,fit=pad,background=black"
+
+seoTitle: "The Best Sony Camera Cases"
 
 ---
 
@@ -241,7 +243,6 @@ A camera bag is a larger, multi-compartment bag designed to carry multiple camer
 
 ### How do I properly store my camera inside a case?
 
-<div><a href="https://serp.ly/@serpmedia/amazon/sony-camera-cases?utm_source=serp.media&amp;utm_medium=website&amp;utm_campaign=%40serpmedia&amp;utm_content=sony-camera-cases&amp;utm_term=tough-and-durable-camcorder-hard-case"><img alt="Sony-Camera-Cases-6" src="https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Sony-Camera-Cases-6/w=720,h=540,fit=pad,background=black"/></a></div>
 
 To store your camera inside a case, carefully slide it in while making sure to keep the lens cap on to avoid scratches. Close the case securely and store it in a cool, dry place away from direct sunlight. Do not apply excessive force when opening or closing the case to avoid damaging the zippers or Velcro closures. 
 

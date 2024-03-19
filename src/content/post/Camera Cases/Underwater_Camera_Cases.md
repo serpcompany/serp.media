@@ -1,14 +1,16 @@
 ---
 
-title: "The Best Underwater Camera Cases"
+title: "Underwater Camera Cases"
 
 slug: "/shop/underwater-camera-cases/"
 
 excerpt: ""
 
-publishDate: "2024-03-06T15:47:18.338560"
+publishDate: "2024-03-18T17:47:42.826393"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Underwater-Camera-Cases-1/w=900,h=500,fit=pad,background=black"
+
+seoTitle: "The Best Underwater Camera Cases"
 
 ---
 
@@ -149,7 +151,6 @@ Many underwater camera cases are designed to fit a specific model or series of c
 
 ### What types of photography are best suited for underwater camera cases?
 
-<div><a href="https://serp.ly/@serpmedia/amazon/underwater-camera-cases?utm_source=serp.media&amp;utm_medium=website&amp;utm_campaign=%40serpmedia&amp;utm_content=underwater-camera-cases&amp;utm_term=insta360-x3-underwater-diving-housing"><img alt="Underwater-Camera-Cases-6" src="https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Underwater-Camera-Cases-6/w=720,h=540,fit=pad,background=black"/></a></div>
 
 Underwater camera cases are perfect for capturing images or videos while scuba diving, snorkeling, surfing, or engaging in other water-based activities. They are also useful in wet or harsh weather conditions, ensuring your camera stays protected from water, dust, and ice. 
 

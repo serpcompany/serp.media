@@ -4,13 +4,13 @@ title: "Canon PowerShot Camera Cases"
 
 slug: "/shop/best/canon-powershot-camera-cases/"
 
-excerpt: "Discover the best Canon PowerShot camera cases to protect and enhance your photography experience, featuring top-rated options to suit every style and budget."
+excerpt: ""
 
-publishDate: "2024-03-06T15:29:41Z"
+publishDate: "2024-03-18T17:47:42.820954"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Canon+PowerShot+camera+cases-1/w=900,h=500,fit=pad,background=black"
 
-category: "Camera Cases"
+seoTitle: "The Best Canon PowerShot Camera Cases"
 
 ---
 

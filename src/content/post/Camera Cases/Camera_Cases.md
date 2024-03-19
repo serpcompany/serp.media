@@ -1,14 +1,16 @@
 ---
 
-title: "The Best Camera Cases"
+title: "Camera Cases"
 
 slug: "/shop/camera-cases/"
 
 excerpt: ""
 
-publishDate: "2024-03-06T15:47:18.321669"
+publishDate: "2024-03-18T17:47:42.798417"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Camera+Cases-1/w=900,h=500,fit=pad,background=black"
+
+seoTitle: "The Best Camera Cases"
 
 ---
 

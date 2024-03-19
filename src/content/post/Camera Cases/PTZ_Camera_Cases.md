@@ -1,14 +1,16 @@
 ---
 
-title: "The Best PTZ Camera Cases"
+title: "PTZ Camera Cases"
 
 slug: "/shop/ptz-camera-cases/"
 
 excerpt: ""
 
-publishDate: "2024-03-06T15:47:18.328066"
+publishDate: "2024-03-18T17:47:42.808259"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/PTZ+Camera+Cases-1/w=900,h=500,fit=pad,background=black"
+
+seoTitle: "The Best PTZ Camera Cases"
 
 ---
 

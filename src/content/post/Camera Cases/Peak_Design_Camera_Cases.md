@@ -1,14 +1,16 @@
 ---
 
-title: "The Best Peak Design Camera Cases"
+title: "Peak Design Camera Cases"
 
 slug: "/shop/peak-design-camera-cases/"
 
 excerpt: ""
 
-publishDate: "2024-03-06T15:47:18.318757"
+publishDate: "2024-03-18T17:47:42.794755"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Peak+Design+Camera+Cases-1/w=900,h=500,fit=pad,background=black"
+
+seoTitle: "The Best Peak Design Camera Cases"
 
 ---
 

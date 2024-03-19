@@ -1,14 +1,16 @@
 ---
 
-title: "The Best Leather Camera Cases"
+title: "Leather Camera Cases"
 
 slug: "/shop/leather-camera-cases/"
 
 excerpt: ""
 
-publishDate: "2024-03-06T15:47:18.329483"
+publishDate: "2024-03-18T17:47:42.810838"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Leather-Camera-Cases-1/w=900,h=500,fit=pad,background=black"
+
+seoTitle: "The Best Leather Camera Cases"
 
 ---
 

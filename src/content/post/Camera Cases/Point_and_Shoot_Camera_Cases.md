@@ -1,14 +1,16 @@
 ---
 
-title: "The Best Point and Shoot Camera Cases"
+title: "Point and Shoot Camera Cases"
 
 slug: "/shop/point-and-shoot-camera-cases/"
 
 excerpt: ""
 
-publishDate: "2024-03-06T15:47:18.322439"
+publishDate: "2024-03-18T17:47:42.799819"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Point+and+Shoot+Camera+Cases-1/w=900,h=500,fit=pad,background=black"
+
+seoTitle: "The Best Point and Shoot Camera Cases"
 
 ---
 

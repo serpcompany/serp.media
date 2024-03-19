@@ -1,14 +1,16 @@
 ---
 
-title: "The Best Instax Mini 11 Camera Cases"
+title: "Instax Mini 11 Camera Cases"
 
 slug: "/shop/instax-mini-11-camera-cases/"
 
 excerpt: ""
 
-publishDate: "2024-03-06T15:47:18.322172"
+publishDate: "2024-03-18T17:47:42.799258"
 
-image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Instax-Mini-11-Camera-Cases-1/w=900,h=500,fit=pad,background=black"
+image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Instax-Mini-11-Camera-Cases-6/w=720,h=540,fit=pad,background=black"
+
+seoTitle: "The Best Instax Mini 11 Camera Cases"
 
 ---
 

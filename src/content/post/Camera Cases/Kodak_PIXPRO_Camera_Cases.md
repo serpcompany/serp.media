@@ -1,14 +1,16 @@
 ---
 
-title: "The Best Kodak PIXPRO Camera Cases"
+title: "Kodak PIXPRO Camera Cases"
 
 slug: "/shop/kodak-pixpro-camera-cases/"
 
 excerpt: ""
 
-publishDate: "2024-03-06T15:47:18.327623"
+publishDate: "2024-03-18T17:47:42.807502"
 
-image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Kodak-PIXPRO-Camera-Cases-1/w=900,h=500,fit=pad,background=black"
+image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Kodak-PIXPRO-Camera-Cases-6/w=720,h=540,fit=pad,background=black"
+
+seoTitle: "The Best Kodak PIXPRO Camera Cases"
 
 ---
 

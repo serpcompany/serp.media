@@ -1,14 +1,16 @@
 ---
 
-title: "The Best Manfrotto Camera Cases"
+title: "Manfrotto Camera Cases"
 
 slug: "/shop/manfrotto-camera-cases/"
 
 excerpt: ""
 
-publishDate: "2024-03-06T15:47:18.334399"
+publishDate: "2024-03-18T17:47:42.818662"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Manfrotto+Camera+Cases-1/w=900,h=500,fit=pad,background=black"
+
+seoTitle: "The Best Manfrotto Camera Cases"
 
 ---
 
