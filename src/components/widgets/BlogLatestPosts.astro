@@ -1,10 +1,12 @@
 ---
+import type { ContentEntryMap } from "astro:content";
+
 import { APP_BLOG } from "~/utils/config";
 
 import Grid from "~/components/blog/Grid.astro";
 
 import { getBlogPermalink } from "~/utils/permalinks";
-import { findLatestPosts } from "~/utils/blog";
+import { findLatestPostsByCollection } from "~/utils/blog";
 import WidgetWrapper from "~/components/ui/WidgetWrapper.astro";
 import type { Widget } from "~/types";
 import Button from "../ui/Button.astro";
@@ -15,6 +17,7 @@ export interface Props extends Widget {
   linkUrl?: string | URL;
   information?: string;
   count?: number;
+  collection?: keyof ContentEntryMap
 }
 
 const {
@@ -23,6 +26,7 @@ const {
   linkUrl = getBlogPermalink(),
   information = await Astro.slots.render("information"),
   count = 50,
+  collection = 'post',
 
   id,
   isDark = false,
@@ -30,7 +34,7 @@ const {
   bg = await Astro.slots.render("bg"),
 } = Astro.props;
 
-const posts = APP_BLOG.isEnabled ? await findLatestPosts({ count }) : [];
+const posts = APP_BLOG.isEnabled ? await findLatestPostsByCollection({ count, collectionName: collection }) : [];
 ---
 
 {
