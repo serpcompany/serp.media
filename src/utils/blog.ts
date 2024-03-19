@@ -174,10 +174,24 @@ export const findLatestPostsByCollection = async ({ count, collectionName = 'pos
 /** */
 export const getStaticPathsBlogList = async ({ paginate }: { paginate: PaginateFunction }) => {
   if (!isBlogEnabled || !isBlogListRouteEnabled) return [];
-  return paginate(await fetchPosts(), {
-    params: { blog: BLOG_BASE || undefined },
-    pageSize: blogPostsPerPage,
-  });
+
+  const collections = ['movies', 'post'];
+  const posts = await fetchPosts();
+
+  return collections.flatMap((collection: keyof ContentEntryMap) => {
+    const filteredPosts = posts.filter(post => post.collection === collection);
+
+    const param = collection === "movies" ? "movies" : BLOG_BASE;
+    const title = collection === "movies" ? "Movies" : "Blog";
+
+    return paginate(filteredPosts, {
+      params: { blog: param || undefined },
+      pageSize: blogPostsPerPage,
+      props: {
+        title,
+      }
+    });
+  })
 };
 
 /** */
