@@ -18,6 +18,8 @@ export interface Post {
 
   /**  */
   title: string;
+  /** if unset, defaults to title */
+  seoTitle?: string;
   /** Optional summary of post content. */
   excerpt?: string;
   /**  */
@@ -32,6 +34,8 @@ export interface Post {
 
   /**  */
   metadata?: MetaData;
+
+  metaRobots?: string;
 
   /**  */
   draft?: boolean;
@@ -51,6 +55,8 @@ export interface MetaData {
   canonical?: string;
 
   robots?: MetaDataRobots;
+  /** Sets the content for `<meta name="robots">` to an arbitrary string. Overrides the `robots` property. */
+  robotsString?: string;
 
   description?: string;
 
