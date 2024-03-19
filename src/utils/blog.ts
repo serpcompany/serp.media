@@ -98,7 +98,10 @@ const getNormalizedPost = async (post: CollectionEntry<keyof ContentEntryMap>): 
 
 const load = async function (): Promise<Array<Post>> {
   const posts = await getCollection('post');
-  const normalizedPosts = posts.map(async (post) => await getNormalizedPost(post));
+  const movies = await getCollection('movies');
+
+  const allPosts = [...posts, ...movies];
+  const normalizedPosts = allPosts.map(async (post) => await getNormalizedPost(post));
 
   const results = (await Promise.all(normalizedPosts))
     .sort((a, b) => b.publishDate.valueOf() - a.publishDate.valueOf())
