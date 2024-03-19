@@ -20,7 +20,7 @@ export interface Props extends Widget {
   collection?: keyof ContentEntryMap
 }
 
-const collection = Astro.props.collection || 'post';
+const collection = Astro.props?.collection || 'post';
 const linkUrl = collection === "movies" ? getPermalink(collection, "post") : getBlogPermalink()
 
 const {
