@@ -1,6 +1,6 @@
 import type { PaginateFunction } from 'astro';
 import { getCollection } from 'astro:content';
-import type { CollectionEntry } from 'astro:content';
+import type { CollectionEntry, ContentEntryMap } from 'astro:content';
 import type { Post } from '~/types';
 import { APP_BLOG } from '~/utils/config';
 import { cleanSlug, trimSlash, BLOG_BASE, POST_PERMALINK_PATTERN, CATEGORY_BASE, TAG_BASE } from './permalinks';
@@ -40,8 +40,8 @@ const generatePermalink = async ({
     .join('/');
 };
 
-const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> => {
-  const { id, slug: rawSlug = '', data } = post;
+const getNormalizedPost = async (post: CollectionEntry<keyof ContentEntryMap>): Promise<Post> => {
+  const { id, slug: rawSlug = '', data, collection } = post;
   const { Content, remarkPluginFrontmatter } = await post.render();
 
   const {
@@ -77,6 +77,8 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> =
     seoTitle: seoTitle,
     excerpt: excerpt,
     image: image,
+
+    collection,
 
     category: category,
     tags: tags,
@@ -159,11 +161,11 @@ export const findPostsByIds = async (ids: Array<string>): Promise<Array<Post>> =
 };
 
 /** */
-export const findLatestPosts = async ({ count }: { count?: number }): Promise<Array<Post>> => {
+export const findLatestPostsByCollection = async ({ count, collectionName = 'post' }: { count?: number, collectionName: keyof ContentEntryMap }): Promise<Array<Post>> => {
   const _count = count || 4;
   const posts = await fetchPosts();
 
-  return posts ? posts.slice(0, _count) : [];
+  return posts ? posts.filter(post => post.collection === collectionName).slice(0, _count) : [];
 };
 
 /** */

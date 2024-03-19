@@ -1,5 +1,6 @@
 import type { AstroComponentFactory } from 'astro/runtime/server/index.js';
 import type { HTMLAttributes, ImageMetadata } from 'astro/types';
+import type { ContentEntryMap } from 'astro:content';
 
 export interface Post {
   /** A unique ID number that identifies a post. */
@@ -24,6 +25,9 @@ export interface Post {
   excerpt?: string;
   /**  */
   image?: ImageMetadata | string;
+
+  /**  */
+  collection: keyof ContentEntryMap
 
   /**  */
   category?: string;
