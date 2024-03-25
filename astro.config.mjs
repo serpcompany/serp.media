@@ -30,6 +30,10 @@ export default defineConfig({
 
   output: 'static',
 
+  experimental: {
+    contentCollectionCache: true,
+  },
+
   integrations: [
     tailwind({
       applyBaseStyles: false,
