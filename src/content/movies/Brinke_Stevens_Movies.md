@@ -4,7 +4,7 @@ title: "All 72 Brinke Stevens Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-72-brinke-stevens-movies-in-order/"
+slug: "/movies/all-brinke-stevens-movies-in-order/"
 
 excerpt: ""
 

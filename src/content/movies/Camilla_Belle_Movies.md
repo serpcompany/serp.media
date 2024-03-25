@@ -4,7 +4,7 @@ title: "All 39 Camilla Belle Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-39-camilla-belle-movies-in-order/"
+slug: "/movies/all-camilla-belle-movies-in-order/"
 
 excerpt: ""
 

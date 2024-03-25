@@ -4,7 +4,7 @@ title: "All 53 Amitabh Bachchan Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-53-amitabh-bachchan-movies-in-order/"
+slug: "/movies/all-amitabh-bachchan-movies-in-order/"
 
 excerpt: ""
 

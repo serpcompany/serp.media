@@ -4,7 +4,7 @@ title: "All 54 Andrew W Walker Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-54-andrew-w-walker-movies-in-order/"
+slug: "/movies/all-andrew-w-walker-movies-in-order/"
 
 excerpt: ""
 

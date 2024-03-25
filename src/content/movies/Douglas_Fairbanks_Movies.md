@@ -4,7 +4,7 @@ title: "All 45 Douglas Fairbanks Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-45-douglas-fairbanks-movies-in-order/"
+slug: "/movies/all-douglas-fairbanks-movies-in-order/"
 
 excerpt: ""
 

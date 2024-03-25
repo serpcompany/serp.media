@@ -4,7 +4,7 @@ title: "All 71 Billy Drago Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-71-billy-drago-movies-in-order/"
+slug: "/movies/all-billy-drago-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 115 Debbie Reynolds Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-115-debbie-reynolds-movies-in-order/"
+slug: "/movies/all-debbie-reynolds-movies-in-order/"
 
 excerpt: ""
 

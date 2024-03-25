@@ -4,7 +4,7 @@ title: "All 48 Christopher Heyerdahl Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-48-christopher-heyerdahl-movies-in-order/"
+slug: "/movies/all-christopher-heyerdahl-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 16 Alex Meraz Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-alex-meraz-movies-in-order/"
+slug: "/movies/all-alex-meraz-movies-in-order/"
 
 excerpt: ""
 

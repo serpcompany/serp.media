@@ -4,7 +4,7 @@ title: "All 56 Cheryl Ladd Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-56-cheryl-ladd-movies-in-order/"
+slug: "/movies/all-cheryl-ladd-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 87 David Koechner Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-87-david-koechner-movies-in-order/"
+slug: "/movies/all-david-koechner-movies-in-order/"
 
 excerpt: ""
 

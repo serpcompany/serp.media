@@ -4,7 +4,7 @@ title: "All 60 Deep Roy Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-60-deep-roy-movies-in-order/"
+slug: "/movies/all-deep-roy-movies-in-order/"
 
 excerpt: ""
 

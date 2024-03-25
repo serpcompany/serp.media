@@ -4,7 +4,7 @@ title: "All 14 Brad Anderson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-14-brad-anderson-movies-in-order/"
+slug: "/movies/all-brad-anderson-movies-in-order/"
 
 excerpt: ""
 

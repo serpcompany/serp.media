@@ -4,7 +4,7 @@ title: "All 28 Alyson Hannigan Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-28-alyson-hannigan-movies-in-order/"
+slug: "/movies/all-alyson-hannigan-movies-in-order/"
 
 excerpt: ""
 

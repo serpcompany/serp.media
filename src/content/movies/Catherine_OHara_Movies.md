@@ -4,7 +4,7 @@ title: "All 62 Catherine OHara Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-62-catherine-ohara-movies-in-order/"
+slug: "/movies/all-catherine-ohara-movies-in-order/"
 
 excerpt: ""
 

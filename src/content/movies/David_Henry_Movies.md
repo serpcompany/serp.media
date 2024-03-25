@@ -4,7 +4,7 @@ title: "All 21 David Henry Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-21-david-henry-movies-in-order/"
+slug: "/movies/all-david-henry-movies-in-order/"
 
 excerpt: ""
 

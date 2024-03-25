@@ -4,7 +4,7 @@ title: "All 52 Dennis Morgan Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-52-dennis-morgan-movies-in-order/"
+slug: "/movies/all-dennis-morgan-movies-in-order/"
 
 excerpt: ""
 

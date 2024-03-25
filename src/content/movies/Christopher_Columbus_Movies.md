@@ -4,7 +4,7 @@ title: "All 55 Christopher Columbus Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-55-christopher-columbus-movies-in-order/"
+slug: "/movies/all-christopher-columbus-movies-in-order/"
 
 excerpt: ""
 

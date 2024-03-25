@@ -4,7 +4,7 @@ title: "All 20 Anthony Bourdain Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-20-anthony-bourdain-movies-in-order/"
+slug: "/movies/all-anthony-bourdain-movies-in-order/"
 
 excerpt: ""
 

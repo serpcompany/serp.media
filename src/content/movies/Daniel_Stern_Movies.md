@@ -4,7 +4,7 @@ title: "All 54 Daniel Stern Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-54-daniel-stern-movies-in-order/"
+slug: "/movies/all-daniel-stern-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 65 Candice Bergen Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-65-candice-bergen-movies-in-order/"
+slug: "/movies/all-candice-bergen-movies-in-order/"
 
 excerpt: ""
 

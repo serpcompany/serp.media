@@ -4,7 +4,7 @@ title: "All 12 Chris Zylka Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-12-chris-zylka-movies-in-order/"
+slug: "/movies/all-chris-zylka-movies-in-order/"
 
 excerpt: ""
 

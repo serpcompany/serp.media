@@ -4,7 +4,7 @@ title: "All 10 Destin Daniel Cretton Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-10-destin-daniel-cretton-movies-in-order/"
+slug: "/movies/all-destin-daniel-cretton-movies-in-order/"
 
 excerpt: ""
 

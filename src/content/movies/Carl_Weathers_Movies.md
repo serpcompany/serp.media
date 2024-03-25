@@ -4,7 +4,7 @@ title: "All 42 Carl Weathers Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-42-carl-weathers-movies-in-order/"
+slug: "/movies/all-carl-weathers-movies-in-order/"
 
 excerpt: ""
 

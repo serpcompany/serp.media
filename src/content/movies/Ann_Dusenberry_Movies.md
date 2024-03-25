@@ -4,7 +4,7 @@ title: "All 20 Ann Dusenberry Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-20-ann-dusenberry-movies-in-order/"
+slug: "/movies/all-ann-dusenberry-movies-in-order/"
 
 excerpt: ""
 

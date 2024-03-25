@@ -4,7 +4,7 @@ title: "All 44 Charles Laughton Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-44-charles-laughton-movies-in-order/"
+slug: "/movies/all-charles-laughton-movies-in-order/"
 
 excerpt: ""
 

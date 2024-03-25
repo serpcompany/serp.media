@@ -4,7 +4,7 @@ title: "All 14 Chad Donella Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-14-chad-donella-movies-in-order/"
+slug: "/movies/all-chad-donella-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 42 Barry Pepper Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-42-barry-pepper-movies-in-order/"
+slug: "/movies/all-barry-pepper-movies-in-order/"
 
 excerpt: ""
 

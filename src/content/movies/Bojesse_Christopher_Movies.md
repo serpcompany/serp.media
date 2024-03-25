@@ -4,7 +4,7 @@ title: "All 33 Bojesse Christopher Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-33-bojesse-christopher-movies-in-order/"
+slug: "/movies/all-bojesse-christopher-movies-in-order/"
 
 excerpt: ""
 

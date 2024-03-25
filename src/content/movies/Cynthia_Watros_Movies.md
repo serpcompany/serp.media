@@ -4,7 +4,7 @@ title: "All 23 Cynthia Watros Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-23-cynthia-watros-movies-in-order/"
+slug: "/movies/all-cynthia-watros-movies-in-order/"
 
 excerpt: ""
 

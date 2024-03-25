@@ -4,7 +4,7 @@ title: "All 89 Clancy Brown Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-89-clancy-brown-movies-in-order/"
+slug: "/movies/all-clancy-brown-movies-in-order/"
 
 excerpt: ""
 

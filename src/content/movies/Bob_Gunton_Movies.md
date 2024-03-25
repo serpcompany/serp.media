@@ -4,7 +4,7 @@ title: "All 77 Bob Gunton Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-77-bob-gunton-movies-in-order/"
+slug: "/movies/all-bob-gunton-movies-in-order/"
 
 excerpt: ""
 

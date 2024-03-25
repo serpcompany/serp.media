@@ -4,7 +4,7 @@ title: "All 34 Corey Taylor Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-34-corey-taylor-movies-in-order/"
+slug: "/movies/all-corey-taylor-movies-in-order/"
 
 excerpt: ""
 

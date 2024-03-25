@@ -4,7 +4,7 @@ title: "All 57 Carla Gugino Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-57-carla-gugino-movies-in-order/"
+slug: "/movies/all-carla-gugino-movies-in-order/"
 
 excerpt: ""
 

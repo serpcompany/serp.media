@@ -4,7 +4,7 @@ title: "All 20 Brant Daugherty Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-20-brant-daugherty-movies-in-order/"
+slug: "/movies/all-brant-daugherty-movies-in-order/"
 
 excerpt: ""
 

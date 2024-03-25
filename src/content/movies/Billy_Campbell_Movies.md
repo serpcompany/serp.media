@@ -4,7 +4,7 @@ title: "All 42 Billy Campbell Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-42-billy-campbell-movies-in-order/"
+slug: "/movies/all-billy-campbell-movies-in-order/"
 
 excerpt: ""
 

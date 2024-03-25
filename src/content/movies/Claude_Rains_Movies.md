@@ -4,7 +4,7 @@ title: "All 71 Claude Rains Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-71-claude-rains-movies-in-order/"
+slug: "/movies/all-claude-rains-movies-in-order/"
 
 excerpt: ""
 

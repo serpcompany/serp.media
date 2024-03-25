@@ -4,7 +4,7 @@ title: "All 105 Dennis Quaid Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-105-dennis-quaid-movies-in-order/"
+slug: "/movies/all-dennis-quaid-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 27 Ashton Kutcher Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-27-ashton-kutcher-movies-in-order/"
+slug: "/movies/all-ashton-kutcher-movies-in-order/"
 
 excerpt: ""
 

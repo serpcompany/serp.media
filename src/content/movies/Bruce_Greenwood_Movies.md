@@ -4,7 +4,7 @@ title: "All 98 Bruce Greenwood Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-98-bruce-greenwood-movies-in-order/"
+slug: "/movies/all-bruce-greenwood-movies-in-order/"
 
 excerpt: ""
 

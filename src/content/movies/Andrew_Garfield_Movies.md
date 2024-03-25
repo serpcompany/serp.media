@@ -4,7 +4,7 @@ title: "All 32 Andrew Garfield Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-32-andrew-garfield-movies-in-order/"
+slug: "/movies/all-andrew-garfield-movies-in-order/"
 
 excerpt: ""
 

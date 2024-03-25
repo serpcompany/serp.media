@@ -4,7 +4,7 @@ title: "All 177 Adam Copeland Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-177-adam-copeland-movies-in-order/"
+slug: "/movies/all-adam-copeland-movies-in-order/"
 
 excerpt: ""
 

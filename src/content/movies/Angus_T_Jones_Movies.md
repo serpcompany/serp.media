@@ -4,7 +4,7 @@ title: "All 11 Angus T Jones Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-11-angus-t-jones-movies-in-order/"
+slug: "/movies/all-angus-t-jones-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 19 Desmond Harrington Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-19-desmond-harrington-movies-in-order/"
+slug: "/movies/all-desmond-harrington-movies-in-order/"
 
 excerpt: ""
 

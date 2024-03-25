@@ -4,7 +4,7 @@ title: "All 31 Barbara Bach Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-31-barbara-bach-movies-in-order/"
+slug: "/movies/all-barbara-bach-movies-in-order/"
 
 excerpt: ""
 

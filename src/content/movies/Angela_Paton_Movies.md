@@ -4,7 +4,7 @@ title: "All 31 Angela Paton Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-31-angela-paton-movies-in-order/"
+slug: "/movies/all-angela-paton-movies-in-order/"
 
 excerpt: ""
 

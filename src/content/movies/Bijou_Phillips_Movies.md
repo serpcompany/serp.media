@@ -4,7 +4,7 @@ title: "All 32 Bijou Phillips Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-32-bijou-phillips-movies-in-order/"
+slug: "/movies/all-bijou-phillips-movies-in-order/"
 
 excerpt: ""
 

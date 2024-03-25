@@ -4,7 +4,7 @@ title: "All 12 Davida Williams Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-12-davida-williams-movies-in-order/"
+slug: "/movies/all-davida-williams-movies-in-order/"
 
 excerpt: ""
 

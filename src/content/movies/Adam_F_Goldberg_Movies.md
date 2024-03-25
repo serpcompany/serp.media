@@ -4,7 +4,7 @@ title: "All 39 Adam F Goldberg Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-39-adam-f-goldberg-movies-in-order/"
+slug: "/movies/all-adam-f-goldberg-movies-in-order/"
 
 excerpt: ""
 

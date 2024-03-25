@@ -4,7 +4,7 @@ title: "All 71 Anne Bancroft Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-71-anne-bancroft-movies-in-order/"
+slug: "/movies/all-anne-bancroft-movies-in-order/"
 
 excerpt: ""
 

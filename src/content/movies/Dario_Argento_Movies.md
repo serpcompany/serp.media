@@ -4,7 +4,7 @@ title: "All 38 Dario Argento Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-38-dario-argento-movies-in-order/"
+slug: "/movies/all-dario-argento-movies-in-order/"
 
 excerpt: ""
 

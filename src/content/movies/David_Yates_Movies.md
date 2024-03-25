@@ -4,7 +4,7 @@ title: "All 19 David Yates Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-19-david-yates-movies-in-order/"
+slug: "/movies/all-david-yates-movies-in-order/"
 
 excerpt: ""
 

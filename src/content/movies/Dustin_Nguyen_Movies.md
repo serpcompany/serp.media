@@ -4,7 +4,7 @@ title: "All 35 Dustin Nguyen Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-35-dustin-nguyen-movies-in-order/"
+slug: "/movies/all-dustin-nguyen-movies-in-order/"
 
 excerpt: ""
 

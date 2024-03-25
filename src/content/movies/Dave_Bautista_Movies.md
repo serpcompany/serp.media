@@ -4,7 +4,7 @@ title: "All 125 Dave Bautista Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-125-dave-bautista-movies-in-order/"
+slug: "/movies/all-dave-bautista-movies-in-order/"
 
 excerpt: ""
 

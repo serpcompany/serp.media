@@ -4,7 +4,7 @@ title: "All 66 Anne Hathaway Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-66-anne-hathaway-movies-in-order/"
+slug: "/movies/all-anne-hathaway-movies-in-order/"
 
 excerpt: ""
 

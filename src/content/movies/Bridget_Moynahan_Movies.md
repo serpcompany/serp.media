@@ -4,7 +4,7 @@ title: "All 23 Bridget Moynahan Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-23-bridget-moynahan-movies-in-order/"
+slug: "/movies/all-bridget-moynahan-movies-in-order/"
 
 excerpt: ""
 

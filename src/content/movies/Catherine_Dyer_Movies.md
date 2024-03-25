@@ -4,7 +4,7 @@ title: "All 30 Catherine Dyer Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-30-catherine-dyer-movies-in-order/"
+slug: "/movies/all-catherine-dyer-movies-in-order/"
 
 excerpt: ""
 

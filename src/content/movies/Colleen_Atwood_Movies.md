@@ -4,7 +4,7 @@ title: "All 80 Colleen Atwood Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-80-colleen-atwood-movies-in-order/"
+slug: "/movies/all-colleen-atwood-movies-in-order/"
 
 excerpt: ""
 

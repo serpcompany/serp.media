@@ -4,7 +4,7 @@ title: "All 90 Armand Assante Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-90-armand-assante-movies-in-order/"
+slug: "/movies/all-armand-assante-movies-in-order/"
 
 excerpt: ""
 

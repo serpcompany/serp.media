@@ -4,7 +4,7 @@ title: "All 66 Adrien Brody Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-66-adrien-brody-movies-in-order/"
+slug: "/movies/all-adrien-brody-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 42 Darren Aronofsky Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-42-darren-aronofsky-movies-in-order/"
+slug: "/movies/all-darren-aronofsky-movies-in-order/"
 
 excerpt: ""
 

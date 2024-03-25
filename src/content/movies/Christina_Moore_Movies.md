@@ -4,7 +4,7 @@ title: "All 26 Christina Moore Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-26-christina-moore-movies-in-order/"
+slug: "/movies/all-christina-moore-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 12 Christy Turlington Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-12-christy-turlington-movies-in-order/"
+slug: "/movies/all-christy-turlington-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 10 Andrew Schulz Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-10-andrew-schulz-movies-in-order/"
+slug: "/movies/all-andrew-schulz-movies-in-order/"
 
 excerpt: ""
 

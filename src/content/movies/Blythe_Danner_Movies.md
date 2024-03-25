@@ -4,7 +4,7 @@ title: "All 82 Blythe Danner Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-82-blythe-danner-movies-in-order/"
+slug: "/movies/all-blythe-danner-movies-in-order/"
 
 excerpt: ""
 

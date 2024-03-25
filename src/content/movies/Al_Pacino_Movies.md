@@ -4,7 +4,7 @@ title: "All 94 Al Pacino Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-94-al-pacino-movies-in-order/"
+slug: "/movies/all-al-pacino-movies-in-order/"
 
 excerpt: ""
 

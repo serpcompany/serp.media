@@ -4,7 +4,7 @@ title: "All 17 Charlie Kaufman Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-17-charlie-kaufman-movies-in-order/"
+slug: "/movies/all-charlie-kaufman-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 38 Christopher Russell Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-38-christopher-russell-movies-in-order/"
+slug: "/movies/all-christopher-russell-movies-in-order/"
 
 excerpt: ""
 

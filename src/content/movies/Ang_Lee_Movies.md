@@ -4,7 +4,7 @@ title: "All 35 Ang Lee Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-35-ang-lee-movies-in-order/"
+slug: "/movies/all-ang-lee-movies-in-order/"
 
 excerpt: ""
 

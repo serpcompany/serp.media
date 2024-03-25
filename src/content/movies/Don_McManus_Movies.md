@@ -4,7 +4,7 @@ title: "All 53 Don McManus Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-53-don-mcmanus-movies-in-order/"
+slug: "/movies/all-don-mcmanus-movies-in-order/"
 
 excerpt: ""
 

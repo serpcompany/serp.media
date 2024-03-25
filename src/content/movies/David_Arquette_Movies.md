@@ -4,7 +4,7 @@ title: "All 92 David Arquette Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-92-david-arquette-movies-in-order/"
+slug: "/movies/all-david-arquette-movies-in-order/"
 
 excerpt: ""
 

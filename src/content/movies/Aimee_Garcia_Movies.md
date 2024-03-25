@@ -4,7 +4,7 @@ title: "All 33 Aimee Garcia Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-33-aimee-garcia-movies-in-order/"
+slug: "/movies/all-aimee-garcia-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 32 Anthony Heald Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-32-anthony-heald-movies-in-order/"
+slug: "/movies/all-anthony-heald-movies-in-order/"
 
 excerpt: ""
 

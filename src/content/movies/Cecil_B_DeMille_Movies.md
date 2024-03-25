@@ -4,7 +4,7 @@ title: "All 90 Cecil B DeMille Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-90-cecil-b-demille-movies-in-order/"
+slug: "/movies/all-cecil-b-demille-movies-in-order/"
 
 excerpt: ""
 

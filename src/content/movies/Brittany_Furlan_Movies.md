@@ -4,7 +4,7 @@ title: "All 11 Brittany Furlan Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-11-brittany-furlan-movies-in-order/"
+slug: "/movies/all-brittany-furlan-movies-in-order/"
 
 excerpt: ""
 

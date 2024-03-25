@@ -4,7 +4,7 @@ title: "All 27 Bug Hall Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-27-bug-hall-movies-in-order/"
+slug: "/movies/all-bug-hall-movies-in-order/"
 
 excerpt: ""
 

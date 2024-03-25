@@ -4,7 +4,7 @@ title: "All 28 Chris Klein Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-28-chris-klein-movies-in-order/"
+slug: "/movies/all-chris-klein-movies-in-order/"
 
 excerpt: ""
 

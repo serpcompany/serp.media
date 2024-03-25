@@ -4,7 +4,7 @@ title: "All 46 Cantinflas Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-46-cantinflas-movies-in-order/"
+slug: "/movies/all-cantinflas-movies-in-order/"
 
 excerpt: ""
 

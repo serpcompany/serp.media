@@ -4,7 +4,7 @@ title: "All 28 Craig muMs Grant Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-28-craig-mums-grant-movies-in-order/"
+slug: "/movies/all-craig-mums-grant-movies-in-order/"
 
 excerpt: ""
 

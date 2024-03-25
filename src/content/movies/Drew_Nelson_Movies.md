@@ -4,7 +4,7 @@ title: "All 24 Drew Nelson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-24-drew-nelson-movies-in-order/"
+slug: "/movies/all-drew-nelson-movies-in-order/"
 
 excerpt: ""
 

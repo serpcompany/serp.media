@@ -4,7 +4,7 @@ title: "All 76 Anita Ekberg Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-76-anita-ekberg-movies-in-order/"
+slug: "/movies/all-anita-ekberg-movies-in-order/"
 
 excerpt: ""
 

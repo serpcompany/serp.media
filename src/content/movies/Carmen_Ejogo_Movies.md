@@ -4,7 +4,7 @@ title: "All 34 Carmen Ejogo Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-34-carmen-ejogo-movies-in-order/"
+slug: "/movies/all-carmen-ejogo-movies-in-order/"
 
 excerpt: ""
 

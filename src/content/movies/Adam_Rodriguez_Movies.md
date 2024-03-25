@@ -4,7 +4,7 @@ title: "All 28 Adam Rodriguez Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-28-adam-rodriguez-movies-in-order/"
+slug: "/movies/all-adam-rodriguez-movies-in-order/"
 
 excerpt: ""
 

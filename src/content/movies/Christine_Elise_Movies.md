@@ -4,7 +4,7 @@ title: "All 27 Christine Elise Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-27-christine-elise-movies-in-order/"
+slug: "/movies/all-christine-elise-movies-in-order/"
 
 excerpt: ""
 

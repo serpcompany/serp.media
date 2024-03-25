@@ -4,7 +4,7 @@ title: "All 39 Diane Venora Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-39-diane-venora-movies-in-order/"
+slug: "/movies/all-diane-venora-movies-in-order/"
 
 excerpt: ""
 

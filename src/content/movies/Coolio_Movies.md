@@ -4,7 +4,7 @@ title: "All 61 Coolio Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-61-coolio-movies-in-order/"
+slug: "/movies/all-coolio-movies-in-order/"
 
 excerpt: ""
 

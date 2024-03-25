@@ -4,7 +4,7 @@ title: "All 13 Chris Eigeman Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-13-chris-eigeman-movies-in-order/"
+slug: "/movies/all-chris-eigeman-movies-in-order/"
 
 excerpt: ""
 

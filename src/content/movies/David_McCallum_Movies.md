@@ -4,7 +4,7 @@ title: "All 47 David McCallum Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-47-david-mccallum-movies-in-order/"
+slug: "/movies/all-david-mccallum-movies-in-order/"
 
 excerpt: ""
 

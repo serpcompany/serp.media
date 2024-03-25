@@ -4,7 +4,7 @@ title: "All 46 Colin Salmon Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-46-colin-salmon-movies-in-order/"
+slug: "/movies/all-colin-salmon-movies-in-order/"
 
 excerpt: ""
 

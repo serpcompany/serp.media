@@ -4,7 +4,7 @@ title: "All 112 Alice Cooper Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-112-alice-cooper-movies-in-order/"
+slug: "/movies/all-alice-cooper-movies-in-order/"
 
 excerpt: ""
 

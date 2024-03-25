@@ -4,7 +4,7 @@ title: "All 19 Bobby Edner Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-19-bobby-edner-movies-in-order/"
+slug: "/movies/all-bobby-edner-movies-in-order/"
 
 excerpt: ""
 

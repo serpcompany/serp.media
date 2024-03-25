@@ -4,7 +4,7 @@ title: "All 19 Billy Eichner Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-19-billy-eichner-movies-in-order/"
+slug: "/movies/all-billy-eichner-movies-in-order/"
 
 excerpt: ""
 

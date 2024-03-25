@@ -4,7 +4,7 @@ title: "All 146 David Carradine Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-146-david-carradine-movies-in-order/"
+slug: "/movies/all-david-carradine-movies-in-order/"
 
 excerpt: ""
 

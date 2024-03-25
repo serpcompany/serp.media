@@ -4,7 +4,7 @@ title: "All 25 Bobby Driscoll Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-25-bobby-driscoll-movies-in-order/"
+slug: "/movies/all-bobby-driscoll-movies-in-order/"
 
 excerpt: ""
 

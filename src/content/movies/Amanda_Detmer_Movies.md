@@ -4,7 +4,7 @@ title: "All 26 Amanda Detmer Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-26-amanda-detmer-movies-in-order/"
+slug: "/movies/all-amanda-detmer-movies-in-order/"
 
 excerpt: ""
 

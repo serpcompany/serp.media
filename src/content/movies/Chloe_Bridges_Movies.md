@@ -4,7 +4,7 @@ title: "All 15 Chloe Bridges Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-15-chloe-bridges-movies-in-order/"
+slug: "/movies/all-chloe-bridges-movies-in-order/"
 
 excerpt: ""
 

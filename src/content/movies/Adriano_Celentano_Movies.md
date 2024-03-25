@@ -4,7 +4,7 @@ title: "All 91 Adriano Celentano Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-91-adriano-celentano-movies-in-order/"
+slug: "/movies/all-adriano-celentano-movies-in-order/"
 
 excerpt: ""
 

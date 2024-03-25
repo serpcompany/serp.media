@@ -4,7 +4,7 @@ title: "All 38 Devon Bostick Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-38-devon-bostick-movies-in-order/"
+slug: "/movies/all-devon-bostick-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 30 Danny Masterson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-30-danny-masterson-movies-in-order/"
+slug: "/movies/all-danny-masterson-movies-in-order/"
 
 excerpt: ""
 

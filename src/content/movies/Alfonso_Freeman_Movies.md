@@ -4,7 +4,7 @@ title: "All 14 Alfonso Freeman Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-14-alfonso-freeman-movies-in-order/"
+slug: "/movies/all-alfonso-freeman-movies-in-order/"
 
 excerpt: ""
 

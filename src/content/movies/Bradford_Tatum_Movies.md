@@ -4,7 +4,7 @@ title: "All 14 Bradford Tatum Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-14-bradford-tatum-movies-in-order/"
+slug: "/movies/all-bradford-tatum-movies-in-order/"
 
 excerpt: ""
 

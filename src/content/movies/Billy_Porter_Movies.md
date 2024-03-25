@@ -4,7 +4,7 @@ title: "All 35 Billy Porter Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-35-billy-porter-movies-in-order/"
+slug: "/movies/all-billy-porter-movies-in-order/"
 
 excerpt: ""
 

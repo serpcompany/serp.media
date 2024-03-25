@@ -4,7 +4,7 @@ title: "All 37 Dan Stevens Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-37-dan-stevens-movies-in-order/"
+slug: "/movies/all-dan-stevens-movies-in-order/"
 
 excerpt: ""
 

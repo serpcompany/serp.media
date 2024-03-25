@@ -4,7 +4,7 @@ title: "All 75 Costas Mandylor Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-75-costas-mandylor-movies-in-order/"
+slug: "/movies/all-costas-mandylor-movies-in-order/"
 
 excerpt: ""
 

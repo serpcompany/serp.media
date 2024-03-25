@@ -4,7 +4,7 @@ title: "All 25 Dua Lipa Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-25-dua-lipa-movies-in-order/"
+slug: "/movies/all-dua-lipa-movies-in-order/"
 
 excerpt: ""
 

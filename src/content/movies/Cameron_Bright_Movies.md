@@ -4,7 +4,7 @@ title: "All 23 Cameron Bright Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-23-cameron-bright-movies-in-order/"
+slug: "/movies/all-cameron-bright-movies-in-order/"
 
 excerpt: ""
 

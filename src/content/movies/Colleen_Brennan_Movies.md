@@ -4,7 +4,7 @@ title: "All 30 Colleen Brennan Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-30-colleen-brennan-movies-in-order/"
+slug: "/movies/all-colleen-brennan-movies-in-order/"
 
 excerpt: ""
 

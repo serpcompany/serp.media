@@ -4,7 +4,7 @@ title: "All 71 Andy Serkis Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-71-andy-serkis-movies-in-order/"
+slug: "/movies/all-andy-serkis-movies-in-order/"
 
 excerpt: ""
 

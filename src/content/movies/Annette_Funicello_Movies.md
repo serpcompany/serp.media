@@ -4,7 +4,7 @@ title: "All 44 Annette Funicello Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-44-annette-funicello-movies-in-order/"
+slug: "/movies/all-annette-funicello-movies-in-order/"
 
 excerpt: ""
 

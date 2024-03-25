@@ -4,7 +4,7 @@ title: "All 18 Benjamin Hollingsworth Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-18-benjamin-hollingsworth-movies-in-order/"
+slug: "/movies/all-benjamin-hollingsworth-movies-in-order/"
 
 excerpt: ""
 

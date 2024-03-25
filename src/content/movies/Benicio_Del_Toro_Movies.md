@@ -4,7 +4,7 @@ title: "All 72 Benicio Del Toro Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-72-benicio-del-toro-movies-in-order/"
+slug: "/movies/all-benicio-del-toro-movies-in-order/"
 
 excerpt: ""
 

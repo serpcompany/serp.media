@@ -4,7 +4,7 @@ title: "All 17 Boots Riley Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-17-boots-riley-movies-in-order/"
+slug: "/movies/all-boots-riley-movies-in-order/"
 
 excerpt: ""
 

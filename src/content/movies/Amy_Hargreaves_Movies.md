@@ -4,7 +4,7 @@ title: "All 30 Amy Hargreaves Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-30-amy-hargreaves-movies-in-order/"
+slug: "/movies/all-amy-hargreaves-movies-in-order/"
 
 excerpt: ""
 

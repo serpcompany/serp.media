@@ -4,7 +4,7 @@ title: "All 10 Conor McGregor Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-10-conor-mcgregor-movies-in-order/"
+slug: "/movies/all-conor-mcgregor-movies-in-order/"
 
 excerpt: ""
 

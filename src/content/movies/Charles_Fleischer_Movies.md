@@ -4,7 +4,7 @@ title: "All 48 Charles Fleischer Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-48-charles-fleischer-movies-in-order/"
+slug: "/movies/all-charles-fleischer-movies-in-order/"
 
 excerpt: ""
 

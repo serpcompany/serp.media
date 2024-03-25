@@ -4,7 +4,7 @@ title: "All 36 Carel Struycken Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-36-carel-struycken-movies-in-order/"
+slug: "/movies/all-carel-struycken-movies-in-order/"
 
 excerpt: ""
 

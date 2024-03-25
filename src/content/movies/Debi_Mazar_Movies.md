@@ -4,7 +4,7 @@ title: "All 56 Debi Mazar Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-56-debi-mazar-movies-in-order/"
+slug: "/movies/all-debi-mazar-movies-in-order/"
 
 excerpt: ""
 

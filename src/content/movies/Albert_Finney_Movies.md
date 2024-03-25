@@ -4,7 +4,7 @@ title: "All 58 Albert Finney Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-58-albert-finney-movies-in-order/"
+slug: "/movies/all-albert-finney-movies-in-order/"
 
 excerpt: ""
 

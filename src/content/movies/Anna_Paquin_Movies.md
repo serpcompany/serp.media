@@ -4,7 +4,7 @@ title: "All 39 Anna Paquin Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-39-anna-paquin-movies-in-order/"
+slug: "/movies/all-anna-paquin-movies-in-order/"
 
 excerpt: ""
 

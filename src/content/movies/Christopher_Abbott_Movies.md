@@ -4,7 +4,7 @@ title: "All 29 Christopher Abbott Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-29-christopher-abbott-movies-in-order/"
+slug: "/movies/all-christopher-abbott-movies-in-order/"
 
 excerpt: ""
 

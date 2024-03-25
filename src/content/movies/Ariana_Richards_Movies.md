@@ -4,7 +4,7 @@ title: "All 20 Ariana Richards Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-20-ariana-richards-movies-in-order/"
+slug: "/movies/all-ariana-richards-movies-in-order/"
 
 excerpt: ""
 

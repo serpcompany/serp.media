@@ -4,7 +4,7 @@ title: "All 29 Ashley Bell Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-29-ashley-bell-movies-in-order/"
+slug: "/movies/all-ashley-bell-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 15 Alex Proyas Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-15-alex-proyas-movies-in-order/"
+slug: "/movies/all-alex-proyas-movies-in-order/"
 
 excerpt: ""
 

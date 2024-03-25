@@ -4,7 +4,7 @@ title: "All 35 Adrienne King Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-35-adrienne-king-movies-in-order/"
+slug: "/movies/all-adrienne-king-movies-in-order/"
 
 excerpt: ""
 

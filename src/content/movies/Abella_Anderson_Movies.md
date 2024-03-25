@@ -4,7 +4,7 @@ title: "All 11 Abella Anderson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-11-abella-anderson-movies-in-order/"
+slug: "/movies/all-abella-anderson-movies-in-order/"
 
 excerpt: ""
 

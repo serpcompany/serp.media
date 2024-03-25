@@ -4,7 +4,7 @@ title: "All 10 Dallas Jenkins Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-10-dallas-jenkins-movies-in-order/"
+slug: "/movies/all-dallas-jenkins-movies-in-order/"
 
 excerpt: ""
 

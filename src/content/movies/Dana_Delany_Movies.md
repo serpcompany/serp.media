@@ -4,7 +4,7 @@ title: "All 51 Dana Delany Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-51-dana-delany-movies-in-order/"
+slug: "/movies/all-dana-delany-movies-in-order/"
 
 excerpt: ""
 

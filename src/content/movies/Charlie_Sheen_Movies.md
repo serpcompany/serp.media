@@ -4,7 +4,7 @@ title: "All 88 Charlie Sheen Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-88-charlie-sheen-movies-in-order/"
+slug: "/movies/all-charlie-sheen-movies-in-order/"
 
 excerpt: ""
 

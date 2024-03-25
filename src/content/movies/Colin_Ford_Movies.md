@@ -4,7 +4,7 @@ title: "All 26 Colin Ford Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-26-colin-ford-movies-in-order/"
+slug: "/movies/all-colin-ford-movies-in-order/"
 
 excerpt: ""
 

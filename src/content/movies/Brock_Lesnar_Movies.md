@@ -4,7 +4,7 @@ title: "All 74 Brock Lesnar Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-74-brock-lesnar-movies-in-order/"
+slug: "/movies/all-brock-lesnar-movies-in-order/"
 
 excerpt: ""
 

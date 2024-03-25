@@ -4,7 +4,7 @@ title: "All 70 Bud Spencer Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-70-bud-spencer-movies-in-order/"
+slug: "/movies/all-bud-spencer-movies-in-order/"
 
 excerpt: ""
 

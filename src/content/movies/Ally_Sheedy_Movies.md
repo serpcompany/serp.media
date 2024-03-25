@@ -4,7 +4,7 @@ title: "All 79 Ally Sheedy Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-79-ally-sheedy-movies-in-order/"
+slug: "/movies/all-ally-sheedy-movies-in-order/"
 
 excerpt: ""
 

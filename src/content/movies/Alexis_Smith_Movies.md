@@ -4,7 +4,7 @@ title: "All 37 Alexis Smith Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-37-alexis-smith-movies-in-order/"
+slug: "/movies/all-alexis-smith-movies-in-order/"
 
 excerpt: ""
 

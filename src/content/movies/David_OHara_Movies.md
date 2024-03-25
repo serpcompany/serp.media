@@ -4,7 +4,7 @@ title: "All 45 David OHara Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-45-david-ohara-movies-in-order/"
+slug: "/movies/all-david-ohara-movies-in-order/"
 
 excerpt: ""
 

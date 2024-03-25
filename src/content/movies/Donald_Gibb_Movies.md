@@ -4,7 +4,7 @@ title: "All 32 Donald Gibb Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-32-donald-gibb-movies-in-order/"
+slug: "/movies/all-donald-gibb-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 50 Benny Blanco Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-50-benny-blanco-movies-in-order/"
+slug: "/movies/all-benny-blanco-movies-in-order/"
 
 excerpt: ""
 

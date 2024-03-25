@@ -4,7 +4,7 @@ title: "All 83 Dabney Coleman Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-83-dabney-coleman-movies-in-order/"
+slug: "/movies/all-dabney-coleman-movies-in-order/"
 
 excerpt: ""
 

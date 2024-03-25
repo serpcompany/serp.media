@@ -4,7 +4,7 @@ title: "All 37 Betty Hutton Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-37-betty-hutton-movies-in-order/"
+slug: "/movies/all-betty-hutton-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 17 Barry Williams Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-17-barry-williams-movies-in-order/"
+slug: "/movies/all-barry-williams-movies-in-order/"
 
 excerpt: ""
 

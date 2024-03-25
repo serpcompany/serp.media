@@ -4,7 +4,7 @@ title: "All 47 David Oyelowo Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-47-david-oyelowo-movies-in-order/"
+slug: "/movies/all-david-oyelowo-movies-in-order/"
 
 excerpt: ""
 

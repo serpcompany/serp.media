@@ -4,7 +4,7 @@ title: "All 68 Carmen Electra Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-68-carmen-electra-movies-in-order/"
+slug: "/movies/all-carmen-electra-movies-in-order/"
 
 excerpt: ""
 

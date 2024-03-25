@@ -4,7 +4,7 @@ title: "All 111 Angela Bassett Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-111-angela-bassett-movies-in-order/"
+slug: "/movies/all-angela-bassett-movies-in-order/"
 
 excerpt: ""
 

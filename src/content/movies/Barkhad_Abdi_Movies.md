@@ -4,7 +4,7 @@ title: "All 12 Barkhad Abdi Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-12-barkhad-abdi-movies-in-order/"
+slug: "/movies/all-barkhad-abdi-movies-in-order/"
 
 excerpt: ""
 

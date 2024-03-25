@@ -4,7 +4,7 @@ title: "All 36 Angela Bettis Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-36-angela-bettis-movies-in-order/"
+slug: "/movies/all-angela-bettis-movies-in-order/"
 
 excerpt: ""
 

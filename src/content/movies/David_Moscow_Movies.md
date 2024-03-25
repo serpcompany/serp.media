@@ -4,7 +4,7 @@ title: "All 48 David Moscow Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-48-david-moscow-movies-in-order/"
+slug: "/movies/all-david-moscow-movies-in-order/"
 
 excerpt: ""
 

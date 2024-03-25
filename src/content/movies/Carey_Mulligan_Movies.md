@@ -4,7 +4,7 @@ title: "All 31 Carey Mulligan Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-31-carey-mulligan-movies-in-order/"
+slug: "/movies/all-carey-mulligan-movies-in-order/"
 
 excerpt: ""
 

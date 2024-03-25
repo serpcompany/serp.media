@@ -4,7 +4,7 @@ title: "All 58 Bill Goldberg Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-58-bill-goldberg-movies-in-order/"
+slug: "/movies/all-bill-goldberg-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 11 David Clayton Rogers Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-11-david-clayton-rogers-movies-in-order/"
+slug: "/movies/all-david-clayton-rogers-movies-in-order/"
 
 excerpt: ""
 

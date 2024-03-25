@@ -4,7 +4,7 @@ title: "All 15 Charlie Tahan Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-15-charlie-tahan-movies-in-order/"
+slug: "/movies/all-charlie-tahan-movies-in-order/"
 
 excerpt: ""
 

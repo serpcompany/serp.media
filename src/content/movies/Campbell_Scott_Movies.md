@@ -4,7 +4,7 @@ title: "All 59 Campbell Scott Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-59-campbell-scott-movies-in-order/"
+slug: "/movies/all-campbell-scott-movies-in-order/"
 
 excerpt: ""
 

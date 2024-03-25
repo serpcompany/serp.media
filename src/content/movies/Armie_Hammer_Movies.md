@@ -4,7 +4,7 @@ title: "All 29 Armie Hammer Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-29-armie-hammer-movies-in-order/"
+slug: "/movies/all-armie-hammer-movies-in-order/"
 
 excerpt: ""
 

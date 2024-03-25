@@ -4,7 +4,7 @@ title: "All 32 Brett Gelman Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-32-brett-gelman-movies-in-order/"
+slug: "/movies/all-brett-gelman-movies-in-order/"
 
 excerpt: ""
 

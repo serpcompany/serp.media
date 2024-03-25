@@ -4,7 +4,7 @@ title: "All 42 Dave Matthews Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-42-dave-matthews-movies-in-order/"
+slug: "/movies/all-dave-matthews-movies-in-order/"
 
 excerpt: ""
 

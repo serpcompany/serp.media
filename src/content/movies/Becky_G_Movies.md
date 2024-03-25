@@ -4,7 +4,7 @@ title: "All 26 Becky G Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-26-becky-g-movies-in-order/"
+slug: "/movies/all-becky-g-movies-in-order/"
 
 excerpt: ""
 

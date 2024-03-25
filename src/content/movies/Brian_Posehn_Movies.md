@@ -4,7 +4,7 @@ title: "All 45 Brian Posehn Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-45-brian-posehn-movies-in-order/"
+slug: "/movies/all-brian-posehn-movies-in-order/"
 
 excerpt: ""
 

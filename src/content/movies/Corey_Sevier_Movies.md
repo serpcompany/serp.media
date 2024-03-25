@@ -4,7 +4,7 @@ title: "All 65 Corey Sevier Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-65-corey-sevier-movies-in-order/"
+slug: "/movies/all-corey-sevier-movies-in-order/"
 
 excerpt: ""
 

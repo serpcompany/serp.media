@@ -4,7 +4,7 @@ title: "All 82 Christopher Lambert Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-82-christopher-lambert-movies-in-order/"
+slug: "/movies/all-christopher-lambert-movies-in-order/"
 
 excerpt: ""
 

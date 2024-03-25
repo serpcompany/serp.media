@@ -4,7 +4,7 @@ title: "All 25 Alia Bhatt Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-25-alia-bhatt-movies-in-order/"
+slug: "/movies/all-alia-bhatt-movies-in-order/"
 
 excerpt: ""
 

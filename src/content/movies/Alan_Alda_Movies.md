@@ -4,7 +4,7 @@ title: "All 62 Alan Alda Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-62-alan-alda-movies-in-order/"
+slug: "/movies/all-alan-alda-movies-in-order/"
 
 excerpt: ""
 

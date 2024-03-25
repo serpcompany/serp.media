@@ -4,7 +4,7 @@ title: "All 62 Chazz Palminteri Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-62-chazz-palminteri-movies-in-order/"
+slug: "/movies/all-chazz-palminteri-movies-in-order/"
 
 excerpt: ""
 

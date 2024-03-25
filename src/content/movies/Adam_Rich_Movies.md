@@ -4,7 +4,7 @@ title: "All 124 Adam Rich Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-124-adam-rich-movies-in-order/"
+slug: "/movies/all-adam-rich-movies-in-order/"
 
 excerpt: ""
 

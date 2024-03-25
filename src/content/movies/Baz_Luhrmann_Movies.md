@@ -4,7 +4,7 @@ title: "All 29 Baz Luhrmann Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-29-baz-luhrmann-movies-in-order/"
+slug: "/movies/all-baz-luhrmann-movies-in-order/"
 
 excerpt: ""
 

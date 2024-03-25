@@ -4,7 +4,7 @@ title: "All 20 Camila Cabello Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-20-camila-cabello-movies-in-order/"
+slug: "/movies/all-camila-cabello-movies-in-order/"
 
 excerpt: ""
 

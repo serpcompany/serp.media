@@ -4,7 +4,7 @@ title: "All 16 Barry Miller Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-barry-miller-movies-in-order/"
+slug: "/movies/all-barry-miller-movies-in-order/"
 
 excerpt: ""
 

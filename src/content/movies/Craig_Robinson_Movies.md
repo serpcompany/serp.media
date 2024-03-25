@@ -4,7 +4,7 @@ title: "All 43 Craig Robinson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-43-craig-robinson-movies-in-order/"
+slug: "/movies/all-craig-robinson-movies-in-order/"
 
 excerpt: ""
 

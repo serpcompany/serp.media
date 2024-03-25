@@ -4,7 +4,7 @@ title: "All 53 David Krumholtz Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-53-david-krumholtz-movies-in-order/"
+slug: "/movies/all-david-krumholtz-movies-in-order/"
 
 excerpt: ""
 

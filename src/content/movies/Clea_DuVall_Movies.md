@@ -4,7 +4,7 @@ title: "All 51 Clea DuVall Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-51-clea-duvall-movies-in-order/"
+slug: "/movies/all-clea-duvall-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 71 Barry Levinson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-71-barry-levinson-movies-in-order/"
+slug: "/movies/all-barry-levinson-movies-in-order/"
 
 excerpt: ""
 

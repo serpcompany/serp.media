@@ -4,7 +4,7 @@ title: "All 194 Danny Glover Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-194-danny-glover-movies-in-order/"
+slug: "/movies/all-danny-glover-movies-in-order/"
 
 excerpt: ""
 

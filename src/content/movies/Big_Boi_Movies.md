@@ -4,7 +4,7 @@ title: "All 71 Big Boi Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-71-big-boi-movies-in-order/"
+slug: "/movies/all-big-boi-movies-in-order/"
 
 excerpt: ""
 

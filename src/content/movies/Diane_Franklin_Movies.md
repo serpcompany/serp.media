@@ -4,7 +4,7 @@ title: "All 20 Diane Franklin Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-20-diane-franklin-movies-in-order/"
+slug: "/movies/all-diane-franklin-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 73 Ariadna Gil Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-73-ariadna-gil-movies-in-order/"
+slug: "/movies/all-ariadna-gil-movies-in-order/"
 
 excerpt: ""
 

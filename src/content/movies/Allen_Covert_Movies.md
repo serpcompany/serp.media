@@ -4,7 +4,7 @@ title: "All 46 Allen Covert Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-46-allen-covert-movies-in-order/"
+slug: "/movies/all-allen-covert-movies-in-order/"
 
 excerpt: ""
 

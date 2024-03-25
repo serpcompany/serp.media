@@ -4,7 +4,7 @@ title: "All 26 Debby Ryan Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-26-debby-ryan-movies-in-order/"
+slug: "/movies/all-debby-ryan-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 52 David Morrissey Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-52-david-morrissey-movies-in-order/"
+slug: "/movies/all-david-morrissey-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 34 America Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-34-america-movies-in-order/"
+slug: "/movies/all-america-movies-in-order/"
 
 excerpt: ""
 

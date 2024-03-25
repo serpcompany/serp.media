@@ -4,7 +4,7 @@ title: "All 14 Allen Hughes Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-14-allen-hughes-movies-in-order/"
+slug: "/movies/all-allen-hughes-movies-in-order/"
 
 excerpt: ""
 

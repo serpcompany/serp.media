@@ -4,7 +4,7 @@ title: "All 22 Don Bluth Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-22-don-bluth-movies-in-order/"
+slug: "/movies/all-don-bluth-movies-in-order/"
 
 excerpt: ""
 

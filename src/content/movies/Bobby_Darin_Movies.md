@@ -4,7 +4,7 @@ title: "All 78 Bobby Darin Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-78-bobby-darin-movies-in-order/"
+slug: "/movies/all-bobby-darin-movies-in-order/"
 
 excerpt: ""
 

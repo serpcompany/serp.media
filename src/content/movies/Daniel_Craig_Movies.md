@@ -4,7 +4,7 @@ title: "All 65 Daniel Craig Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-65-daniel-craig-movies-in-order/"
+slug: "/movies/all-daniel-craig-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 53 Alfonso Arau Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-53-alfonso-arau-movies-in-order/"
+slug: "/movies/all-alfonso-arau-movies-in-order/"
 
 excerpt: ""
 

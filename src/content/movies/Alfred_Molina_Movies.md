@@ -4,7 +4,7 @@ title: "All 116 Alfred Molina Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-116-alfred-molina-movies-in-order/"
+slug: "/movies/all-alfred-molina-movies-in-order/"
 
 excerpt: ""
 

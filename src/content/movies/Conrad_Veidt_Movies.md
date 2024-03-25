@@ -4,7 +4,7 @@ title: "All 68 Conrad Veidt Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-68-conrad-veidt-movies-in-order/"
+slug: "/movies/all-conrad-veidt-movies-in-order/"
 
 excerpt: ""
 

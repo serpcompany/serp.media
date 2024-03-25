@@ -4,7 +4,7 @@ title: "All 22 Adrienne Shelly Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-22-adrienne-shelly-movies-in-order/"
+slug: "/movies/all-adrienne-shelly-movies-in-order/"
 
 excerpt: ""
 

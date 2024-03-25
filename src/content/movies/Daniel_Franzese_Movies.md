@@ -4,7 +4,7 @@ title: "All 24 Daniel Franzese Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-24-daniel-franzese-movies-in-order/"
+slug: "/movies/all-daniel-franzese-movies-in-order/"
 
 excerpt: ""
 

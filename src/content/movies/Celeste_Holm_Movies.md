@@ -4,7 +4,7 @@ title: "All 48 Celeste Holm Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-48-celeste-holm-movies-in-order/"
+slug: "/movies/all-celeste-holm-movies-in-order/"
 
 excerpt: ""
 

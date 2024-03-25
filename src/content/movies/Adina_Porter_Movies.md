@@ -4,7 +4,7 @@ title: "All 16 Adina Porter Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-adina-porter-movies-in-order/"
+slug: "/movies/all-adina-porter-movies-in-order/"
 
 excerpt: ""
 

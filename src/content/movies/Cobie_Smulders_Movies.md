@@ -4,7 +4,7 @@ title: "All 28 Cobie Smulders Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-28-cobie-smulders-movies-in-order/"
+slug: "/movies/all-cobie-smulders-movies-in-order/"
 
 excerpt: ""
 

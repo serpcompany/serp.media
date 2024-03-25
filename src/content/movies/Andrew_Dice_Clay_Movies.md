@@ -4,7 +4,7 @@ title: "All 35 Andrew Dice Clay Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-35-andrew-dice-clay-movies-in-order/"
+slug: "/movies/all-andrew-dice-clay-movies-in-order/"
 
 excerpt: ""
 

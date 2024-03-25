@@ -4,7 +4,7 @@ title: "All 27 Bill Skarsgard Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-27-bill-skarsgard-movies-in-order/"
+slug: "/movies/all-bill-skarsgard-movies-in-order/"
 
 excerpt: ""
 

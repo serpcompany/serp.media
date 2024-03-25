@@ -4,7 +4,7 @@ title: "All 74 Alan Cumming Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-74-alan-cumming-movies-in-order/"
+slug: "/movies/all-alan-cumming-movies-in-order/"
 
 excerpt: ""
 

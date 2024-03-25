@@ -4,7 +4,7 @@ title: "All 24 Dawn Halfkenny Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-24-dawn-halfkenny-movies-in-order/"
+slug: "/movies/all-dawn-halfkenny-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 31 Alan J Pakula Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-31-alan-j-pakula-movies-in-order/"
+slug: "/movies/all-alan-j-pakula-movies-in-order/"
 
 excerpt: ""
 

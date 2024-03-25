@@ -4,7 +4,7 @@ title: "All 17 Alana Haim Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-17-alana-haim-movies-in-order/"
+slug: "/movies/all-alana-haim-movies-in-order/"
 
 excerpt: ""
 

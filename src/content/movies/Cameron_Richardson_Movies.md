@@ -4,7 +4,7 @@ title: "All 26 Cameron Richardson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-26-cameron-richardson-movies-in-order/"
+slug: "/movies/all-cameron-richardson-movies-in-order/"
 
 excerpt: ""
 

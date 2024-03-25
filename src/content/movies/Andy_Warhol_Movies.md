@@ -4,7 +4,7 @@ title: "All 69 Andy Warhol Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-69-andy-warhol-movies-in-order/"
+slug: "/movies/all-andy-warhol-movies-in-order/"
 
 excerpt: ""
 

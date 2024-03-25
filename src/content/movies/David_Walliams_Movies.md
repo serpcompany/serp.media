@@ -4,7 +4,7 @@ title: "All 35 David Walliams Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-35-david-walliams-movies-in-order/"
+slug: "/movies/all-david-walliams-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 11 Ben Richardson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-11-ben-richardson-movies-in-order/"
+slug: "/movies/all-ben-richardson-movies-in-order/"
 
 excerpt: ""
 

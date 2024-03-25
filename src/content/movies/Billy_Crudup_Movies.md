@@ -4,7 +4,7 @@ title: "All 46 Billy Crudup Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-46-billy-crudup-movies-in-order/"
+slug: "/movies/all-billy-crudup-movies-in-order/"
 
 excerpt: ""
 

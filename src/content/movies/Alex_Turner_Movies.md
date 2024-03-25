@@ -4,7 +4,7 @@ title: "All 9 Alex Turner Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-9-alex-turner-movies-in-order/"
+slug: "/movies/all-alex-turner-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 23 Alexis Bledel Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-23-alexis-bledel-movies-in-order/"
+slug: "/movies/all-alexis-bledel-movies-in-order/"
 
 excerpt: ""
 

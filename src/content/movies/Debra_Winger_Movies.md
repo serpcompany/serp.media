@@ -4,7 +4,7 @@ title: "All 38 Debra Winger Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-38-debra-winger-movies-in-order/"
+slug: "/movies/all-debra-winger-movies-in-order/"
 
 excerpt: ""
 

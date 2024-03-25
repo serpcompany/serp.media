@@ -4,7 +4,7 @@ title: "All 15 Arleen Sorkin Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-15-arleen-sorkin-movies-in-order/"
+slug: "/movies/all-arleen-sorkin-movies-in-order/"
 
 excerpt: ""
 

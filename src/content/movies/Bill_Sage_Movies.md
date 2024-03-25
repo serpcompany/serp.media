@@ -4,7 +4,7 @@ title: "All 64 Bill Sage Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-64-bill-sage-movies-in-order/"
+slug: "/movies/all-bill-sage-movies-in-order/"
 
 excerpt: ""
 

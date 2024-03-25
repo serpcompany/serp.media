@@ -4,7 +4,7 @@ title: "All 32 AnnaLynne McCord Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-32-annalynne-mccord-movies-in-order/"
+slug: "/movies/all-annalynne-mccord-movies-in-order/"
 
 excerpt: ""
 

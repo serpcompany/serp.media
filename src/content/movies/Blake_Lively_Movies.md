@@ -4,7 +4,7 @@ title: "All 21 Blake Lively Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-21-blake-lively-movies-in-order/"
+slug: "/movies/all-blake-lively-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 12 Danielle Macdonald Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-12-danielle-macdonald-movies-in-order/"
+slug: "/movies/all-danielle-macdonald-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 21 Corbin Allred Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-21-corbin-allred-movies-in-order/"
+slug: "/movies/all-corbin-allred-movies-in-order/"
 
 excerpt: ""
 

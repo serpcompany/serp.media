@@ -4,7 +4,7 @@ title: "All 27 Diana Lee Inosanto Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-27-diana-lee-inosanto-movies-in-order/"
+slug: "/movies/all-diana-lee-inosanto-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 36 Alison Brie Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-36-alison-brie-movies-in-order/"
+slug: "/movies/all-alison-brie-movies-in-order/"
 
 excerpt: ""
 

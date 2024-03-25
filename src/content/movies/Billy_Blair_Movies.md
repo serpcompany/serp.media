@@ -4,7 +4,7 @@ title: "All 47 Billy Blair Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-47-billy-blair-movies-in-order/"
+slug: "/movies/all-billy-blair-movies-in-order/"
 
 excerpt: ""
 

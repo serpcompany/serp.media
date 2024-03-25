@@ -4,7 +4,7 @@ title: "All 45 Ben Cross Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-45-ben-cross-movies-in-order/"
+slug: "/movies/all-ben-cross-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 30 Bryce Dallas Howard Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-30-bryce-dallas-howard-movies-in-order/"
+slug: "/movies/all-bryce-dallas-howard-movies-in-order/"
 
 excerpt: ""
 

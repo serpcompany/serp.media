@@ -4,7 +4,7 @@ title: "All 12 DJ Pooh Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-12-dj-pooh-movies-in-order/"
+slug: "/movies/all-dj-pooh-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 34 Dave Franco Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-34-dave-franco-movies-in-order/"
+slug: "/movies/all-dave-franco-movies-in-order/"
 
 excerpt: ""
 

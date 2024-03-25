@@ -4,7 +4,7 @@ title: "All 55 Douglas Tait Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-55-douglas-tait-movies-in-order/"
+slug: "/movies/all-douglas-tait-movies-in-order/"
 
 excerpt: ""
 

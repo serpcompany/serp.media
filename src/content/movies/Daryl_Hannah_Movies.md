@@ -4,7 +4,7 @@ title: "All 119 Daryl Hannah Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-119-daryl-hannah-movies-in-order/"
+slug: "/movies/all-daryl-hannah-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 12 Bob Barker Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-12-bob-barker-movies-in-order/"
+slug: "/movies/all-bob-barker-movies-in-order/"
 
 excerpt: ""
 

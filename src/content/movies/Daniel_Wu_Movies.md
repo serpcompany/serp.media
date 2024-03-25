@@ -4,7 +4,7 @@ title: "All 73 Daniel Wu Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-73-daniel-wu-movies-in-order/"
+slug: "/movies/all-daniel-wu-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 16 Alix Angelis Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-alix-angelis-movies-in-order/"
+slug: "/movies/all-alix-angelis-movies-in-order/"
 
 excerpt: ""
 

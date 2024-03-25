@@ -4,7 +4,7 @@ title: "All 19 Dove Cameron Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-19-dove-cameron-movies-in-order/"
+slug: "/movies/all-dove-cameron-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 22 Barbara Mandrell Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-22-barbara-mandrell-movies-in-order/"
+slug: "/movies/all-barbara-mandrell-movies-in-order/"
 
 excerpt: ""
 

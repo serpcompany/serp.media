@@ -4,7 +4,7 @@ title: "All 30 Andrew Keegan Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-30-andrew-keegan-movies-in-order/"
+slug: "/movies/all-andrew-keegan-movies-in-order/"
 
 excerpt: ""
 

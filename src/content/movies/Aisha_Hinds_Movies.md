@@ -4,7 +4,7 @@ title: "All 22 Aisha Hinds Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-22-aisha-hinds-movies-in-order/"
+slug: "/movies/all-aisha-hinds-movies-in-order/"
 
 excerpt: ""
 

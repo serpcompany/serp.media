@@ -4,7 +4,7 @@ title: "All 12 Brooklyn Decker Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-12-brooklyn-decker-movies-in-order/"
+slug: "/movies/all-brooklyn-decker-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 35 David Beckham Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-35-david-beckham-movies-in-order/"
+slug: "/movies/all-david-beckham-movies-in-order/"
 
 excerpt: ""
 

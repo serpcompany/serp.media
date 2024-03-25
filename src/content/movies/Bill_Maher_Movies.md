@@ -4,7 +4,7 @@ title: "All 76 Bill Maher Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-76-bill-maher-movies-in-order/"
+slug: "/movies/all-bill-maher-movies-in-order/"
 
 excerpt: ""
 

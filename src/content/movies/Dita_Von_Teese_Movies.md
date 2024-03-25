@@ -4,7 +4,7 @@ title: "All 20 Dita Von Teese Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-20-dita-von-teese-movies-in-order/"
+slug: "/movies/all-dita-von-teese-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 45 Anthony Franciosa Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-45-anthony-franciosa-movies-in-order/"
+slug: "/movies/all-anthony-franciosa-movies-in-order/"
 
 excerpt: ""
 

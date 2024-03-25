@@ -4,7 +4,7 @@ title: "All 16 David Alpay Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-david-alpay-movies-in-order/"
+slug: "/movies/all-david-alpay-movies-in-order/"
 
 excerpt: ""
 

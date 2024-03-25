@@ -4,7 +4,7 @@ title: "All 74 Anthony Perkins Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-74-anthony-perkins-movies-in-order/"
+slug: "/movies/all-anthony-perkins-movies-in-order/"
 
 excerpt: ""
 

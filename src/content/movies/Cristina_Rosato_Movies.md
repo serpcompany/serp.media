@@ -4,7 +4,7 @@ title: "All 26 Cristina Rosato Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-26-cristina-rosato-movies-in-order/"
+slug: "/movies/all-cristina-rosato-movies-in-order/"
 
 excerpt: ""
 

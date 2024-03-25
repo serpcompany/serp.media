@@ -4,7 +4,7 @@ title: "All 36 Dana Wynter Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-36-dana-wynter-movies-in-order/"
+slug: "/movies/all-dana-wynter-movies-in-order/"
 
 excerpt: ""
 

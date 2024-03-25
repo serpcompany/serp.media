@@ -4,7 +4,7 @@ title: "All 40 Andrew Howard Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-40-andrew-howard-movies-in-order/"
+slug: "/movies/all-andrew-howard-movies-in-order/"
 
 excerpt: ""
 

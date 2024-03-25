@@ -4,7 +4,7 @@ title: "All 29 Apichatpong Weerasethakul Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-29-apichatpong-weerasethakul-movies-in-order/"
+slug: "/movies/all-apichatpong-weerasethakul-movies-in-order/"
 
 excerpt: ""
 

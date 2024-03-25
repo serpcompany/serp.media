@@ -4,7 +4,7 @@ title: "All 44 Craig Wasson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-44-craig-wasson-movies-in-order/"
+slug: "/movies/all-craig-wasson-movies-in-order/"
 
 excerpt: ""
 

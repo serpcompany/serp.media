@@ -4,7 +4,7 @@ title: "All 43 Cam Gigandet Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-43-cam-gigandet-movies-in-order/"
+slug: "/movies/all-cam-gigandet-movies-in-order/"
 
 excerpt: ""
 

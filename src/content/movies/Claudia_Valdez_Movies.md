@@ -4,7 +4,7 @@ title: "All 26 Claudia Valdez Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-26-claudia-valdez-movies-in-order/"
+slug: "/movies/all-claudia-valdez-movies-in-order/"
 
 excerpt: ""
 

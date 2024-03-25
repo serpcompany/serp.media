@@ -4,7 +4,7 @@ title: "All 47 Amber Benson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-47-amber-benson-movies-in-order/"
+slug: "/movies/all-amber-benson-movies-in-order/"
 
 excerpt: ""
 

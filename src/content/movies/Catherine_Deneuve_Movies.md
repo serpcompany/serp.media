@@ -4,7 +4,7 @@ title: "All 146 Catherine Deneuve Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-146-catherine-deneuve-movies-in-order/"
+slug: "/movies/all-catherine-deneuve-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 109 Carter Burwell Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-109-carter-burwell-movies-in-order/"
+slug: "/movies/all-carter-burwell-movies-in-order/"
 
 excerpt: ""
 

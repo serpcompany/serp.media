@@ -4,7 +4,7 @@ title: "All 27 Alfie Allen Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-27-alfie-allen-movies-in-order/"
+slug: "/movies/all-alfie-allen-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 64 Bokeem Woodbine Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-64-bokeem-woodbine-movies-in-order/"
+slug: "/movies/all-bokeem-woodbine-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 46 Dylan McDermott Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-46-dylan-mcdermott-movies-in-order/"
+slug: "/movies/all-dylan-mcdermott-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 111 Beau Bridges Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-111-beau-bridges-movies-in-order/"
+slug: "/movies/all-beau-bridges-movies-in-order/"
 
 excerpt: ""
 

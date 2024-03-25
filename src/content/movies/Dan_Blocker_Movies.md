@@ -4,7 +4,7 @@ title: "All 16 Dan Blocker Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-dan-blocker-movies-in-order/"
+slug: "/movies/all-dan-blocker-movies-in-order/"
 
 excerpt: ""
 

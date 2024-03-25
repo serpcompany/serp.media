@@ -4,7 +4,7 @@ title: "All 23 Cameron Dye Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-23-cameron-dye-movies-in-order/"
+slug: "/movies/all-cameron-dye-movies-in-order/"
 
 excerpt: ""
 

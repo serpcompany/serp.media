@@ -4,7 +4,7 @@ title: "All 34 Chester Bennington Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-34-chester-bennington-movies-in-order/"
+slug: "/movies/all-chester-bennington-movies-in-order/"
 
 excerpt: ""
 

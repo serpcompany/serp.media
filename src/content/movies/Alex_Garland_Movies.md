@@ -4,7 +4,7 @@ title: "All 14 Alex Garland Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-14-alex-garland-movies-in-order/"
+slug: "/movies/all-alex-garland-movies-in-order/"
 
 excerpt: ""
 

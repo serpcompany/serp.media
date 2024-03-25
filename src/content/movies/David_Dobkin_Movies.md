@@ -4,7 +4,7 @@ title: "All 20 David Dobkin Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-20-david-dobkin-movies-in-order/"
+slug: "/movies/all-david-dobkin-movies-in-order/"
 
 excerpt: ""
 

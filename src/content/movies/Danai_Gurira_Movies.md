@@ -4,7 +4,7 @@ title: "All 26 Danai Gurira Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-26-danai-gurira-movies-in-order/"
+slug: "/movies/all-danai-gurira-movies-in-order/"
 
 excerpt: ""
 

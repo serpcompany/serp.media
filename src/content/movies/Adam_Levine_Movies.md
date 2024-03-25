@@ -4,7 +4,7 @@ title: "All 35 Adam Levine Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-35-adam-levine-movies-in-order/"
+slug: "/movies/all-adam-levine-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 80 Chunky Pandey Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-80-chunky-pandey-movies-in-order/"
+slug: "/movies/all-chunky-pandey-movies-in-order/"
 
 excerpt: ""
 

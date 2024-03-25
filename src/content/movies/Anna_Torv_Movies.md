@@ -4,7 +4,7 @@ title: "All 11 Anna Torv Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-11-anna-torv-movies-in-order/"
+slug: "/movies/all-anna-torv-movies-in-order/"
 
 excerpt: ""
 

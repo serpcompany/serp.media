@@ -4,7 +4,7 @@ title: "All 21 Amy Yasbeck Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-21-amy-yasbeck-movies-in-order/"
+slug: "/movies/all-amy-yasbeck-movies-in-order/"
 
 excerpt: ""
 

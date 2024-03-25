@@ -4,7 +4,7 @@ title: "All 90 Bill Pullman Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-90-bill-pullman-movies-in-order/"
+slug: "/movies/all-bill-pullman-movies-in-order/"
 
 excerpt: ""
 

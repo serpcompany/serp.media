@@ -4,7 +4,7 @@ title: "All 88 Billy Wilder Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-88-billy-wilder-movies-in-order/"
+slug: "/movies/all-billy-wilder-movies-in-order/"
 
 excerpt: ""
 

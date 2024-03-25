@@ -4,7 +4,7 @@ title: "All 121 Brian Dennehy Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-121-brian-dennehy-movies-in-order/"
+slug: "/movies/all-brian-dennehy-movies-in-order/"
 
 excerpt: ""
 

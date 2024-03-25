@@ -4,7 +4,7 @@ title: "All 16 Ali Wong Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-ali-wong-movies-in-order/"
+slug: "/movies/all-ali-wong-movies-in-order/"
 
 excerpt: ""
 

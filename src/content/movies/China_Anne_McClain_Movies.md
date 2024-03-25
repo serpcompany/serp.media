@@ -4,7 +4,7 @@ title: "All 23 China Anne McClain Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-23-china-anne-mcclain-movies-in-order/"
+slug: "/movies/all-china-anne-mcclain-movies-in-order/"
 
 excerpt: ""
 

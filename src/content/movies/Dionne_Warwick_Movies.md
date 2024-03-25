@@ -4,7 +4,7 @@ title: "All 93 Dionne Warwick Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-93-dionne-warwick-movies-in-order/"
+slug: "/movies/all-dionne-warwick-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 23 Brandon Jay McLaren Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-23-brandon-jay-mclaren-movies-in-order/"
+slug: "/movies/all-brandon-jay-mclaren-movies-in-order/"
 
 excerpt: ""
 

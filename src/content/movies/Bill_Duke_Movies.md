@@ -4,7 +4,7 @@ title: "All 49 Bill Duke Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-49-bill-duke-movies-in-order/"
+slug: "/movies/all-bill-duke-movies-in-order/"
 
 excerpt: ""
 

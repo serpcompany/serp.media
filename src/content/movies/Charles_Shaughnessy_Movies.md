@@ -4,7 +4,7 @@ title: "All 38 Charles Shaughnessy Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-38-charles-shaughnessy-movies-in-order/"
+slug: "/movies/all-charles-shaughnessy-movies-in-order/"
 
 excerpt: ""
 

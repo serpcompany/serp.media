@@ -4,7 +4,7 @@ title: "All 59 Diane Baker Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-59-diane-baker-movies-in-order/"
+slug: "/movies/all-diane-baker-movies-in-order/"
 
 excerpt: ""
 

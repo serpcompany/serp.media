@@ -4,7 +4,7 @@ title: "All 47 Andy Richter Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-47-andy-richter-movies-in-order/"
+slug: "/movies/all-andy-richter-movies-in-order/"
 
 excerpt: ""
 

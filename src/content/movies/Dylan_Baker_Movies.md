@@ -4,7 +4,7 @@ title: "All 71 Dylan Baker Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-71-dylan-baker-movies-in-order/"
+slug: "/movies/all-dylan-baker-movies-in-order/"
 
 excerpt: ""
 

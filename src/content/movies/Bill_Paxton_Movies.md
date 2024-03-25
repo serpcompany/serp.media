@@ -4,7 +4,7 @@ title: "All 72 Bill Paxton Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-72-bill-paxton-movies-in-order/"
+slug: "/movies/all-bill-paxton-movies-in-order/"
 
 excerpt: ""
 

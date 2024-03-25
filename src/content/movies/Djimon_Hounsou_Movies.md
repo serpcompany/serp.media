@@ -4,7 +4,7 @@ title: "All 53 Djimon Hounsou Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-53-djimon-hounsou-movies-in-order/"
+slug: "/movies/all-djimon-hounsou-movies-in-order/"
 
 excerpt: ""
 

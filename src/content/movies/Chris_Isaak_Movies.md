@@ -4,7 +4,7 @@ title: "All 53 Chris Isaak Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-53-chris-isaak-movies-in-order/"
+slug: "/movies/all-chris-isaak-movies-in-order/"
 
 excerpt: ""
 

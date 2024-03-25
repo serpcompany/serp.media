@@ -4,7 +4,7 @@ title: "All 17 Andrew Fleming Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-17-andrew-fleming-movies-in-order/"
+slug: "/movies/all-andrew-fleming-movies-in-order/"
 
 excerpt: ""
 

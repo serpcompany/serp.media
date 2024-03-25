@@ -4,7 +4,7 @@ title: "All 67 Colin Farrell Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-67-colin-farrell-movies-in-order/"
+slug: "/movies/all-colin-farrell-movies-in-order/"
 
 excerpt: ""
 

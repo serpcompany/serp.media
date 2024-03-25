@@ -4,7 +4,7 @@ title: "All 94 Akira Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-94-akira-movies-in-order/"
+slug: "/movies/all-akira-movies-in-order/"
 
 excerpt: ""
 

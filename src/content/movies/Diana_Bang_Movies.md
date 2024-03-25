@@ -4,7 +4,7 @@ title: "All 20 Diana Bang Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-20-diana-bang-movies-in-order/"
+slug: "/movies/all-diana-bang-movies-in-order/"
 
 excerpt: ""
 

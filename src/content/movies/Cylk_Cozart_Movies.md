@@ -4,7 +4,7 @@ title: "All 35 Cylk Cozart Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-35-cylk-cozart-movies-in-order/"
+slug: "/movies/all-cylk-cozart-movies-in-order/"
 
 excerpt: ""
 

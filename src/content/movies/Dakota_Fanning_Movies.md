@@ -4,7 +4,7 @@ title: "All 51 Dakota Fanning Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-51-dakota-fanning-movies-in-order/"
+slug: "/movies/all-dakota-fanning-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 22 Chuck Jones Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-22-chuck-jones-movies-in-order/"
+slug: "/movies/all-chuck-jones-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 56 Chelcie Ross Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-56-chelcie-ross-movies-in-order/"
+slug: "/movies/all-chelcie-ross-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 40 Chantal Akerman Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-40-chantal-akerman-movies-in-order/"
+slug: "/movies/all-chantal-akerman-movies-in-order/"
 
 excerpt: ""
 

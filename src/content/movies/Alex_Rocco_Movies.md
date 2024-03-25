@@ -4,7 +4,7 @@ title: "All 58 Alex Rocco Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-58-alex-rocco-movies-in-order/"
+slug: "/movies/all-alex-rocco-movies-in-order/"
 
 excerpt: ""
 

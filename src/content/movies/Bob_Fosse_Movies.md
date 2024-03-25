@@ -4,7 +4,7 @@ title: "All 24 Bob Fosse Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-24-bob-fosse-movies-in-order/"
+slug: "/movies/all-bob-fosse-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 55 Courtney B Vance Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-55-courtney-b-vance-movies-in-order/"
+slug: "/movies/all-courtney-b-vance-movies-in-order/"
 
 excerpt: ""
 

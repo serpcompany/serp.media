@@ -4,7 +4,7 @@ title: "All 84 Derek Jacobi Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-84-derek-jacobi-movies-in-order/"
+slug: "/movies/all-derek-jacobi-movies-in-order/"
 
 excerpt: ""
 

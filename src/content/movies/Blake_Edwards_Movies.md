@@ -4,7 +4,7 @@ title: "All 66 Blake Edwards Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-66-blake-edwards-movies-in-order/"
+slug: "/movies/all-blake-edwards-movies-in-order/"
 
 excerpt: ""
 

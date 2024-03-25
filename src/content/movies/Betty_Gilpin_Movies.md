@@ -4,7 +4,7 @@ title: "All 14 Betty Gilpin Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-14-betty-gilpin-movies-in-order/"
+slug: "/movies/all-betty-gilpin-movies-in-order/"
 
 excerpt: ""
 

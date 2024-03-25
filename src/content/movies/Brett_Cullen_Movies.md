@@ -4,7 +4,7 @@ title: "All 54 Brett Cullen Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-54-brett-cullen-movies-in-order/"
+slug: "/movies/all-brett-cullen-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 35 Daniel Moder Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-35-daniel-moder-movies-in-order/"
+slug: "/movies/all-daniel-moder-movies-in-order/"
 
 excerpt: ""
 

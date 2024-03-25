@@ -4,7 +4,7 @@ title: "All 34 Andrea Brooks Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-34-andrea-brooks-movies-in-order/"
+slug: "/movies/all-andrea-brooks-movies-in-order/"
 
 excerpt: ""
 

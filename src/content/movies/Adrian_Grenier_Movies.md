@@ -4,7 +4,7 @@ title: "All 40 Adrian Grenier Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-40-adrian-grenier-movies-in-order/"
+slug: "/movies/all-adrian-grenier-movies-in-order/"
 
 excerpt: ""
 

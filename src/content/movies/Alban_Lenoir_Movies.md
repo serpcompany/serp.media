@@ -4,7 +4,7 @@ title: "All 47 Alban Lenoir Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-47-alban-lenoir-movies-in-order/"
+slug: "/movies/all-alban-lenoir-movies-in-order/"
 
 excerpt: ""
 

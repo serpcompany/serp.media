@@ -4,7 +4,7 @@ title: "All 24 Aziz Ansari Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-24-aziz-ansari-movies-in-order/"
+slug: "/movies/all-aziz-ansari-movies-in-order/"
 
 excerpt: ""
 

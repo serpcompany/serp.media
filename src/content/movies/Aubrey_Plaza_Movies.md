@@ -4,7 +4,7 @@ title: "All 36 Aubrey Plaza Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-36-aubrey-plaza-movies-in-order/"
+slug: "/movies/all-aubrey-plaza-movies-in-order/"
 
 excerpt: ""
 

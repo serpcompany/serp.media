@@ -4,7 +4,7 @@ title: "All 30 Donny Osmond Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-30-donny-osmond-movies-in-order/"
+slug: "/movies/all-donny-osmond-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 18 Christian Coulson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-18-christian-coulson-movies-in-order/"
+slug: "/movies/all-christian-coulson-movies-in-order/"
 
 excerpt: ""
 

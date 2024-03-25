@@ -4,7 +4,7 @@ title: "All 66 Donald OConnor Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-66-donald-oconnor-movies-in-order/"
+slug: "/movies/all-donald-oconnor-movies-in-order/"
 
 excerpt: ""
 

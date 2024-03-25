@@ -4,7 +4,7 @@ title: "All 39 Damon Dash Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-39-damon-dash-movies-in-order/"
+slug: "/movies/all-damon-dash-movies-in-order/"
 
 excerpt: ""
 

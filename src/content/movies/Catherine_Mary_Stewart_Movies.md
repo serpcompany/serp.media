@@ -4,7 +4,7 @@ title: "All 57 Catherine Mary Stewart Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-57-catherine-mary-stewart-movies-in-order/"
+slug: "/movies/all-catherine-mary-stewart-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 61 Audrey Hepburn Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-61-audrey-hepburn-movies-in-order/"
+slug: "/movies/all-audrey-hepburn-movies-in-order/"
 
 excerpt: ""
 

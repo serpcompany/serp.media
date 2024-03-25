@@ -4,7 +4,7 @@ title: "All 62 Betty Grable Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-62-betty-grable-movies-in-order/"
+slug: "/movies/all-betty-grable-movies-in-order/"
 
 excerpt: ""
 

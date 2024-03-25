@@ -4,7 +4,7 @@ title: "All 20 Alex MacNicoll Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-20-alex-macnicoll-movies-in-order/"
+slug: "/movies/all-alex-macnicoll-movies-in-order/"
 
 excerpt: ""
 

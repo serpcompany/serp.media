@@ -4,7 +4,7 @@ title: "All 201 Debbie Harry Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-201-debbie-harry-movies-in-order/"
+slug: "/movies/all-debbie-harry-movies-in-order/"
 
 excerpt: ""
 

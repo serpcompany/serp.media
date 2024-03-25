@@ -4,7 +4,7 @@ title: "All 61 David Cronenberg Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-61-david-cronenberg-movies-in-order/"
+slug: "/movies/all-david-cronenberg-movies-in-order/"
 
 excerpt: ""
 

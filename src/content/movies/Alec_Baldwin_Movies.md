@@ -4,7 +4,7 @@ title: "All 166 Alec Baldwin Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-166-alec-baldwin-movies-in-order/"
+slug: "/movies/all-alec-baldwin-movies-in-order/"
 
 excerpt: ""
 

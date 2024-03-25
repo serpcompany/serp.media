@@ -4,7 +4,7 @@ title: "All 86 Bill Moseley Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-86-bill-moseley-movies-in-order/"
+slug: "/movies/all-bill-moseley-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 25 Cardi B Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-25-cardi-b-movies-in-order/"
+slug: "/movies/all-cardi-b-movies-in-order/"
 
 excerpt: ""
 

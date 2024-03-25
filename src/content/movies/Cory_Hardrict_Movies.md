@@ -4,7 +4,7 @@ title: "All 36 Cory Hardrict Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-36-cory-hardrict-movies-in-order/"
+slug: "/movies/all-cory-hardrict-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 184 Danny Elfman Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-184-danny-elfman-movies-in-order/"
+slug: "/movies/all-danny-elfman-movies-in-order/"
 
 excerpt: ""
 

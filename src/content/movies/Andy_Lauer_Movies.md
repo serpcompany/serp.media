@@ -4,7 +4,7 @@ title: "All 39 Andy Lauer Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-39-andy-lauer-movies-in-order/"
+slug: "/movies/all-andy-lauer-movies-in-order/"
 
 excerpt: ""
 

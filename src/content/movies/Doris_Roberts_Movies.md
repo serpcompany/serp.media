@@ -4,7 +4,7 @@ title: "All 67 Doris Roberts Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-67-doris-roberts-movies-in-order/"
+slug: "/movies/all-doris-roberts-movies-in-order/"
 
 excerpt: ""
 

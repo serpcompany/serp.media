@@ -4,7 +4,7 @@ title: "All 15 Alexis Knapp Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-15-alexis-knapp-movies-in-order/"
+slug: "/movies/all-alexis-knapp-movies-in-order/"
 
 excerpt: ""
 

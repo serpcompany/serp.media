@@ -4,7 +4,7 @@ title: "All 15 Ben Reed Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-15-ben-reed-movies-in-order/"
+slug: "/movies/all-ben-reed-movies-in-order/"
 
 excerpt: ""
 

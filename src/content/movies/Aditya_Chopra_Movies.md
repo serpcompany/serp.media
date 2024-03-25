@@ -4,7 +4,7 @@ title: "All 65 Aditya Chopra Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-65-aditya-chopra-movies-in-order/"
+slug: "/movies/all-aditya-chopra-movies-in-order/"
 
 excerpt: ""
 

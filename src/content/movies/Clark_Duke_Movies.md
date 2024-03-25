@@ -4,7 +4,7 @@ title: "All 18 Clark Duke Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-18-clark-duke-movies-in-order/"
+slug: "/movies/all-clark-duke-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 29 Ashley Olsen Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-29-ashley-olsen-movies-in-order/"
+slug: "/movies/all-ashley-olsen-movies-in-order/"
 
 excerpt: ""
 

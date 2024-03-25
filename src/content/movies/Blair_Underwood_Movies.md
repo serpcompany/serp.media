@@ -4,7 +4,7 @@ title: "All 46 Blair Underwood Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-46-blair-underwood-movies-in-order/"
+slug: "/movies/all-blair-underwood-movies-in-order/"
 
 excerpt: ""
 

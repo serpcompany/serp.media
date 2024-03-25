@@ -4,7 +4,7 @@ title: "All 32 Curtis Hanson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-32-curtis-hanson-movies-in-order/"
+slug: "/movies/all-curtis-hanson-movies-in-order/"
 
 excerpt: ""
 

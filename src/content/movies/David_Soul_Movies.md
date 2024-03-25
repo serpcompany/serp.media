@@ -4,7 +4,7 @@ title: "All 38 David Soul Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-38-david-soul-movies-in-order/"
+slug: "/movies/all-david-soul-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 44 Claire Forlani Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-44-claire-forlani-movies-in-order/"
+slug: "/movies/all-claire-forlani-movies-in-order/"
 
 excerpt: ""
 

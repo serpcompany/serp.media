@@ -4,7 +4,7 @@ title: "All 34 Dane Cook Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-34-dane-cook-movies-in-order/"
+slug: "/movies/all-dane-cook-movies-in-order/"
 
 excerpt: ""
 

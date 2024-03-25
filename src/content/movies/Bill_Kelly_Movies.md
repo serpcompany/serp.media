@@ -4,7 +4,7 @@ title: "All 17 Bill Kelly Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-17-bill-kelly-movies-in-order/"
+slug: "/movies/all-bill-kelly-movies-in-order/"
 
 excerpt: ""
 

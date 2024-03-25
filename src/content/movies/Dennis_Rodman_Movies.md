@@ -4,7 +4,7 @@ title: "All 31 Dennis Rodman Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-31-dennis-rodman-movies-in-order/"
+slug: "/movies/all-dennis-rodman-movies-in-order/"
 
 excerpt: ""
 

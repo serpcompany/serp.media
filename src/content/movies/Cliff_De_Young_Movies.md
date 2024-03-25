@@ -4,7 +4,7 @@ title: "All 53 Cliff De Young Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-53-cliff-de-young-movies-in-order/"
+slug: "/movies/all-cliff-de-young-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 17 Bianca Lawson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-17-bianca-lawson-movies-in-order/"
+slug: "/movies/all-bianca-lawson-movies-in-order/"
 
 excerpt: ""
 

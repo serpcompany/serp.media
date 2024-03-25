@@ -4,7 +4,7 @@ title: "All 28 Darren Lynn Bousman Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-28-darren-lynn-bousman-movies-in-order/"
+slug: "/movies/all-darren-lynn-bousman-movies-in-order/"
 
 excerpt: ""
 

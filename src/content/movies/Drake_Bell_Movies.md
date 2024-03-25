@@ -4,7 +4,7 @@ title: "All 35 Drake Bell Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-35-drake-bell-movies-in-order/"
+slug: "/movies/all-drake-bell-movies-in-order/"
 
 excerpt: ""
 

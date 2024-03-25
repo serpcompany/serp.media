@@ -4,7 +4,7 @@ title: "All 41 Adam Brody Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-41-adam-brody-movies-in-order/"
+slug: "/movies/all-adam-brody-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 58 Adam Scott Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-58-adam-scott-movies-in-order/"
+slug: "/movies/all-adam-scott-movies-in-order/"
 
 excerpt: ""
 

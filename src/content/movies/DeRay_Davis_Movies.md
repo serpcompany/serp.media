@@ -4,7 +4,7 @@ title: "All 48 DeRay Davis Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-48-deray-davis-movies-in-order/"
+slug: "/movies/all-deray-davis-movies-in-order/"
 
 excerpt: ""
 

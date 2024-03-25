@@ -4,7 +4,7 @@ title: "All 37 Dominic Cooper Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-37-dominic-cooper-movies-in-order/"
+slug: "/movies/all-dominic-cooper-movies-in-order/"
 
 excerpt: ""
 

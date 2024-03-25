@@ -4,7 +4,7 @@ title: "All 31 Boyd Holbrook Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-31-boyd-holbrook-movies-in-order/"
+slug: "/movies/all-boyd-holbrook-movies-in-order/"
 
 excerpt: ""
 

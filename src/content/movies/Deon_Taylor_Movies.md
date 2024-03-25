@@ -4,7 +4,7 @@ title: "All 14 Deon Taylor Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-14-deon-taylor-movies-in-order/"
+slug: "/movies/all-deon-taylor-movies-in-order/"
 
 excerpt: ""
 

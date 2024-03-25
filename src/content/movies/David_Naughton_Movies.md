@@ -4,7 +4,7 @@ title: "All 48 David Naughton Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-48-david-naughton-movies-in-order/"
+slug: "/movies/all-david-naughton-movies-in-order/"
 
 excerpt: ""
 

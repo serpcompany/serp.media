@@ -4,7 +4,7 @@ title: "All 46 Courteney Cox Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-46-courteney-cox-movies-in-order/"
+slug: "/movies/all-courteney-cox-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 58 Billy Murray Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-58-billy-murray-movies-in-order/"
+slug: "/movies/all-billy-murray-movies-in-order/"
 
 excerpt: ""
 

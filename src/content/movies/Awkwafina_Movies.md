@@ -4,7 +4,7 @@ title: "All 28 Awkwafina Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-28-awkwafina-movies-in-order/"
+slug: "/movies/all-awkwafina-movies-in-order/"
 
 excerpt: ""
 

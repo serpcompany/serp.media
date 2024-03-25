@@ -4,7 +4,7 @@ title: "All 66 Courtney Love Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-66-courtney-love-movies-in-order/"
+slug: "/movies/all-courtney-love-movies-in-order/"
 
 excerpt: ""
 

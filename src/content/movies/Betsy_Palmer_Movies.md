@@ -4,7 +4,7 @@ title: "All 29 Betsy Palmer Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-29-betsy-palmer-movies-in-order/"
+slug: "/movies/all-betsy-palmer-movies-in-order/"
 
 excerpt: ""
 

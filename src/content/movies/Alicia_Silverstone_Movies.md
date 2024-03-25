@@ -4,7 +4,7 @@ title: "All 55 Alicia Silverstone Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-55-alicia-silverstone-movies-in-order/"
+slug: "/movies/all-alicia-silverstone-movies-in-order/"
 
 excerpt: ""
 

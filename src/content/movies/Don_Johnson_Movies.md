@@ -4,7 +4,7 @@ title: "All 58 Don Johnson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-58-don-johnson-movies-in-order/"
+slug: "/movies/all-don-johnson-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 57 Brendan Sexton III Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-57-brendan-sexton-iii-movies-in-order/"
+slug: "/movies/all-brendan-sexton-iii-movies-in-order/"
 
 excerpt: ""
 

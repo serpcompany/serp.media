@@ -4,7 +4,7 @@ title: "All 156 Danny DeVito Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-156-danny-devito-movies-in-order/"
+slug: "/movies/all-danny-devito-movies-in-order/"
 
 excerpt: ""
 

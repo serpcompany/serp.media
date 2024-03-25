@@ -4,7 +4,7 @@ title: "All 17 Christian Petzold Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-17-christian-petzold-movies-in-order/"
+slug: "/movies/all-christian-petzold-movies-in-order/"
 
 excerpt: ""
 

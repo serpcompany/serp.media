@@ -4,7 +4,7 @@ title: "All 29 Dave Attell Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-29-dave-attell-movies-in-order/"
+slug: "/movies/all-dave-attell-movies-in-order/"
 
 excerpt: ""
 

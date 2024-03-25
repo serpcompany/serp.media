@@ -4,7 +4,7 @@ title: "All 38 Alejandro Jodorowsky Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-38-alejandro-jodorowsky-movies-in-order/"
+slug: "/movies/all-alejandro-jodorowsky-movies-in-order/"
 
 excerpt: ""
 

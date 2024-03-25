@@ -4,7 +4,7 @@ title: "All 111 Doris Day Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-111-doris-day-movies-in-order/"
+slug: "/movies/all-doris-day-movies-in-order/"
 
 excerpt: ""
 

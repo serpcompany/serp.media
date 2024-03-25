@@ -4,7 +4,7 @@ title: "All 16 Deborah Walley Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-deborah-walley-movies-in-order/"
+slug: "/movies/all-deborah-walley-movies-in-order/"
 
 excerpt: ""
 

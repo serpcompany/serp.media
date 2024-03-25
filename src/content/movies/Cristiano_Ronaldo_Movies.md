@@ -4,7 +4,7 @@ title: "All 18 Cristiano Ronaldo Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-18-cristiano-ronaldo-movies-in-order/"
+slug: "/movies/all-cristiano-ronaldo-movies-in-order/"
 
 excerpt: ""
 

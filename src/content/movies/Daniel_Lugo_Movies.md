@@ -4,7 +4,7 @@ title: "All 19 Daniel Lugo Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-19-daniel-lugo-movies-in-order/"
+slug: "/movies/all-daniel-lugo-movies-in-order/"
 
 excerpt: ""
 

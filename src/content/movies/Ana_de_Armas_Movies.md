@@ -4,7 +4,7 @@ title: "All 28 Ana de Armas Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-28-ana-de-armas-movies-in-order/"
+slug: "/movies/all-ana-de-armas-movies-in-order/"
 
 excerpt: ""
 

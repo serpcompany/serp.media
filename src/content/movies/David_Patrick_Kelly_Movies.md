@@ -4,7 +4,7 @@ title: "All 39 David Patrick Kelly Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-39-david-patrick-kelly-movies-in-order/"
+slug: "/movies/all-david-patrick-kelly-movies-in-order/"
 
 excerpt: ""
 

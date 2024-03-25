@@ -4,7 +4,7 @@ title: "All 52 Buster Keaton Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-52-buster-keaton-movies-in-order/"
+slug: "/movies/all-buster-keaton-movies-in-order/"
 
 excerpt: ""
 

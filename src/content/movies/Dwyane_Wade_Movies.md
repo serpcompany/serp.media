@@ -4,7 +4,7 @@ title: "All 16 Dwyane Wade Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-dwyane-wade-movies-in-order/"
+slug: "/movies/all-dwyane-wade-movies-in-order/"
 
 excerpt: ""
 

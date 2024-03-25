@@ -4,7 +4,7 @@ title: "All 30 Andrew Form Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-30-andrew-form-movies-in-order/"
+slug: "/movies/all-andrew-form-movies-in-order/"
 
 excerpt: ""
 

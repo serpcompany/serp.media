@@ -4,7 +4,7 @@ title: "All 34 Brigitte Nielsen Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-34-brigitte-nielsen-movies-in-order/"
+slug: "/movies/all-brigitte-nielsen-movies-in-order/"
 
 excerpt: ""
 

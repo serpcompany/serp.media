@@ -4,7 +4,7 @@ title: "All 42 Bill Bellamy Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-42-bill-bellamy-movies-in-order/"
+slug: "/movies/all-bill-bellamy-movies-in-order/"
 
 excerpt: ""
 

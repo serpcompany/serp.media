@@ -4,7 +4,7 @@ title: "All 135 Dustin Hoffman Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-135-dustin-hoffman-movies-in-order/"
+slug: "/movies/all-dustin-hoffman-movies-in-order/"
 
 excerpt: ""
 

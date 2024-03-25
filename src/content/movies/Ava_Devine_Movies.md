@@ -4,7 +4,7 @@ title: "All 94 Ava Devine Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-94-ava-devine-movies-in-order/"
+slug: "/movies/all-ava-devine-movies-in-order/"
 
 excerpt: ""
 

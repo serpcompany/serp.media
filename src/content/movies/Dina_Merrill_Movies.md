@@ -4,7 +4,7 @@ title: "All 47 Dina Merrill Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-47-dina-merrill-movies-in-order/"
+slug: "/movies/all-dina-merrill-movies-in-order/"
 
 excerpt: ""
 

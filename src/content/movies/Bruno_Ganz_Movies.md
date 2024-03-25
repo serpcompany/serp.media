@@ -4,7 +4,7 @@ title: "All 67 Bruno Ganz Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-67-bruno-ganz-movies-in-order/"
+slug: "/movies/all-bruno-ganz-movies-in-order/"
 
 excerpt: ""
 

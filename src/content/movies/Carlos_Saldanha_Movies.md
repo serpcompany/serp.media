@@ -4,7 +4,7 @@ title: "All 20 Carlos Saldanha Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-20-carlos-saldanha-movies-in-order/"
+slug: "/movies/all-carlos-saldanha-movies-in-order/"
 
 excerpt: ""
 

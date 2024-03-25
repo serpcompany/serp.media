@@ -4,7 +4,7 @@ title: "All 86 Charlie Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-86-charlie-movies-in-order/"
+slug: "/movies/all-charlie-movies-in-order/"
 
 excerpt: ""
 

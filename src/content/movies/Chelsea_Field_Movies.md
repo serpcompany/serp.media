@@ -4,7 +4,7 @@ title: "All 31 Chelsea Field Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-31-chelsea-field-movies-in-order/"
+slug: "/movies/all-chelsea-field-movies-in-order/"
 
 excerpt: ""
 

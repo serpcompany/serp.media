@@ -4,7 +4,7 @@ title: "All 12 Claudia Wells Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-12-claudia-wells-movies-in-order/"
+slug: "/movies/all-claudia-wells-movies-in-order/"
 
 excerpt: ""
 

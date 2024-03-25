@@ -4,7 +4,7 @@ title: "All 53 Alicia Witt Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-53-alicia-witt-movies-in-order/"
+slug: "/movies/all-alicia-witt-movies-in-order/"
 
 excerpt: ""
 

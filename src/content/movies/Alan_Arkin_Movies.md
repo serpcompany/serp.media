@@ -4,7 +4,7 @@ title: "All 97 Alan Arkin Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-97-alan-arkin-movies-in-order/"
+slug: "/movies/all-alan-arkin-movies-in-order/"
 
 excerpt: ""
 

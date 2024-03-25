@@ -4,7 +4,7 @@ title: "All 62 Bradford Dillman Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-62-bradford-dillman-movies-in-order/"
+slug: "/movies/all-bradford-dillman-movies-in-order/"
 
 excerpt: ""
 

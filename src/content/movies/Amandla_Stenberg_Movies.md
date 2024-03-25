@@ -4,7 +4,7 @@ title: "All 27 Amandla Stenberg Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-27-amandla-stenberg-movies-in-order/"
+slug: "/movies/all-amandla-stenberg-movies-in-order/"
 
 excerpt: ""
 

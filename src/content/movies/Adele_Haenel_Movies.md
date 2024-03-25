@@ -4,7 +4,7 @@ title: "All 26 Adele Haenel Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-26-adele-haenel-movies-in-order/"
+slug: "/movies/all-adele-haenel-movies-in-order/"
 
 excerpt: ""
 

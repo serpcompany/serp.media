@@ -4,7 +4,7 @@ title: "All 139 Alan Silvestri Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-139-alan-silvestri-movies-in-order/"
+slug: "/movies/all-alan-silvestri-movies-in-order/"
 
 excerpt: ""
 

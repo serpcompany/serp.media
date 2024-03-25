@@ -4,7 +4,7 @@ title: "All 13 Ben McKenzie Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-13-ben-mckenzie-movies-in-order/"
+slug: "/movies/all-ben-mckenzie-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 37 Bernard Hill Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-37-bernard-hill-movies-in-order/"
+slug: "/movies/all-bernard-hill-movies-in-order/"
 
 excerpt: ""
 

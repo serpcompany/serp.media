@@ -4,7 +4,7 @@ title: "All 27 Buster Crabbe Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-27-buster-crabbe-movies-in-order/"
+slug: "/movies/all-buster-crabbe-movies-in-order/"
 
 excerpt: ""
 

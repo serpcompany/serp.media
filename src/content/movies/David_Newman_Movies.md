@@ -4,7 +4,7 @@ title: "All 144 David Newman Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-144-david-newman-movies-in-order/"
+slug: "/movies/all-david-newman-movies-in-order/"
 
 excerpt: ""
 

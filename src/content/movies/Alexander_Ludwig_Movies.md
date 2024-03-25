@@ -4,7 +4,7 @@ title: "All 25 Alexander Ludwig Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-25-alexander-ludwig-movies-in-order/"
+slug: "/movies/all-alexander-ludwig-movies-in-order/"
 
 excerpt: ""
 

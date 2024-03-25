@@ -4,7 +4,7 @@ title: "All 41 Devon Sawa Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-41-devon-sawa-movies-in-order/"
+slug: "/movies/all-devon-sawa-movies-in-order/"
 
 excerpt: ""
 

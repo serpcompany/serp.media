@@ -4,7 +4,7 @@ title: "All 40 Claire Danes Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-40-claire-danes-movies-in-order/"
+slug: "/movies/all-claire-danes-movies-in-order/"
 
 excerpt: ""
 

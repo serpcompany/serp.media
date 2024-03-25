@@ -4,7 +4,7 @@ title: "All 57 Arliss Howard Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-57-arliss-howard-movies-in-order/"
+slug: "/movies/all-arliss-howard-movies-in-order/"
 
 excerpt: ""
 

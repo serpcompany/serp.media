@@ -4,7 +4,7 @@ title: "All 63 Christopher Guest Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-63-christopher-guest-movies-in-order/"
+slug: "/movies/all-christopher-guest-movies-in-order/"
 
 excerpt: ""
 

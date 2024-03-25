@@ -4,7 +4,7 @@ title: "All 60 David Kaye Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-60-david-kaye-movies-in-order/"
+slug: "/movies/all-david-kaye-movies-in-order/"
 
 excerpt: ""
 

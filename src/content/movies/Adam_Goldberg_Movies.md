@@ -4,7 +4,7 @@ title: "All 48 Adam Goldberg Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-48-adam-goldberg-movies-in-order/"
+slug: "/movies/all-adam-goldberg-movies-in-order/"
 
 excerpt: ""
 

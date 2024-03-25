@@ -4,7 +4,7 @@ title: "All 49 Chuck Connors Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-49-chuck-connors-movies-in-order/"
+slug: "/movies/all-chuck-connors-movies-in-order/"
 
 excerpt: ""
 

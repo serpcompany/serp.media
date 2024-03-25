@@ -4,7 +4,7 @@ title: "All 96 Cher Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-96-cher-movies-in-order/"
+slug: "/movies/all-cher-movies-in-order/"
 
 excerpt: ""
 

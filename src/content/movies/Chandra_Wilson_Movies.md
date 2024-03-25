@@ -4,7 +4,7 @@ title: "All 23 Chandra Wilson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-23-chandra-wilson-movies-in-order/"
+slug: "/movies/all-chandra-wilson-movies-in-order/"
 
 excerpt: ""
 

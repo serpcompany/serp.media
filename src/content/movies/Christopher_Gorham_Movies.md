@@ -4,7 +4,7 @@ title: "All 22 Christopher Gorham Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-22-christopher-gorham-movies-in-order/"
+slug: "/movies/all-christopher-gorham-movies-in-order/"
 
 excerpt: ""
 

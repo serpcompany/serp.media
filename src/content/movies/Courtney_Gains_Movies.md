@@ -4,7 +4,7 @@ title: "All 57 Courtney Gains Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-57-courtney-gains-movies-in-order/"
+slug: "/movies/all-courtney-gains-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 26 Derek Hamilton Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-26-derek-hamilton-movies-in-order/"
+slug: "/movies/all-derek-hamilton-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 50 Ciara Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-50-ciara-movies-in-order/"
+slug: "/movies/all-ciara-movies-in-order/"
 
 excerpt: ""
 

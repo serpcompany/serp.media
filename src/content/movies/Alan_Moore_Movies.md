@@ -4,7 +4,7 @@ title: "All 21 Alan Moore Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-21-alan-moore-movies-in-order/"
+slug: "/movies/all-alan-moore-movies-in-order/"
 
 excerpt: ""
 

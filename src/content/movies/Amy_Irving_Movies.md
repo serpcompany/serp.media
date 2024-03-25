@@ -4,7 +4,7 @@ title: "All 41 Amy Irving Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-41-amy-irving-movies-in-order/"
+slug: "/movies/all-amy-irving-movies-in-order/"
 
 excerpt: ""
 

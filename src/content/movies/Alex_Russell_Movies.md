@@ -4,7 +4,7 @@ title: "All 17 Alex Russell Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-17-alex-russell-movies-in-order/"
+slug: "/movies/all-alex-russell-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 12 Constance Ford Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-12-constance-ford-movies-in-order/"
+slug: "/movies/all-constance-ford-movies-in-order/"
 
 excerpt: ""
 

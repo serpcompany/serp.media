@@ -4,7 +4,7 @@ title: "All 46 Brian White Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-46-brian-white-movies-in-order/"
+slug: "/movies/all-brian-white-movies-in-order/"
 
 excerpt: ""
 

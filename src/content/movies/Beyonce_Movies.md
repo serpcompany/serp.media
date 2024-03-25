@@ -4,7 +4,7 @@ title: "All 164 Beyonce Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-164-beyonce-movies-in-order/"
+slug: "/movies/all-beyonce-movies-in-order/"
 
 excerpt: ""
 

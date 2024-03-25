@@ -4,7 +4,7 @@ title: "All 67 Brett Ratner Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-67-brett-ratner-movies-in-order/"
+slug: "/movies/all-brett-ratner-movies-in-order/"
 
 excerpt: ""
 

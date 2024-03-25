@@ -4,7 +4,7 @@ title: "All 48 Chris Brown Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-48-chris-brown-movies-in-order/"
+slug: "/movies/all-chris-brown-movies-in-order/"
 
 excerpt: ""
 

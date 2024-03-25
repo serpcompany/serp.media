@@ -4,7 +4,7 @@ title: "All 20 Alfred Enoch Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-20-alfred-enoch-movies-in-order/"
+slug: "/movies/all-alfred-enoch-movies-in-order/"
 
 excerpt: ""
 

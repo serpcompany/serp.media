@@ -4,7 +4,7 @@ title: "All 44 Dulquer Salmaan Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-44-dulquer-salmaan-movies-in-order/"
+slug: "/movies/all-dulquer-salmaan-movies-in-order/"
 
 excerpt: ""
 

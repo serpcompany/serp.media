@@ -4,7 +4,7 @@ title: "All 46 Bernie Mac Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-46-bernie-mac-movies-in-order/"
+slug: "/movies/all-bernie-mac-movies-in-order/"
 
 excerpt: ""
 

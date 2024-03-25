@@ -4,7 +4,7 @@ title: "All 73 Charles Napier Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-73-charles-napier-movies-in-order/"
+slug: "/movies/all-charles-napier-movies-in-order/"
 
 excerpt: ""
 

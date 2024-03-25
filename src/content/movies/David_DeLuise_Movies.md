@@ -4,7 +4,7 @@ title: "All 45 David DeLuise Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-45-david-deluise-movies-in-order/"
+slug: "/movies/all-david-deluise-movies-in-order/"
 
 excerpt: ""
 

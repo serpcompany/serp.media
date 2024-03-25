@@ -4,7 +4,7 @@ title: "All 30 Ashley Scott Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-30-ashley-scott-movies-in-order/"
+slug: "/movies/all-ashley-scott-movies-in-order/"
 
 excerpt: ""
 

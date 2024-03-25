@@ -4,7 +4,7 @@ title: "All 100 Chuck Zito Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-100-chuck-zito-movies-in-order/"
+slug: "/movies/all-chuck-zito-movies-in-order/"
 
 excerpt: ""
 

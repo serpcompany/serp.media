@@ -4,7 +4,7 @@ title: "All 15 Collette Wolfe Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-15-collette-wolfe-movies-in-order/"
+slug: "/movies/all-collette-wolfe-movies-in-order/"
 
 excerpt: ""
 

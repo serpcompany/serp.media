@@ -4,7 +4,7 @@ title: "All 39 Al Thompson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-39-al-thompson-movies-in-order/"
+slug: "/movies/all-al-thompson-movies-in-order/"
 
 excerpt: ""
 

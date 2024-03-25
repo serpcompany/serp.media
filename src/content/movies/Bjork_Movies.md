@@ -4,7 +4,7 @@ title: "All 31 Bjork Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-31-bjork-movies-in-order/"
+slug: "/movies/all-bjork-movies-in-order/"
 
 excerpt: ""
 

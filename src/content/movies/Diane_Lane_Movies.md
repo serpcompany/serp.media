@@ -4,7 +4,7 @@ title: "All 72 Diane Lane Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-72-diane-lane-movies-in-order/"
+slug: "/movies/all-diane-lane-movies-in-order/"
 
 excerpt: ""
 

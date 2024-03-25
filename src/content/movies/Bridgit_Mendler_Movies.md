@@ -4,7 +4,7 @@ title: "All 16 Bridgit Mendler Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-bridgit-mendler-movies-in-order/"
+slug: "/movies/all-bridgit-mendler-movies-in-order/"
 
 excerpt: ""
 

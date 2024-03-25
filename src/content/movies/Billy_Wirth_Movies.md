@@ -4,7 +4,7 @@ title: "All 40 Billy Wirth Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-40-billy-wirth-movies-in-order/"
+slug: "/movies/all-billy-wirth-movies-in-order/"
 
 excerpt: ""
 

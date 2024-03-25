@@ -4,7 +4,7 @@ title: "All 50 Casey Affleck Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-50-casey-affleck-movies-in-order/"
+slug: "/movies/all-casey-affleck-movies-in-order/"
 
 excerpt: ""
 

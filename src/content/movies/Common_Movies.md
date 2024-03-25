@@ -4,7 +4,7 @@ title: "All 109 Common Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-109-common-movies-in-order/"
+slug: "/movies/all-common-movies-in-order/"
 
 excerpt: ""
 

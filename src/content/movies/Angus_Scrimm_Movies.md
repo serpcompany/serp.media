@@ -4,7 +4,7 @@ title: "All 41 Angus Scrimm Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-41-angus-scrimm-movies-in-order/"
+slug: "/movies/all-angus-scrimm-movies-in-order/"
 
 excerpt: ""
 

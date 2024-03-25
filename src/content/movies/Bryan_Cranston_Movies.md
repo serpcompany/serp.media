@@ -4,7 +4,7 @@ title: "All 81 Bryan Cranston Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-81-bryan-cranston-movies-in-order/"
+slug: "/movies/all-bryan-cranston-movies-in-order/"
 
 excerpt: ""
 

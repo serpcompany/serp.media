@@ -4,7 +4,7 @@ title: "All 13 Chris Young Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-13-chris-young-movies-in-order/"
+slug: "/movies/all-chris-young-movies-in-order/"
 
 excerpt: ""
 

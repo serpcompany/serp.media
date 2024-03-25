@@ -4,7 +4,7 @@ title: "All 13 Dr Seuss Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-13-dr-seuss-movies-in-order/"
+slug: "/movies/all-dr-seuss-movies-in-order/"
 
 excerpt: ""
 

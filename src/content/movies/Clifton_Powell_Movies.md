@@ -4,7 +4,7 @@ title: "All 76 Clifton Powell Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-76-clifton-powell-movies-in-order/"
+slug: "/movies/all-clifton-powell-movies-in-order/"
 
 excerpt: ""
 

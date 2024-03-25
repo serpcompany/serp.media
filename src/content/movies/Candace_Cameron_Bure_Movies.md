@@ -4,7 +4,7 @@ title: "All 58 Candace Cameron Bure Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-58-candace-cameron-bure-movies-in-order/"
+slug: "/movies/all-candace-cameron-bure-movies-in-order/"
 
 excerpt: ""
 

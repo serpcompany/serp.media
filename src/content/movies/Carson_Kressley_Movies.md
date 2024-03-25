@@ -4,7 +4,7 @@ title: "All 18 Carson Kressley Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-18-carson-kressley-movies-in-order/"
+slug: "/movies/all-carson-kressley-movies-in-order/"
 
 excerpt: ""
 

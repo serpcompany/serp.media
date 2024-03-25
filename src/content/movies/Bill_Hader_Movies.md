@@ -4,7 +4,7 @@ title: "All 79 Bill Hader Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-79-bill-hader-movies-in-order/"
+slug: "/movies/all-bill-hader-movies-in-order/"
 
 excerpt: ""
 

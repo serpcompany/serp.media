@@ -4,7 +4,7 @@ title: "All 29 Barbara Carrera Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-29-barbara-carrera-movies-in-order/"
+slug: "/movies/all-barbara-carrera-movies-in-order/"
 
 excerpt: ""
 

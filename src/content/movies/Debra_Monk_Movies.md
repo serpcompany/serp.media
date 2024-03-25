@@ -4,7 +4,7 @@ title: "All 35 Debra Monk Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-35-debra-monk-movies-in-order/"
+slug: "/movies/all-debra-monk-movies-in-order/"
 
 excerpt: ""
 

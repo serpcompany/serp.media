@@ -4,7 +4,7 @@ title: "All 23 Chad Michael Collins Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-23-chad-michael-collins-movies-in-order/"
+slug: "/movies/all-chad-michael-collins-movies-in-order/"
 
 excerpt: ""
 

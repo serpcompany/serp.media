@@ -4,7 +4,7 @@ title: "All 77 Dale Dye Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-77-dale-dye-movies-in-order/"
+slug: "/movies/all-dale-dye-movies-in-order/"
 
 excerpt: ""
 

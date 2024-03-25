@@ -4,7 +4,7 @@ title: "All 23 Calista Flockhart Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-23-calista-flockhart-movies-in-order/"
+slug: "/movies/all-calista-flockhart-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 34 America Ferrera Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-34-america-ferrera-movies-in-order/"
+slug: "/movies/all-america-ferrera-movies-in-order/"
 
 excerpt: ""
 

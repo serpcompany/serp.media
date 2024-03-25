@@ -4,7 +4,7 @@ title: "All 71 Alfonso Cuaron Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-71-alfonso-cuaron-movies-in-order/"
+slug: "/movies/all-alfonso-cuaron-movies-in-order/"
 
 excerpt: ""
 

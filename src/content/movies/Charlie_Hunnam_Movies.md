@@ -4,7 +4,7 @@ title: "All 24 Charlie Hunnam Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-24-charlie-hunnam-movies-in-order/"
+slug: "/movies/all-charlie-hunnam-movies-in-order/"
 
 excerpt: ""
 

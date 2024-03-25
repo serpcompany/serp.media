@@ -4,7 +4,7 @@ title: "All 57 Don Rickles Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-57-don-rickles-movies-in-order/"
+slug: "/movies/all-don-rickles-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 12 David Mackenzie Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-12-david-mackenzie-movies-in-order/"
+slug: "/movies/all-david-mackenzie-movies-in-order/"
 
 excerpt: ""
 

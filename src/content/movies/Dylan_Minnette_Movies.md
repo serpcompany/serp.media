@@ -4,7 +4,7 @@ title: "All 14 Dylan Minnette Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-14-dylan-minnette-movies-in-order/"
+slug: "/movies/all-dylan-minnette-movies-in-order/"
 
 excerpt: ""
 

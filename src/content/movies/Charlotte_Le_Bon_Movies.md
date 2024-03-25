@@ -4,7 +4,7 @@ title: "All 23 Charlotte Le Bon Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-23-charlotte-le-bon-movies-in-order/"
+slug: "/movies/all-charlotte-le-bon-movies-in-order/"
 
 excerpt: ""
 

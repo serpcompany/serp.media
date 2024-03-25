@@ -4,7 +4,7 @@ title: "All 42 Albert Brooks Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-42-albert-brooks-movies-in-order/"
+slug: "/movies/all-albert-brooks-movies-in-order/"
 
 excerpt: ""
 

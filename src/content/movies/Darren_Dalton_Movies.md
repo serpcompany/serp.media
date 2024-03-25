@@ -4,7 +4,7 @@ title: "All 16 Darren Dalton Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-darren-dalton-movies-in-order/"
+slug: "/movies/all-darren-dalton-movies-in-order/"
 
 excerpt: ""
 

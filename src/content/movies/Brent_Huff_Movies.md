@@ -4,7 +4,7 @@ title: "All 49 Brent Huff Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-49-brent-huff-movies-in-order/"
+slug: "/movies/all-brent-huff-movies-in-order/"
 
 excerpt: ""
 

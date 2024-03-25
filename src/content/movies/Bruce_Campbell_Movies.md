@@ -4,7 +4,7 @@ title: "All 80 Bruce Campbell Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-80-bruce-campbell-movies-in-order/"
+slug: "/movies/all-bruce-campbell-movies-in-order/"
 
 excerpt: ""
 

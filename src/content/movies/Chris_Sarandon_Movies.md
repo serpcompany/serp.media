@@ -4,7 +4,7 @@ title: "All 62 Chris Sarandon Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-62-chris-sarandon-movies-in-order/"
+slug: "/movies/all-chris-sarandon-movies-in-order/"
 
 excerpt: ""
 

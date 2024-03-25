@@ -4,7 +4,7 @@ title: "All 23 Brenda Song Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-23-brenda-song-movies-in-order/"
+slug: "/movies/all-brenda-song-movies-in-order/"
 
 excerpt: ""
 

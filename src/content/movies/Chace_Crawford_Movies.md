@@ -4,7 +4,7 @@ title: "All 20 Chace Crawford Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-20-chace-crawford-movies-in-order/"
+slug: "/movies/all-chace-crawford-movies-in-order/"
 
 excerpt: ""
 

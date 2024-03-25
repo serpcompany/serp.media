@@ -4,7 +4,7 @@ title: "All 38 Chris Hardwick Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-38-chris-hardwick-movies-in-order/"
+slug: "/movies/all-chris-hardwick-movies-in-order/"
 
 excerpt: ""
 

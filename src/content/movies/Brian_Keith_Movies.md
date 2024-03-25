@@ -4,7 +4,7 @@ title: "All 59 Brian Keith Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-59-brian-keith-movies-in-order/"
+slug: "/movies/all-brian-keith-movies-in-order/"
 
 excerpt: ""
 

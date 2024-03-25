@@ -4,7 +4,7 @@ title: "All 22 Dominic Scott Kay Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-22-dominic-scott-kay-movies-in-order/"
+slug: "/movies/all-dominic-scott-kay-movies-in-order/"
 
 excerpt: ""
 

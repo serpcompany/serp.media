@@ -4,7 +4,7 @@ title: "All 90 Brooke Shields Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-90-brooke-shields-movies-in-order/"
+slug: "/movies/all-brooke-shields-movies-in-order/"
 
 excerpt: ""
 

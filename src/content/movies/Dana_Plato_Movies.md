@@ -4,7 +4,7 @@ title: "All 19 Dana Plato Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-19-dana-plato-movies-in-order/"
+slug: "/movies/all-dana-plato-movies-in-order/"
 
 excerpt: ""
 

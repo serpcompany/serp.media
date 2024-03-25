@@ -4,7 +4,7 @@ title: "All 20 Charles Esten Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-20-charles-esten-movies-in-order/"
+slug: "/movies/all-charles-esten-movies-in-order/"
 
 excerpt: ""
 

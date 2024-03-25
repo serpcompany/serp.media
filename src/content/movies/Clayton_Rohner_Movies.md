@@ -4,7 +4,7 @@ title: "All 40 Clayton Rohner Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-40-clayton-rohner-movies-in-order/"
+slug: "/movies/all-clayton-rohner-movies-in-order/"
 
 excerpt: ""
 

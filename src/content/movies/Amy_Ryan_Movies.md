@@ -4,7 +4,7 @@ title: "All 41 Amy Ryan Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-41-amy-ryan-movies-in-order/"
+slug: "/movies/all-amy-ryan-movies-in-order/"
 
 excerpt: ""
 

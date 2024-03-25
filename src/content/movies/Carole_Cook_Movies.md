@@ -4,7 +4,7 @@ title: "All 24 Carole Cook Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-24-carole-cook-movies-in-order/"
+slug: "/movies/all-carole-cook-movies-in-order/"
 
 excerpt: ""
 

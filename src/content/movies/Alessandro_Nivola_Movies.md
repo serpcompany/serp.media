@@ -4,7 +4,7 @@ title: "All 48 Alessandro Nivola Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-48-alessandro-nivola-movies-in-order/"
+slug: "/movies/all-alessandro-nivola-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 27 Anjanette Comer Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-27-anjanette-comer-movies-in-order/"
+slug: "/movies/all-anjanette-comer-movies-in-order/"
 
 excerpt: ""
 

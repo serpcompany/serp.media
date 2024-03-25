@@ -4,7 +4,7 @@ title: "All 20 Drew Fuller Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-20-drew-fuller-movies-in-order/"
+slug: "/movies/all-drew-fuller-movies-in-order/"
 
 excerpt: ""
 

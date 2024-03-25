@@ -4,7 +4,7 @@ title: "All 44 Bella Thorne Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-44-bella-thorne-movies-in-order/"
+slug: "/movies/all-bella-thorne-movies-in-order/"
 
 excerpt: ""
 

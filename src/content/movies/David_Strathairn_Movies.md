@@ -4,7 +4,7 @@ title: "All 110 David Strathairn Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-110-david-strathairn-movies-in-order/"
+slug: "/movies/all-david-strathairn-movies-in-order/"
 
 excerpt: ""
 

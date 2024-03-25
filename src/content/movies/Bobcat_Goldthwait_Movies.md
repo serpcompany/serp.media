@@ -4,7 +4,7 @@ title: "All 54 Bobcat Goldthwait Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-54-bobcat-goldthwait-movies-in-order/"
+slug: "/movies/all-bobcat-goldthwait-movies-in-order/"
 
 excerpt: ""
 

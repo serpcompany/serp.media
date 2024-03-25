@@ -4,7 +4,7 @@ title: "All 22 Alfonso Herrera Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-22-alfonso-herrera-movies-in-order/"
+slug: "/movies/all-alfonso-herrera-movies-in-order/"
 
 excerpt: ""
 

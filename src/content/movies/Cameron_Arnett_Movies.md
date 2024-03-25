@@ -4,7 +4,7 @@ title: "All 31 Cameron Arnett Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-31-cameron-arnett-movies-in-order/"
+slug: "/movies/all-cameron-arnett-movies-in-order/"
 
 excerpt: ""
 

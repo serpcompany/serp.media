@@ -4,7 +4,7 @@ title: "All 53 BJ Harrison Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-53-bj-harrison-movies-in-order/"
+slug: "/movies/all-bj-harrison-movies-in-order/"
 
 excerpt: ""
 

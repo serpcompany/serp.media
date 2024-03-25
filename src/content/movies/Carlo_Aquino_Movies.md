@@ -4,7 +4,7 @@ title: "All 53 Carlo Aquino Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-53-carlo-aquino-movies-in-order/"
+slug: "/movies/all-carlo-aquino-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 35 Danny Boyle Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-35-danny-boyle-movies-in-order/"
+slug: "/movies/all-danny-boyle-movies-in-order/"
 
 excerpt: ""
 

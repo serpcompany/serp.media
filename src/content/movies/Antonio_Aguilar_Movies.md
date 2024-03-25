@@ -4,7 +4,7 @@ title: "All 118 Antonio Aguilar Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-118-antonio-aguilar-movies-in-order/"
+slug: "/movies/all-antonio-aguilar-movies-in-order/"
 
 excerpt: ""
 

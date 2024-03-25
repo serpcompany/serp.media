@@ -4,7 +4,7 @@ title: "All 32 Brian Austin Green Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-32-brian-austin-green-movies-in-order/"
+slug: "/movies/all-brian-austin-green-movies-in-order/"
 
 excerpt: ""
 

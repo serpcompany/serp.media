@@ -4,7 +4,7 @@ title: "All 64 David Clennon Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-64-david-clennon-movies-in-order/"
+slug: "/movies/all-david-clennon-movies-in-order/"
 
 excerpt: ""
 

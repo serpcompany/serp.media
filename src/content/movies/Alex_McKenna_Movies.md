@@ -4,7 +4,7 @@ title: "All 18 Alex McKenna Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-18-alex-mckenna-movies-in-order/"
+slug: "/movies/all-alex-mckenna-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 105 Alicia Keys Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-105-alicia-keys-movies-in-order/"
+slug: "/movies/all-alicia-keys-movies-in-order/"
 
 excerpt: ""
 

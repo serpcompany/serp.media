@@ -4,7 +4,7 @@ title: "All 12 Cynthia Bailey Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-12-cynthia-bailey-movies-in-order/"
+slug: "/movies/all-cynthia-bailey-movies-in-order/"
 
 excerpt: ""
 

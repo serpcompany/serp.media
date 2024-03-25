@@ -4,7 +4,7 @@ title: "All 20 Bo Dietl Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-20-bo-dietl-movies-in-order/"
+slug: "/movies/all-bo-dietl-movies-in-order/"
 
 excerpt: ""
 

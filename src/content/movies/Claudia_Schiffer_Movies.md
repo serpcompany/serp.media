@@ -4,7 +4,7 @@ title: "All 40 Claudia Schiffer Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-40-claudia-schiffer-movies-in-order/"
+slug: "/movies/all-claudia-schiffer-movies-in-order/"
 
 excerpt: ""
 

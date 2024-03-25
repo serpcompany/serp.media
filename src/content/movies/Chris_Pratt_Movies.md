@@ -4,7 +4,7 @@ title: "All 42 Chris Pratt Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-42-chris-pratt-movies-in-order/"
+slug: "/movies/all-chris-pratt-movies-in-order/"
 
 excerpt: ""
 

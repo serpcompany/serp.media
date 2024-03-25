@@ -4,7 +4,7 @@ title: "All 45 Bryan Brown Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-45-bryan-brown-movies-in-order/"
+slug: "/movies/all-bryan-brown-movies-in-order/"
 
 excerpt: ""
 

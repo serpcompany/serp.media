@@ -4,7 +4,7 @@ title: "All 40 Chris Hemsworth Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-40-chris-hemsworth-movies-in-order/"
+slug: "/movies/all-chris-hemsworth-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 29 Christopher Denham Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-29-christopher-denham-movies-in-order/"
+slug: "/movies/all-christopher-denham-movies-in-order/"
 
 excerpt: ""
 

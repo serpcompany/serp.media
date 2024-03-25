@@ -4,7 +4,7 @@ title: "All 477 David Bowie Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-477-david-bowie-movies-in-order/"
+slug: "/movies/all-david-bowie-movies-in-order/"
 
 excerpt: ""
 

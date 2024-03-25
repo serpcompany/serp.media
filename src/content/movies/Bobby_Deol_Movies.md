@@ -4,7 +4,7 @@ title: "All 51 Bobby Deol Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-51-bobby-deol-movies-in-order/"
+slug: "/movies/all-bobby-deol-movies-in-order/"
 
 excerpt: ""
 

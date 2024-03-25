@@ -4,7 +4,7 @@ title: "All 36 Divine Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-36-divine-movies-in-order/"
+slug: "/movies/all-divine-movies-in-order/"
 
 excerpt: ""
 

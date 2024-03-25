@@ -4,7 +4,7 @@ title: "All 29 Brooke Bundy Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-29-brooke-bundy-movies-in-order/"
+slug: "/movies/all-brooke-bundy-movies-in-order/"
 
 excerpt: ""
 

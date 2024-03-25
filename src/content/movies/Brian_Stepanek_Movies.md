@@ -4,7 +4,7 @@ title: "All 24 Brian Stepanek Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-24-brian-stepanek-movies-in-order/"
+slug: "/movies/all-brian-stepanek-movies-in-order/"
 
 excerpt: ""
 

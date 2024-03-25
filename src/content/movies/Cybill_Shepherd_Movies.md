@@ -4,7 +4,7 @@ title: "All 58 Cybill Shepherd Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-58-cybill-shepherd-movies-in-order/"
+slug: "/movies/all-cybill-shepherd-movies-in-order/"
 
 excerpt: ""
 

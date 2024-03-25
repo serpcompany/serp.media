@@ -4,7 +4,7 @@ title: "All 46 Alec Guinness Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-46-alec-guinness-movies-in-order/"
+slug: "/movies/all-alec-guinness-movies-in-order/"
 
 excerpt: ""
 

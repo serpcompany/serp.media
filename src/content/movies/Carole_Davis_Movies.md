@@ -4,7 +4,7 @@ title: "All 25 Carole Davis Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-25-carole-davis-movies-in-order/"
+slug: "/movies/all-carole-davis-movies-in-order/"
 
 excerpt: ""
 

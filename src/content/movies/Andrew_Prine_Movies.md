@@ -4,7 +4,7 @@ title: "All 53 Andrew Prine Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-53-andrew-prine-movies-in-order/"
+slug: "/movies/all-andrew-prine-movies-in-order/"
 
 excerpt: ""
 

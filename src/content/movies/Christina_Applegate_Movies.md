@@ -4,7 +4,7 @@ title: "All 53 Christina Applegate Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-53-christina-applegate-movies-in-order/"
+slug: "/movies/all-christina-applegate-movies-in-order/"
 
 excerpt: ""
 

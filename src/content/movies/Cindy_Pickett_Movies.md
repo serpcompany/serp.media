@@ -4,7 +4,7 @@ title: "All 44 Cindy Pickett Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-44-cindy-pickett-movies-in-order/"
+slug: "/movies/all-cindy-pickett-movies-in-order/"
 
 excerpt: ""
 

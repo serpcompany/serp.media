@@ -4,7 +4,7 @@ title: "All 25 Anderson Silva Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-25-anderson-silva-movies-in-order/"
+slug: "/movies/all-anderson-silva-movies-in-order/"
 
 excerpt: ""
 

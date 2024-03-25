@@ -4,7 +4,7 @@ title: "All 10 Andrew Koji Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-10-andrew-koji-movies-in-order/"
+slug: "/movies/all-andrew-koji-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 44 Alyssa Milano Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-44-alyssa-milano-movies-in-order/"
+slug: "/movies/all-alyssa-milano-movies-in-order/"
 
 excerpt: ""
 

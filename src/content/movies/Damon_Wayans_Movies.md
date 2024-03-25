@@ -4,7 +4,7 @@ title: "All 35 Damon Wayans Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-35-damon-wayans-movies-in-order/"
+slug: "/movies/all-damon-wayans-movies-in-order/"
 
 excerpt: ""
 

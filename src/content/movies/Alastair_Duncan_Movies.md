@@ -4,7 +4,7 @@ title: "All 18 Alastair Duncan Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-18-alastair-duncan-movies-in-order/"
+slug: "/movies/all-alastair-duncan-movies-in-order/"
 
 excerpt: ""
 

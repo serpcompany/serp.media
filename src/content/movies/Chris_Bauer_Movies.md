@@ -4,7 +4,7 @@ title: "All 40 Chris Bauer Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-40-chris-bauer-movies-in-order/"
+slug: "/movies/all-chris-bauer-movies-in-order/"
 
 excerpt: ""
 

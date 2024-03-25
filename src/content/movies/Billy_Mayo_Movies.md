@@ -4,7 +4,7 @@ title: "All 19 Billy Mayo Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-19-billy-mayo-movies-in-order/"
+slug: "/movies/all-billy-mayo-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 162 Belle Knox Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-162-belle-knox-movies-in-order/"
+slug: "/movies/all-belle-knox-movies-in-order/"
 
 excerpt: ""
 

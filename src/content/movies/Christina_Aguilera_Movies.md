@@ -4,7 +4,7 @@ title: "All 62 Christina Aguilera Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-62-christina-aguilera-movies-in-order/"
+slug: "/movies/all-christina-aguilera-movies-in-order/"
 
 excerpt: ""
 

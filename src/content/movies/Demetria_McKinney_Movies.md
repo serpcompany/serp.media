@@ -4,7 +4,7 @@ title: "All 24 Demetria McKinney Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-24-demetria-mckinney-movies-in-order/"
+slug: "/movies/all-demetria-mckinney-movies-in-order/"
 
 excerpt: ""
 

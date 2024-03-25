@@ -4,7 +4,7 @@ title: "All 17 Claire Foy Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-17-claire-foy-movies-in-order/"
+slug: "/movies/all-claire-foy-movies-in-order/"
 
 excerpt: ""
 

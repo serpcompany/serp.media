@@ -4,7 +4,7 @@ title: "All 21 Daniel Padilla Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-21-daniel-padilla-movies-in-order/"
+slug: "/movies/all-daniel-padilla-movies-in-order/"
 
 excerpt: ""
 

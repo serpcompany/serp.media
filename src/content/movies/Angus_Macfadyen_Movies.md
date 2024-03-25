@@ -4,7 +4,7 @@ title: "All 47 Angus Macfadyen Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-47-angus-macfadyen-movies-in-order/"
+slug: "/movies/all-angus-macfadyen-movies-in-order/"
 
 excerpt: ""
 

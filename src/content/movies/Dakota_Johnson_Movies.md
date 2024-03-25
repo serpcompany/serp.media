@@ -4,7 +4,7 @@ title: "All 36 Dakota Johnson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-36-dakota-johnson-movies-in-order/"
+slug: "/movies/all-dakota-johnson-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 46 Alexander Skarsgard Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-46-alexander-skarsgard-movies-in-order/"
+slug: "/movies/all-alexander-skarsgard-movies-in-order/"
 
 excerpt: ""
 

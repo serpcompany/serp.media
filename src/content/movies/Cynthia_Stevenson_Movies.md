@@ -4,7 +4,7 @@ title: "All 27 Cynthia Stevenson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-27-cynthia-stevenson-movies-in-order/"
+slug: "/movies/all-cynthia-stevenson-movies-in-order/"
 
 excerpt: ""
 

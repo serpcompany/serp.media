@@ -4,7 +4,7 @@ title: "All 27 Chelsea Hobbs Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-27-chelsea-hobbs-movies-in-order/"
+slug: "/movies/all-chelsea-hobbs-movies-in-order/"
 
 excerpt: ""
 

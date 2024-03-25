@@ -4,7 +4,7 @@ title: "All 55 Daphne Zuniga Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-55-daphne-zuniga-movies-in-order/"
+slug: "/movies/all-daphne-zuniga-movies-in-order/"
 
 excerpt: ""
 

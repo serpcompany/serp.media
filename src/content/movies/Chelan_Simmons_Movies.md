@@ -4,7 +4,7 @@ title: "All 39 Chelan Simmons Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-39-chelan-simmons-movies-in-order/"
+slug: "/movies/all-chelan-simmons-movies-in-order/"
 
 excerpt: ""
 

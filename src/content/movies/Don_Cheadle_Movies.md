@@ -4,7 +4,7 @@ title: "All 81 Don Cheadle Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-81-don-cheadle-movies-in-order/"
+slug: "/movies/all-don-cheadle-movies-in-order/"
 
 excerpt: ""
 

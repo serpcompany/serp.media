@@ -4,7 +4,7 @@ title: "All 30 Dwier Brown Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-30-dwier-brown-movies-in-order/"
+slug: "/movies/all-dwier-brown-movies-in-order/"
 
 excerpt: ""
 

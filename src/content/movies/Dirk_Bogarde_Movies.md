@@ -4,7 +4,7 @@ title: "All 83 Dirk Bogarde Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-83-dirk-bogarde-movies-in-order/"
+slug: "/movies/all-dirk-bogarde-movies-in-order/"
 
 excerpt: ""
 

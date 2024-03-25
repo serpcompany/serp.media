@@ -4,7 +4,7 @@ title: "All 26 Dallas Roberts Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-26-dallas-roberts-movies-in-order/"
+slug: "/movies/all-dallas-roberts-movies-in-order/"
 
 excerpt: ""
 

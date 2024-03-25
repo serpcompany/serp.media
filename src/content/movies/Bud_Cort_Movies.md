@@ -4,7 +4,7 @@ title: "All 52 Bud Cort Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-52-bud-cort-movies-in-order/"
+slug: "/movies/all-bud-cort-movies-in-order/"
 
 excerpt: ""
 

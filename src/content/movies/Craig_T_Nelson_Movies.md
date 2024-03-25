@@ -4,7 +4,7 @@ title: "All 48 Craig T Nelson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-48-craig-t-nelson-movies-in-order/"
+slug: "/movies/all-craig-t-nelson-movies-in-order/"
 
 excerpt: ""
 

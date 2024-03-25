@@ -4,7 +4,7 @@ title: "All 28 Ana Ularu Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-28-ana-ularu-movies-in-order/"
+slug: "/movies/all-ana-ularu-movies-in-order/"
 
 excerpt: ""
 

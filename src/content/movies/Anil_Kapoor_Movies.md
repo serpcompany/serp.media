@@ -4,7 +4,7 @@ title: "All 131 Anil Kapoor Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-131-anil-kapoor-movies-in-order/"
+slug: "/movies/all-anil-kapoor-movies-in-order/"
 
 excerpt: ""
 

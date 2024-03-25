@@ -4,7 +4,7 @@ title: "All 35 Cindy Crawford Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-35-cindy-crawford-movies-in-order/"
+slug: "/movies/all-cindy-crawford-movies-in-order/"
 
 excerpt: ""
 

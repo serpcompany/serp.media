@@ -4,7 +4,7 @@ title: "All 76 David Cross Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-76-david-cross-movies-in-order/"
+slug: "/movies/all-david-cross-movies-in-order/"
 
 excerpt: ""
 

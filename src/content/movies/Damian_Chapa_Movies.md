@@ -4,7 +4,7 @@ title: "All 57 Damian Chapa Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-57-damian-chapa-movies-in-order/"
+slug: "/movies/all-damian-chapa-movies-in-order/"
 
 excerpt: ""
 

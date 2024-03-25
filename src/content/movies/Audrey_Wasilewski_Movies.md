@@ -4,7 +4,7 @@ title: "All 49 Audrey Wasilewski Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-49-audrey-wasilewski-movies-in-order/"
+slug: "/movies/all-audrey-wasilewski-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 19 Ashley Benson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-19-ashley-benson-movies-in-order/"
+slug: "/movies/all-ashley-benson-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 21 Christopher Masterson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-21-christopher-masterson-movies-in-order/"
+slug: "/movies/all-christopher-masterson-movies-in-order/"
 
 excerpt: ""
 

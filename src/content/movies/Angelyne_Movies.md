@@ -4,7 +4,7 @@ title: "All 17 Angelyne Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-17-angelyne-movies-in-order/"
+slug: "/movies/all-angelyne-movies-in-order/"
 
 excerpt: ""
 

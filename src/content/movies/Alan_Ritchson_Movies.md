@@ -4,7 +4,7 @@ title: "All 23 Alan Ritchson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-23-alan-ritchson-movies-in-order/"
+slug: "/movies/all-alan-ritchson-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 38 Brad Sullivan Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-38-brad-sullivan-movies-in-order/"
+slug: "/movies/all-brad-sullivan-movies-in-order/"
 
 excerpt: ""
 

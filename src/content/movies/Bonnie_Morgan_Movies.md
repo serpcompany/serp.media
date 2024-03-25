@@ -4,7 +4,7 @@ title: "All 37 Bonnie Morgan Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-37-bonnie-morgan-movies-in-order/"
+slug: "/movies/all-bonnie-morgan-movies-in-order/"
 
 excerpt: ""
 

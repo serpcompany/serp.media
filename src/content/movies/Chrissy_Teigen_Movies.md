@@ -4,7 +4,7 @@ title: "All 14 Chrissy Teigen Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-14-chrissy-teigen-movies-in-order/"
+slug: "/movies/all-chrissy-teigen-movies-in-order/"
 
 excerpt: ""
 

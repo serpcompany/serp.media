@@ -4,7 +4,7 @@ title: "All 18 Carl Franklin Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-18-carl-franklin-movies-in-order/"
+slug: "/movies/all-carl-franklin-movies-in-order/"
 
 excerpt: ""
 

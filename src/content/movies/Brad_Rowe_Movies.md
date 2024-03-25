@@ -4,7 +4,7 @@ title: "All 33 Brad Rowe Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-33-brad-rowe-movies-in-order/"
+slug: "/movies/all-brad-rowe-movies-in-order/"
 
 excerpt: ""
 

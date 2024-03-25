@@ -4,7 +4,7 @@ title: "All 36 Affion Crockett Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-36-affion-crockett-movies-in-order/"
+slug: "/movies/all-affion-crockett-movies-in-order/"
 
 excerpt: ""
 

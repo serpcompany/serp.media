@@ -4,7 +4,7 @@ title: "All 16 Alex Vincent Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-alex-vincent-movies-in-order/"
+slug: "/movies/all-alex-vincent-movies-in-order/"
 
 excerpt: ""
 

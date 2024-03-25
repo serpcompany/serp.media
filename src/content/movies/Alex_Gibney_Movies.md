@@ -4,7 +4,7 @@ title: "All 55 Alex Gibney Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-55-alex-gibney-movies-in-order/"
+slug: "/movies/all-alex-gibney-movies-in-order/"
 
 excerpt: ""
 

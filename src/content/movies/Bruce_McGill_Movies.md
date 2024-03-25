@@ -4,7 +4,7 @@ title: "All 93 Bruce McGill Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-93-bruce-mcgill-movies-in-order/"
+slug: "/movies/all-bruce-mcgill-movies-in-order/"
 
 excerpt: ""
 

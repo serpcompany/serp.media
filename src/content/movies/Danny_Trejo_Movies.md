@@ -4,7 +4,7 @@ title: "All 269 Danny Trejo Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-269-danny-trejo-movies-in-order/"
+slug: "/movies/all-danny-trejo-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 35 Anthony Rapp Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-35-anthony-rapp-movies-in-order/"
+slug: "/movies/all-anthony-rapp-movies-in-order/"
 
 excerpt: ""
 

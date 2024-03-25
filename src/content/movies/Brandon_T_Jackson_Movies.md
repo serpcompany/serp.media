@@ -4,7 +4,7 @@ title: "All 31 Brandon T Jackson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-31-brandon-t-jackson-movies-in-order/"
+slug: "/movies/all-brandon-t-jackson-movies-in-order/"
 
 excerpt: ""
 

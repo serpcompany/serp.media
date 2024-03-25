@@ -4,7 +4,7 @@ title: "All 21 Alison Sudol Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-21-alison-sudol-movies-in-order/"
+slug: "/movies/all-alison-sudol-movies-in-order/"
 
 excerpt: ""
 

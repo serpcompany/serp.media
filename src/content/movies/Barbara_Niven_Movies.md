@@ -4,7 +4,7 @@ title: "All 51 Barbara Niven Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-51-barbara-niven-movies-in-order/"
+slug: "/movies/all-barbara-niven-movies-in-order/"
 
 excerpt: ""
 

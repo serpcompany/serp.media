@@ -4,7 +4,7 @@ title: "All 55 Bo Hopkins Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-55-bo-hopkins-movies-in-order/"
+slug: "/movies/all-bo-hopkins-movies-in-order/"
 
 excerpt: ""
 

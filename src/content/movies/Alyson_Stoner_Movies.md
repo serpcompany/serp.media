@@ -4,7 +4,7 @@ title: "All 30 Alyson Stoner Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-30-alyson-stoner-movies-in-order/"
+slug: "/movies/all-alyson-stoner-movies-in-order/"
 
 excerpt: ""
 

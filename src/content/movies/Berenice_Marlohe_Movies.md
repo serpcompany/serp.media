@@ -4,7 +4,7 @@ title: "All 11 Berenice Marlohe Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-11-berenice-marlohe-movies-in-order/"
+slug: "/movies/all-berenice-marlohe-movies-in-order/"
 
 excerpt: ""
 

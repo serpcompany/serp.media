@@ -4,7 +4,7 @@ title: "All 64 Arthur Roberts Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-64-arthur-roberts-movies-in-order/"
+slug: "/movies/all-arthur-roberts-movies-in-order/"
 
 excerpt: ""
 

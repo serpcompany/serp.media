@@ -4,7 +4,7 @@ title: "All 12 Chris Brochu Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-12-chris-brochu-movies-in-order/"
+slug: "/movies/all-chris-brochu-movies-in-order/"
 
 excerpt: ""
 

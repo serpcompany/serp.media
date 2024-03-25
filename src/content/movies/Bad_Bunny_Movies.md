@@ -4,7 +4,7 @@ title: "All 20 Bad Bunny Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-20-bad-bunny-movies-in-order/"
+slug: "/movies/all-bad-bunny-movies-in-order/"
 
 excerpt: ""
 

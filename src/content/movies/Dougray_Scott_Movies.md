@@ -4,7 +4,7 @@ title: "All 42 Dougray Scott Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-42-dougray-scott-movies-in-order/"
+slug: "/movies/all-dougray-scott-movies-in-order/"
 
 excerpt: ""
 

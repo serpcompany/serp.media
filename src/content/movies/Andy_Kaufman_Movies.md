@@ -4,7 +4,7 @@ title: "All 23 Andy Kaufman Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-23-andy-kaufman-movies-in-order/"
+slug: "/movies/all-andy-kaufman-movies-in-order/"
 
 excerpt: ""
 

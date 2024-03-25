@@ -4,7 +4,7 @@ title: "All 37 Doug Bradley Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-37-doug-bradley-movies-in-order/"
+slug: "/movies/all-doug-bradley-movies-in-order/"
 
 excerpt: ""
 

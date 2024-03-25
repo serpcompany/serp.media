@@ -4,7 +4,7 @@ title: "All 76 Cameron Diaz Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-76-cameron-diaz-movies-in-order/"
+slug: "/movies/all-cameron-diaz-movies-in-order/"
 
 excerpt: ""
 

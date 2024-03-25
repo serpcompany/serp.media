@@ -4,7 +4,7 @@ title: "All 13 Bel Powley Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-13-bel-powley-movies-in-order/"
+slug: "/movies/all-bel-powley-movies-in-order/"
 
 excerpt: ""
 

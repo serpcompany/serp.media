@@ -4,7 +4,7 @@ title: "All 150 Arnold Schwarzenegger Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-150-arnold-schwarzenegger-movies-in-order/"
+slug: "/movies/all-arnold-schwarzenegger-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 34 Bam Margera Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-34-bam-margera-movies-in-order/"
+slug: "/movies/all-bam-margera-movies-in-order/"
 
 excerpt: ""
 

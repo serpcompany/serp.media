@@ -4,7 +4,7 @@ title: "All 29 Angelique Pettyjohn Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-29-angelique-pettyjohn-movies-in-order/"
+slug: "/movies/all-angelique-pettyjohn-movies-in-order/"
 
 excerpt: ""
 

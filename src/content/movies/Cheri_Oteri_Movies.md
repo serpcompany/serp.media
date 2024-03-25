@@ -4,7 +4,7 @@ title: "All 39 Cheri Oteri Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-39-cheri-oteri-movies-in-order/"
+slug: "/movies/all-cheri-oteri-movies-in-order/"
 
 excerpt: ""
 

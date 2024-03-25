@@ -4,7 +4,7 @@ title: "All 57 Claire Denis Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-57-claire-denis-movies-in-order/"
+slug: "/movies/all-claire-denis-movies-in-order/"
 
 excerpt: ""
 

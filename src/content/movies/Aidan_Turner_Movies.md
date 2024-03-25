@@ -4,7 +4,7 @@ title: "All 12 Aidan Turner Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-12-aidan-turner-movies-in-order/"
+slug: "/movies/all-aidan-turner-movies-in-order/"
 
 excerpt: ""
 

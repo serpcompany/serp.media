@@ -4,7 +4,7 @@ title: "All 57 Broderick Crawford Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-57-broderick-crawford-movies-in-order/"
+slug: "/movies/all-broderick-crawford-movies-in-order/"
 
 excerpt: ""
 

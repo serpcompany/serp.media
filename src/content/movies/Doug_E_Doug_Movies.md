@@ -4,7 +4,7 @@ title: "All 23 Doug E Doug Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-23-doug-e-doug-movies-in-order/"
+slug: "/movies/all-doug-e-doug-movies-in-order/"
 
 excerpt: ""
 

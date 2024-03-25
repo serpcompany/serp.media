@@ -4,7 +4,7 @@ title: "All 18 Byron Allen Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-18-byron-allen-movies-in-order/"
+slug: "/movies/all-byron-allen-movies-in-order/"
 
 excerpt: ""
 

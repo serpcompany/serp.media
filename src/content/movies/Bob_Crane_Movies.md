@@ -4,7 +4,7 @@ title: "All 10 Bob Crane Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-10-bob-crane-movies-in-order/"
+slug: "/movies/all-bob-crane-movies-in-order/"
 
 excerpt: ""
 

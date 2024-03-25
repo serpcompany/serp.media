@@ -4,7 +4,7 @@ title: "All 42 Adriana Barraza Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-42-adriana-barraza-movies-in-order/"
+slug: "/movies/all-adriana-barraza-movies-in-order/"
 
 excerpt: ""
 

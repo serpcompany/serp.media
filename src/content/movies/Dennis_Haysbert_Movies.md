@@ -4,7 +4,7 @@ title: "All 67 Dennis Haysbert Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-67-dennis-haysbert-movies-in-order/"
+slug: "/movies/all-dennis-haysbert-movies-in-order/"
 
 excerpt: ""
 

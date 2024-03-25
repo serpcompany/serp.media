@@ -4,7 +4,7 @@ title: "All 39 Art Carney Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-39-art-carney-movies-in-order/"
+slug: "/movies/all-art-carney-movies-in-order/"
 
 excerpt: ""
 

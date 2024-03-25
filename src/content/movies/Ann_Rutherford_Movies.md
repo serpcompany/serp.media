@@ -4,7 +4,7 @@ title: "All 36 Ann Rutherford Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-36-ann-rutherford-movies-in-order/"
+slug: "/movies/all-ann-rutherford-movies-in-order/"
 
 excerpt: ""
 

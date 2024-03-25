@@ -4,7 +4,7 @@ title: "All 52 Brea Grant Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-52-brea-grant-movies-in-order/"
+slug: "/movies/all-brea-grant-movies-in-order/"
 
 excerpt: ""
 

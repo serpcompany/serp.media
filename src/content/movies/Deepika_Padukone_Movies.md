@@ -4,7 +4,7 @@ title: "All 41 Deepika Padukone Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-41-deepika-padukone-movies-in-order/"
+slug: "/movies/all-deepika-padukone-movies-in-order/"
 
 excerpt: ""
 

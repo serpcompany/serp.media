@@ -4,7 +4,7 @@ title: "All 255 Christopher Lee Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-255-christopher-lee-movies-in-order/"
+slug: "/movies/all-christopher-lee-movies-in-order/"
 
 excerpt: ""
 

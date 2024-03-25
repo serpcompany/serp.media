@@ -4,7 +4,7 @@ title: "All 35 Bill Burr Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-35-bill-burr-movies-in-order/"
+slug: "/movies/all-bill-burr-movies-in-order/"
 
 excerpt: ""
 

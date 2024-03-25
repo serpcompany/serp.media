@@ -4,7 +4,7 @@ title: "All 30 Aksel Hennie Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-30-aksel-hennie-movies-in-order/"
+slug: "/movies/all-aksel-hennie-movies-in-order/"
 
 excerpt: ""
 

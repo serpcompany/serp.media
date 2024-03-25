@@ -4,7 +4,7 @@ title: "All 42 David Schofield Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-42-david-schofield-movies-in-order/"
+slug: "/movies/all-david-schofield-movies-in-order/"
 
 excerpt: ""
 

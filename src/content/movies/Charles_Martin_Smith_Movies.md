@@ -4,7 +4,7 @@ title: "All 54 Charles Martin Smith Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-54-charles-martin-smith-movies-in-order/"
+slug: "/movies/all-charles-martin-smith-movies-in-order/"
 
 excerpt: ""
 

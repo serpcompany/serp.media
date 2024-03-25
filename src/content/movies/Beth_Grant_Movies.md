@@ -4,7 +4,7 @@ title: "All 102 Beth Grant Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-102-beth-grant-movies-in-order/"
+slug: "/movies/all-beth-grant-movies-in-order/"
 
 excerpt: ""
 

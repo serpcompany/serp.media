@@ -4,7 +4,7 @@ title: "All 80 Barbara Hershey Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-80-barbara-hershey-movies-in-order/"
+slug: "/movies/all-barbara-hershey-movies-in-order/"
 
 excerpt: ""
 

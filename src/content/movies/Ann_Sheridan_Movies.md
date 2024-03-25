@@ -4,7 +4,7 @@ title: "All 48 Ann Sheridan Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-48-ann-sheridan-movies-in-order/"
+slug: "/movies/all-ann-sheridan-movies-in-order/"
 
 excerpt: ""
 

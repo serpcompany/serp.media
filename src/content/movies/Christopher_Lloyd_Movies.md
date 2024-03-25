@@ -4,7 +4,7 @@ title: "All 116 Christopher Lloyd Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-116-christopher-lloyd-movies-in-order/"
+slug: "/movies/all-christopher-lloyd-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 63 Annette Bening Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-63-annette-bening-movies-in-order/"
+slug: "/movies/all-annette-bening-movies-in-order/"
 
 excerpt: ""
 

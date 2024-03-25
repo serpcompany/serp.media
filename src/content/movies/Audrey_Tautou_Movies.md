@@ -4,7 +4,7 @@ title: "All 39 Audrey Tautou Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-39-audrey-tautou-movies-in-order/"
+slug: "/movies/all-audrey-tautou-movies-in-order/"
 
 excerpt: ""
 

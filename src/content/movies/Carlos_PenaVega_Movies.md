@@ -4,7 +4,7 @@ title: "All 21 Carlos PenaVega Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-21-carlos-penavega-movies-in-order/"
+slug: "/movies/all-carlos-penavega-movies-in-order/"
 
 excerpt: ""
 

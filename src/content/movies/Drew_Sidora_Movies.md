@@ -4,7 +4,7 @@ title: "All 28 Drew Sidora Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-28-drew-sidora-movies-in-order/"
+slug: "/movies/all-drew-sidora-movies-in-order/"
 
 excerpt: ""
 

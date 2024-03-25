@@ -4,7 +4,7 @@ title: "All 56 Afemo Omilami Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-56-afemo-omilami-movies-in-order/"
+slug: "/movies/all-afemo-omilami-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 21 Chris Renaud Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-21-chris-renaud-movies-in-order/"
+slug: "/movies/all-chris-renaud-movies-in-order/"
 
 excerpt: ""
 

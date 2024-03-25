@@ -4,7 +4,7 @@ title: "All 38 Alex McArthur Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-38-alex-mcarthur-movies-in-order/"
+slug: "/movies/all-alex-mcarthur-movies-in-order/"
 
 excerpt: ""
 

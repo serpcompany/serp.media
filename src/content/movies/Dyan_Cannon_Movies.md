@@ -4,7 +4,7 @@ title: "All 44 Dyan Cannon Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-44-dyan-cannon-movies-in-order/"
+slug: "/movies/all-dyan-cannon-movies-in-order/"
 
 excerpt: ""
 

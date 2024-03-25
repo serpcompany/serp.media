@@ -4,7 +4,7 @@ title: "All 27 Claudia Jordan Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-27-claudia-jordan-movies-in-order/"
+slug: "/movies/all-claudia-jordan-movies-in-order/"
 
 excerpt: ""
 

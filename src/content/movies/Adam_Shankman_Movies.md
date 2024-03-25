@@ -4,7 +4,7 @@ title: "All 64 Adam Shankman Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-64-adam-shankman-movies-in-order/"
+slug: "/movies/all-adam-shankman-movies-in-order/"
 
 excerpt: ""
 

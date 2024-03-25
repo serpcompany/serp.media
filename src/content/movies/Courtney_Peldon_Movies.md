@@ -4,7 +4,7 @@ title: "All 30 Courtney Peldon Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-30-courtney-peldon-movies-in-order/"
+slug: "/movies/all-courtney-peldon-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 37 Ari Lehman Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-37-ari-lehman-movies-in-order/"
+slug: "/movies/all-ari-lehman-movies-in-order/"
 
 excerpt: ""
 

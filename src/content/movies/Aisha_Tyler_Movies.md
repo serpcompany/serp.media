@@ -4,7 +4,7 @@ title: "All 31 Aisha Tyler Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-31-aisha-tyler-movies-in-order/"
+slug: "/movies/all-aisha-tyler-movies-in-order/"
 
 excerpt: ""
 

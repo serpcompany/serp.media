@@ -4,7 +4,7 @@ title: "All 15 Douglas Booth Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-15-douglas-booth-movies-in-order/"
+slug: "/movies/all-douglas-booth-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 17 Carolina Bartczak Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-17-carolina-bartczak-movies-in-order/"
+slug: "/movies/all-carolina-bartczak-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 30 Ashley Laurence Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-30-ashley-laurence-movies-in-order/"
+slug: "/movies/all-ashley-laurence-movies-in-order/"
 
 excerpt: ""
 

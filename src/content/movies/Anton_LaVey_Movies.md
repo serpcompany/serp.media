@@ -4,7 +4,7 @@ title: "All 28 Anton LaVey Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-28-anton-lavey-movies-in-order/"
+slug: "/movies/all-anton-lavey-movies-in-order/"
 
 excerpt: ""
 

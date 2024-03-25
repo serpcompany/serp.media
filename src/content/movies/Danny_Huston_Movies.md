@@ -4,7 +4,7 @@ title: "All 64 Danny Huston Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-64-danny-huston-movies-in-order/"
+slug: "/movies/all-danny-huston-movies-in-order/"
 
 excerpt: ""
 

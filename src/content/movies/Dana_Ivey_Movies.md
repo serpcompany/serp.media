@@ -4,7 +4,7 @@ title: "All 39 Dana Ivey Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-39-dana-ivey-movies-in-order/"
+slug: "/movies/all-dana-ivey-movies-in-order/"
 
 excerpt: ""
 

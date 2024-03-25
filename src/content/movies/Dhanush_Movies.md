@@ -4,7 +4,7 @@ title: "All 68 Dhanush Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-68-dhanush-movies-in-order/"
+slug: "/movies/all-dhanush-movies-in-order/"
 
 excerpt: ""
 

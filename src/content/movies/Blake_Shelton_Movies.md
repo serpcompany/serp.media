@@ -4,7 +4,7 @@ title: "All 26 Blake Shelton Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-26-blake-shelton-movies-in-order/"
+slug: "/movies/all-blake-shelton-movies-in-order/"
 
 excerpt: ""
 

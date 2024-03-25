@@ -4,7 +4,7 @@ title: "All 111 Diana Ross Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-111-diana-ross-movies-in-order/"
+slug: "/movies/all-diana-ross-movies-in-order/"
 
 excerpt: ""
 

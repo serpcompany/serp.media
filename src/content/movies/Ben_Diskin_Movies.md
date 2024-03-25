@@ -4,7 +4,7 @@ title: "All 42 Ben Diskin Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-42-ben-diskin-movies-in-order/"
+slug: "/movies/all-ben-diskin-movies-in-order/"
 
 excerpt: ""
 

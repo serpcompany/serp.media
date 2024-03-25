@@ -4,7 +4,7 @@ title: "All 34 Anna Faris Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-34-anna-faris-movies-in-order/"
+slug: "/movies/all-anna-faris-movies-in-order/"
 
 excerpt: ""
 

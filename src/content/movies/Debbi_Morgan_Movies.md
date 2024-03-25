@@ -4,7 +4,7 @@ title: "All 39 Debbi Morgan Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-39-debbi-morgan-movies-in-order/"
+slug: "/movies/all-debbi-morgan-movies-in-order/"
 
 excerpt: ""
 

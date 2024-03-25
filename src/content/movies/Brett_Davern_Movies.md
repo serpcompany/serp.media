@@ -4,7 +4,7 @@ title: "All 13 Brett Davern Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-13-brett-davern-movies-in-order/"
+slug: "/movies/all-brett-davern-movies-in-order/"
 
 excerpt: ""
 

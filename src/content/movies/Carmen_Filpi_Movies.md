@@ -4,7 +4,7 @@ title: "All 42 Carmen Filpi Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-42-carmen-filpi-movies-in-order/"
+slug: "/movies/all-carmen-filpi-movies-in-order/"
 
 excerpt: ""
 

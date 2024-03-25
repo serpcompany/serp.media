@@ -4,7 +4,7 @@ title: "All 46 Donnie Wahlberg Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-46-donnie-wahlberg-movies-in-order/"
+slug: "/movies/all-donnie-wahlberg-movies-in-order/"
 
 excerpt: ""
 

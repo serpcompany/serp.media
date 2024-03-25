@@ -4,7 +4,7 @@ title: "All 76 Blanca Guerra Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-76-blanca-guerra-movies-in-order/"
+slug: "/movies/all-blanca-guerra-movies-in-order/"
 
 excerpt: ""
 

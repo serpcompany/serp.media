@@ -4,7 +4,7 @@ title: "All 23 Barry Keoghan Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-23-barry-keoghan-movies-in-order/"
+slug: "/movies/all-barry-keoghan-movies-in-order/"
 
 excerpt: ""
 

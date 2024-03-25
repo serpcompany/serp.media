@@ -4,7 +4,7 @@ title: "All 29 Adam Green Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-29-adam-green-movies-in-order/"
+slug: "/movies/all-adam-green-movies-in-order/"
 
 excerpt: ""
 

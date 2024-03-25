@@ -4,7 +4,7 @@ title: "All 45 Annabeth Gish Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-45-annabeth-gish-movies-in-order/"
+slug: "/movies/all-annabeth-gish-movies-in-order/"
 
 excerpt: ""
 

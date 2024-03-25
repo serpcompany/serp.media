@@ -4,7 +4,7 @@ title: "All 210 Dennis Hopper Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-210-dennis-hopper-movies-in-order/"
+slug: "/movies/all-dennis-hopper-movies-in-order/"
 
 excerpt: ""
 

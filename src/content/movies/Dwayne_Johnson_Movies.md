@@ -4,7 +4,7 @@ title: "All 213 Dwayne Johnson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-213-dwayne-johnson-movies-in-order/"
+slug: "/movies/all-dwayne-johnson-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 37 David St James Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-37-david-st-james-movies-in-order/"
+slug: "/movies/all-david-st-james-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 14 Adam Butcher Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-14-adam-butcher-movies-in-order/"
+slug: "/movies/all-adam-butcher-movies-in-order/"
 
 excerpt: ""
 

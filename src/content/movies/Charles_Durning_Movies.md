@@ -4,7 +4,7 @@ title: "All 143 Charles Durning Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-143-charles-durning-movies-in-order/"
+slug: "/movies/all-charles-durning-movies-in-order/"
 
 excerpt: ""
 

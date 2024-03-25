@@ -4,7 +4,7 @@ title: "All 27 Bubba Smith Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-27-bubba-smith-movies-in-order/"
+slug: "/movies/all-bubba-smith-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 39 Clara Bow Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-39-clara-bow-movies-in-order/"
+slug: "/movies/all-clara-bow-movies-in-order/"
 
 excerpt: ""
 

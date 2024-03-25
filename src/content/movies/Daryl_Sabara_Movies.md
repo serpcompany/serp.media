@@ -4,7 +4,7 @@ title: "All 28 Daryl Sabara Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-28-daryl-sabara-movies-in-order/"
+slug: "/movies/all-daryl-sabara-movies-in-order/"
 
 excerpt: ""
 

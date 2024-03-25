@@ -4,7 +4,7 @@ title: "All 55 Alice Krige Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-55-alice-krige-movies-in-order/"
+slug: "/movies/all-alice-krige-movies-in-order/"
 
 excerpt: ""
 

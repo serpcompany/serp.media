@@ -4,7 +4,7 @@ title: "All 65 Art LaFleur Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-65-art-lafleur-movies-in-order/"
+slug: "/movies/all-art-lafleur-movies-in-order/"
 
 excerpt: ""
 

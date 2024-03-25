@@ -4,7 +4,7 @@ title: "All 50 Brie Larson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-50-brie-larson-movies-in-order/"
+slug: "/movies/all-brie-larson-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 22 Diane Weiss Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-22-diane-weiss-movies-in-order/"
+slug: "/movies/all-diane-weiss-movies-in-order/"
 
 excerpt: ""
 

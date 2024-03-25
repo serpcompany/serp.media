@@ -4,7 +4,7 @@ title: "All 46 Avril Lavigne Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-46-avril-lavigne-movies-in-order/"
+slug: "/movies/all-avril-lavigne-movies-in-order/"
 
 excerpt: ""
 

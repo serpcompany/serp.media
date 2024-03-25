@@ -4,7 +4,7 @@ title: "All 25 Aml Ameen Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-25-aml-ameen-movies-in-order/"
+slug: "/movies/all-aml-ameen-movies-in-order/"
 
 excerpt: ""
 

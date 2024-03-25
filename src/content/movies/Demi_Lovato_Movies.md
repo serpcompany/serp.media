@@ -4,7 +4,7 @@ title: "All 37 Demi Lovato Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-37-demi-lovato-movies-in-order/"
+slug: "/movies/all-demi-lovato-movies-in-order/"
 
 excerpt: ""
 

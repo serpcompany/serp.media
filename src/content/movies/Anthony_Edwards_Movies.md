@@ -4,7 +4,7 @@ title: "All 45 Anthony Edwards Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-45-anthony-edwards-movies-in-order/"
+slug: "/movies/all-anthony-edwards-movies-in-order/"
 
 excerpt: ""
 

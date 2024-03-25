@@ -4,7 +4,7 @@ title: "All 51 Curtis Armstrong Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-51-curtis-armstrong-movies-in-order/"
+slug: "/movies/all-curtis-armstrong-movies-in-order/"
 
 excerpt: ""
 

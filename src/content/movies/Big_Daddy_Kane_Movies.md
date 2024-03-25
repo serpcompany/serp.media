@@ -4,7 +4,7 @@ title: "All 43 Big Daddy Kane Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-43-big-daddy-kane-movies-in-order/"
+slug: "/movies/all-big-daddy-kane-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 160 Burt Reynolds Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-160-burt-reynolds-movies-in-order/"
+slug: "/movies/all-burt-reynolds-movies-in-order/"
 
 excerpt: ""
 

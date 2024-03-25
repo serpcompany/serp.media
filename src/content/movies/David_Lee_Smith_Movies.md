@@ -4,7 +4,7 @@ title: "All 17 David Lee Smith Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-17-david-lee-smith-movies-in-order/"
+slug: "/movies/all-david-lee-smith-movies-in-order/"
 
 excerpt: ""
 

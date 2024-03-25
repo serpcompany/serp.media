@@ -4,7 +4,7 @@ title: "All 75 Don Ameche Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-75-don-ameche-movies-in-order/"
+slug: "/movies/all-don-ameche-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 31 Dana Barron Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-31-dana-barron-movies-in-order/"
+slug: "/movies/all-dana-barron-movies-in-order/"
 
 excerpt: ""
 

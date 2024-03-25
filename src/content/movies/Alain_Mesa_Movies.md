@@ -4,7 +4,7 @@ title: "All 12 Alain Mesa Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-12-alain-mesa-movies-in-order/"
+slug: "/movies/all-alain-mesa-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 16 Cameron Boyce Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-cameron-boyce-movies-in-order/"
+slug: "/movies/all-cameron-boyce-movies-in-order/"
 
 excerpt: ""
 

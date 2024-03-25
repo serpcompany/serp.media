@@ -4,7 +4,7 @@ title: "All 11 Dustin Clare Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-11-dustin-clare-movies-in-order/"
+slug: "/movies/all-dustin-clare-movies-in-order/"
 
 excerpt: ""
 

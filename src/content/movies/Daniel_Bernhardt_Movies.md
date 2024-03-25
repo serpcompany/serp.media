@@ -4,7 +4,7 @@ title: "All 47 Daniel Bernhardt Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-47-daniel-bernhardt-movies-in-order/"
+slug: "/movies/all-daniel-bernhardt-movies-in-order/"
 
 excerpt: ""
 

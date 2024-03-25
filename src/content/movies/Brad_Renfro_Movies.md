@@ -4,7 +4,7 @@ title: "All 23 Brad Renfro Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-23-brad-renfro-movies-in-order/"
+slug: "/movies/all-brad-renfro-movies-in-order/"
 
 excerpt: ""
 

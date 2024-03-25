@@ -4,7 +4,7 @@ title: "All 97 Bob Balaban Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-97-bob-balaban-movies-in-order/"
+slug: "/movies/all-bob-balaban-movies-in-order/"
 
 excerpt: ""
 

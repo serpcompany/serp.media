@@ -4,7 +4,7 @@ title: "All 52 David Tomlinson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-52-david-tomlinson-movies-in-order/"
+slug: "/movies/all-david-tomlinson-movies-in-order/"
 
 excerpt: ""
 

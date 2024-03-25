@@ -4,7 +4,7 @@ title: "All 13 Alan Bagh Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-13-alan-bagh-movies-in-order/"
+slug: "/movies/all-alan-bagh-movies-in-order/"
 
 excerpt: ""
 

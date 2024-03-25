@@ -4,7 +4,7 @@ title: "All 54 Clive Owen Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-54-clive-owen-movies-in-order/"
+slug: "/movies/all-clive-owen-movies-in-order/"
 
 excerpt: ""
 

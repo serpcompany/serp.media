@@ -4,7 +4,7 @@ title: "All 36 Coco Martin Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-36-coco-martin-movies-in-order/"
+slug: "/movies/all-coco-martin-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 10 Bobby Flay Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-10-bobby-flay-movies-in-order/"
+slug: "/movies/all-bobby-flay-movies-in-order/"
 
 excerpt: ""
 

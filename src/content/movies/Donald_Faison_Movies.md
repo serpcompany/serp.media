@@ -4,7 +4,7 @@ title: "All 38 Donald Faison Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-38-donald-faison-movies-in-order/"
+slug: "/movies/all-donald-faison-movies-in-order/"
 
 excerpt: ""
 

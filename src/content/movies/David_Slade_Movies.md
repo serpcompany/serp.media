@@ -4,7 +4,7 @@ title: "All 9 David Slade Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-9-david-slade-movies-in-order/"
+slug: "/movies/all-david-slade-movies-in-order/"
 
 excerpt: ""
 

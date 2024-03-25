@@ -4,7 +4,7 @@ title: "All 125 Andy Lau Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-125-andy-lau-movies-in-order/"
+slug: "/movies/all-andy-lau-movies-in-order/"
 
 excerpt: ""
 

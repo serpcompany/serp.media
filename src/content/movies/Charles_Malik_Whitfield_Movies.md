@@ -4,7 +4,7 @@ title: "All 36 Charles Malik Whitfield Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-36-charles-malik-whitfield-movies-in-order/"
+slug: "/movies/all-charles-malik-whitfield-movies-in-order/"
 
 excerpt: ""
 

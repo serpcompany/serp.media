@@ -4,7 +4,7 @@ title: "All 38 Boris Kodjoe Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-38-boris-kodjoe-movies-in-order/"
+slug: "/movies/all-boris-kodjoe-movies-in-order/"
 
 excerpt: ""
 

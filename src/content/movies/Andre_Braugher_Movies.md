@@ -4,7 +4,7 @@ title: "All 41 Andre Braugher Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-41-andre-braugher-movies-in-order/"
+slug: "/movies/all-andre-braugher-movies-in-order/"
 
 excerpt: ""
 

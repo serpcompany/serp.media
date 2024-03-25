@@ -4,7 +4,7 @@ title: "All 18 Charlie Cox Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-18-charlie-cox-movies-in-order/"
+slug: "/movies/all-charlie-cox-movies-in-order/"
 
 excerpt: ""
 

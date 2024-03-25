@@ -4,7 +4,7 @@ title: "All 51 David Wenham Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-51-david-wenham-movies-in-order/"
+slug: "/movies/all-david-wenham-movies-in-order/"
 
 excerpt: ""
 

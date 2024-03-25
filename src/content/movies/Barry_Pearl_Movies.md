@@ -4,7 +4,7 @@ title: "All 20 Barry Pearl Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-20-barry-pearl-movies-in-order/"
+slug: "/movies/all-barry-pearl-movies-in-order/"
 
 excerpt: ""
 

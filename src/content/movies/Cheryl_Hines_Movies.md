@@ -4,7 +4,7 @@ title: "All 32 Cheryl Hines Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-32-cheryl-hines-movies-in-order/"
+slug: "/movies/all-cheryl-hines-movies-in-order/"
 
 excerpt: ""
 

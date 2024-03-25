@@ -4,7 +4,7 @@ title: "All 14 Amanda Walsh Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-14-amanda-walsh-movies-in-order/"
+slug: "/movies/all-amanda-walsh-movies-in-order/"
 
 excerpt: ""
 

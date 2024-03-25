@@ -4,7 +4,7 @@ title: "All 45 Claire Trevor Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-45-claire-trevor-movies-in-order/"
+slug: "/movies/all-claire-trevor-movies-in-order/"
 
 excerpt: ""
 

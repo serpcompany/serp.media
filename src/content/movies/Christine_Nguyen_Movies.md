@@ -4,7 +4,7 @@ title: "All 62 Christine Nguyen Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-62-christine-nguyen-movies-in-order/"
+slug: "/movies/all-christine-nguyen-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 16 Dan Byrd Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-dan-byrd-movies-in-order/"
+slug: "/movies/all-dan-byrd-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 29 Bobby Farrelly Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-29-bobby-farrelly-movies-in-order/"
+slug: "/movies/all-bobby-farrelly-movies-in-order/"
 
 excerpt: ""
 

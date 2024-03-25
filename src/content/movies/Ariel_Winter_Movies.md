@@ -4,7 +4,7 @@ title: "All 42 Ariel Winter Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-42-ariel-winter-movies-in-order/"
+slug: "/movies/all-ariel-winter-movies-in-order/"
 
 excerpt: ""
 

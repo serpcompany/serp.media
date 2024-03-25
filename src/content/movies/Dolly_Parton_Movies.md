@@ -4,7 +4,7 @@ title: "All 127 Dolly Parton Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-127-dolly-parton-movies-in-order/"
+slug: "/movies/all-dolly-parton-movies-in-order/"
 
 excerpt: ""
 

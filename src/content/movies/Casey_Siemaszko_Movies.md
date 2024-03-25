@@ -4,7 +4,7 @@ title: "All 38 Casey Siemaszko Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-38-casey-siemaszko-movies-in-order/"
+slug: "/movies/all-casey-siemaszko-movies-in-order/"
 
 excerpt: ""
 

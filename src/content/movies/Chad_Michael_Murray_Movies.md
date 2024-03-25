@@ -4,7 +4,7 @@ title: "All 35 Chad Michael Murray Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-35-chad-michael-murray-movies-in-order/"
+slug: "/movies/all-chad-michael-murray-movies-in-order/"
 
 excerpt: ""
 

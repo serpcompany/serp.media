@@ -4,7 +4,7 @@ title: "All 26 Devon Graye Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-26-devon-graye-movies-in-order/"
+slug: "/movies/all-devon-graye-movies-in-order/"
 
 excerpt: ""
 

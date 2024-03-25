@@ -4,7 +4,7 @@ title: "All 47 Ben Mendelsohn Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-47-ben-mendelsohn-movies-in-order/"
+slug: "/movies/all-ben-mendelsohn-movies-in-order/"
 
 excerpt: ""
 

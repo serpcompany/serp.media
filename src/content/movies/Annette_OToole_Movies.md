@@ -4,7 +4,7 @@ title: "All 41 Annette OToole Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-41-annette-otoole-movies-in-order/"
+slug: "/movies/all-annette-otoole-movies-in-order/"
 
 excerpt: ""
 

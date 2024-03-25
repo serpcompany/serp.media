@@ -4,7 +4,7 @@ title: "All 77 Abella Danger Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-77-abella-danger-movies-in-order/"
+slug: "/movies/all-abella-danger-movies-in-order/"
 
 excerpt: ""
 

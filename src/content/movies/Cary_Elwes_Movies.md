@@ -4,7 +4,7 @@ title: "All 88 Cary Elwes Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-88-cary-elwes-movies-in-order/"
+slug: "/movies/all-cary-elwes-movies-in-order/"
 
 excerpt: ""
 

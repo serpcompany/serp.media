@@ -4,7 +4,7 @@ title: "All 53 Anne Archer Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-53-anne-archer-movies-in-order/"
+slug: "/movies/all-anne-archer-movies-in-order/"
 
 excerpt: ""
 

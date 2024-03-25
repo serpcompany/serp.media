@@ -4,7 +4,7 @@ title: "All 55 Donny Boaz Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-55-donny-boaz-movies-in-order/"
+slug: "/movies/all-donny-boaz-movies-in-order/"
 
 excerpt: ""
 

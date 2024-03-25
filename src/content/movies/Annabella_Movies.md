@@ -4,7 +4,7 @@ title: "All 49 Annabella Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-49-annabella-movies-in-order/"
+slug: "/movies/all-annabella-movies-in-order/"
 
 excerpt: ""
 

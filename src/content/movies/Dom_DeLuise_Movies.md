@@ -4,7 +4,7 @@ title: "All 88 Dom DeLuise Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-88-dom-deluise-movies-in-order/"
+slug: "/movies/all-dom-deluise-movies-in-order/"
 
 excerpt: ""
 

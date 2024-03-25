@@ -4,7 +4,7 @@ title: "All 45 Brandy Norwood Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-45-brandy-norwood-movies-in-order/"
+slug: "/movies/all-brandy-norwood-movies-in-order/"
 
 excerpt: ""
 

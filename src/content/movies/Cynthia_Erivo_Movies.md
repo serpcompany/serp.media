@@ -4,7 +4,7 @@ title: "All 29 Cynthia Erivo Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-29-cynthia-erivo-movies-in-order/"
+slug: "/movies/all-cynthia-erivo-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 63 Bill Cobbs Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-63-bill-cobbs-movies-in-order/"
+slug: "/movies/all-bill-cobbs-movies-in-order/"
 
 excerpt: ""
 

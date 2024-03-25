@@ -4,7 +4,7 @@ title: "All 12 Cynthia Kaye McWilliams Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-12-cynthia-kaye-mcwilliams-movies-in-order/"
+slug: "/movies/all-cynthia-kaye-mcwilliams-movies-in-order/"
 
 excerpt: ""
 

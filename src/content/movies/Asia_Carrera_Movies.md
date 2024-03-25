@@ -4,7 +4,7 @@ title: "All 52 Asia Carrera Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-52-asia-carrera-movies-in-order/"
+slug: "/movies/all-asia-carrera-movies-in-order/"
 
 excerpt: ""
 

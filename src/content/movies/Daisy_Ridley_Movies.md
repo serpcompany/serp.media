@@ -4,7 +4,7 @@ title: "All 22 Daisy Ridley Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-22-daisy-ridley-movies-in-order/"
+slug: "/movies/all-daisy-ridley-movies-in-order/"
 
 excerpt: ""
 

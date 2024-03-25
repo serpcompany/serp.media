@@ -4,7 +4,7 @@ title: "All 23 Adam Lambert Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-23-adam-lambert-movies-in-order/"
+slug: "/movies/all-adam-lambert-movies-in-order/"
 
 excerpt: ""
 

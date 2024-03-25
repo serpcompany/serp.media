@@ -4,7 +4,7 @@ title: "All 29 Billy Green Bush Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-29-billy-green-bush-movies-in-order/"
+slug: "/movies/all-billy-green-bush-movies-in-order/"
 
 excerpt: ""
 

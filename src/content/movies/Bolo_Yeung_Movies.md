@@ -4,7 +4,7 @@ title: "All 108 Bolo Yeung Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-108-bolo-yeung-movies-in-order/"
+slug: "/movies/all-bolo-yeung-movies-in-order/"
 
 excerpt: ""
 

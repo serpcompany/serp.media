@@ -4,7 +4,7 @@ title: "All 34 Alex Wolff Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-34-alex-wolff-movies-in-order/"
+slug: "/movies/all-alex-wolff-movies-in-order/"
 
 excerpt: ""
 

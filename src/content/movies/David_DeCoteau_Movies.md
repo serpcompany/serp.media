@@ -4,7 +4,7 @@ title: "All 94 David DeCoteau Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-94-david-decoteau-movies-in-order/"
+slug: "/movies/all-david-decoteau-movies-in-order/"
 
 excerpt: ""
 

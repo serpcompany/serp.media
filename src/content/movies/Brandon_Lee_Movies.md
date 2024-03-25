@@ -4,7 +4,7 @@ title: "All 23 Brandon Lee Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-23-brandon-lee-movies-in-order/"
+slug: "/movies/all-brandon-lee-movies-in-order/"
 
 excerpt: ""
 

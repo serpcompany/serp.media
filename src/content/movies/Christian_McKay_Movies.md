@@ -4,7 +4,7 @@ title: "All 31 Christian McKay Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-31-christian-mckay-movies-in-order/"
+slug: "/movies/all-christian-mckay-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 51 Abbas Kiarostami Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-51-abbas-kiarostami-movies-in-order/"
+slug: "/movies/all-abbas-kiarostami-movies-in-order/"
 
 excerpt: ""
 

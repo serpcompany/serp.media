@@ -4,7 +4,7 @@ title: "All 33 Bo Welch Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-33-bo-welch-movies-in-order/"
+slug: "/movies/all-bo-welch-movies-in-order/"
 
 excerpt: ""
 

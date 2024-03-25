@@ -4,7 +4,7 @@ title: "All 18 Albrecht Schuch Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-18-albrecht-schuch-movies-in-order/"
+slug: "/movies/all-albrecht-schuch-movies-in-order/"
 
 excerpt: ""
 

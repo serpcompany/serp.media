@@ -4,7 +4,7 @@ title: "All 41 Corbin Bleu Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-41-corbin-bleu-movies-in-order/"
+slug: "/movies/all-corbin-bleu-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 60 Bob Odenkirk Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-60-bob-odenkirk-movies-in-order/"
+slug: "/movies/all-bob-odenkirk-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 38 Connie Britton Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-38-connie-britton-movies-in-order/"
+slug: "/movies/all-connie-britton-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 10 Ashley Fink Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-10-ashley-fink-movies-in-order/"
+slug: "/movies/all-ashley-fink-movies-in-order/"
 
 excerpt: ""
 

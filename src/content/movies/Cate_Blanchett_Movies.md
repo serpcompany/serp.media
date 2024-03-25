@@ -4,7 +4,7 @@ title: "All 87 Cate Blanchett Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-87-cate-blanchett-movies-in-order/"
+slug: "/movies/all-cate-blanchett-movies-in-order/"
 
 excerpt: ""
 

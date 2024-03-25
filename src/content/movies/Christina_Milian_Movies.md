@@ -4,7 +4,7 @@ title: "All 43 Christina Milian Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-43-christina-milian-movies-in-order/"
+slug: "/movies/all-christina-milian-movies-in-order/"
 
 excerpt: ""
 

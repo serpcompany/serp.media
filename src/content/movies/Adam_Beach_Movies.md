@@ -4,7 +4,7 @@ title: "All 45 Adam Beach Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-45-adam-beach-movies-in-order/"
+slug: "/movies/all-adam-beach-movies-in-order/"
 
 excerpt: ""
 

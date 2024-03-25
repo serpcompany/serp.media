@@ -4,7 +4,7 @@ title: "All 15 Alden Ehrenreich Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-15-alden-ehrenreich-movies-in-order/"
+slug: "/movies/all-alden-ehrenreich-movies-in-order/"
 
 excerpt: ""
 

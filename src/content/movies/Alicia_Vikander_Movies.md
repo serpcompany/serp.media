@@ -4,7 +4,7 @@ title: "All 29 Alicia Vikander Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-29-alicia-vikander-movies-in-order/"
+slug: "/movies/all-alicia-vikander-movies-in-order/"
 
 excerpt: ""
 

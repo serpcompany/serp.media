@@ -4,7 +4,7 @@ title: "All 41 Barry Sonnenfeld Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-41-barry-sonnenfeld-movies-in-order/"
+slug: "/movies/all-barry-sonnenfeld-movies-in-order/"
 
 excerpt: ""
 

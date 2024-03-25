@@ -4,7 +4,7 @@ title: "All 121 C Thomas Howell Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-121-c-thomas-howell-movies-in-order/"
+slug: "/movies/all-c-thomas-howell-movies-in-order/"
 
 excerpt: ""
 

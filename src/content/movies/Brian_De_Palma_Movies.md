@@ -4,7 +4,7 @@ title: "All 54 Brian De Palma Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-54-brian-de-palma-movies-in-order/"
+slug: "/movies/all-brian-de-palma-movies-in-order/"
 
 excerpt: ""
 

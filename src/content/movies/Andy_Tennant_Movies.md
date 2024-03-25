@@ -4,7 +4,7 @@ title: "All 23 Andy Tennant Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-23-andy-tennant-movies-in-order/"
+slug: "/movies/all-andy-tennant-movies-in-order/"
 
 excerpt: ""
 

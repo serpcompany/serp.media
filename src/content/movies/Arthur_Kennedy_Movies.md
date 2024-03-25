@@ -4,7 +4,7 @@ title: "All 52 Arthur Kennedy Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-52-arthur-kennedy-movies-in-order/"
+slug: "/movies/all-arthur-kennedy-movies-in-order/"
 
 excerpt: ""
 

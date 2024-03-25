@@ -4,7 +4,7 @@ title: "All 36 Anna May Wong Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-36-anna-may-wong-movies-in-order/"
+slug: "/movies/all-anna-may-wong-movies-in-order/"
 
 excerpt: ""
 

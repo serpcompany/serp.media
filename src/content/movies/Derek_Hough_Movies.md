@@ -4,7 +4,7 @@ title: "All 13 Derek Hough Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-13-derek-hough-movies-in-order/"
+slug: "/movies/all-derek-hough-movies-in-order/"
 
 excerpt: ""
 

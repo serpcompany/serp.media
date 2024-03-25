@@ -4,7 +4,7 @@ title: "All 30 Charles Rocket Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-30-charles-rocket-movies-in-order/"
+slug: "/movies/all-charles-rocket-movies-in-order/"
 
 excerpt: ""
 

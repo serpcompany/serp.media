@@ -4,7 +4,7 @@ title: "All 149 Andrew Stevens Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-149-andrew-stevens-movies-in-order/"
+slug: "/movies/all-andrew-stevens-movies-in-order/"
 
 excerpt: ""
 

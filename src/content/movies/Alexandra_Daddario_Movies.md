@@ -4,7 +4,7 @@ title: "All 33 Alexandra Daddario Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-33-alexandra-daddario-movies-in-order/"
+slug: "/movies/all-alexandra-daddario-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 55 Caroline Williams Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-55-caroline-williams-movies-in-order/"
+slug: "/movies/all-caroline-williams-movies-in-order/"
 
 excerpt: ""
 

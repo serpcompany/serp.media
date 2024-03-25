@@ -4,7 +4,7 @@ title: "All 20 Brandon Mychal Smith Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-20-brandon-mychal-smith-movies-in-order/"
+slug: "/movies/all-brandon-mychal-smith-movies-in-order/"
 
 excerpt: ""
 

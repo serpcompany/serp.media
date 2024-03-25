@@ -4,7 +4,7 @@ title: "All 131 Dan Aykroyd Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-131-dan-aykroyd-movies-in-order/"
+slug: "/movies/all-dan-aykroyd-movies-in-order/"
 
 excerpt: ""
 

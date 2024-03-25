@@ -4,7 +4,7 @@ title: "All 18 Blake Anderson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-18-blake-anderson-movies-in-order/"
+slug: "/movies/all-blake-anderson-movies-in-order/"
 
 excerpt: ""
 

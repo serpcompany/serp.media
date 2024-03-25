@@ -4,7 +4,7 @@ title: "All 31 Angela Trimbur Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-31-angela-trimbur-movies-in-order/"
+slug: "/movies/all-angela-trimbur-movies-in-order/"
 
 excerpt: ""
 

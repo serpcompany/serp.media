@@ -4,7 +4,7 @@ title: "All 58 Deborah Kerr Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-58-deborah-kerr-movies-in-order/"
+slug: "/movies/all-deborah-kerr-movies-in-order/"
 
 excerpt: ""
 

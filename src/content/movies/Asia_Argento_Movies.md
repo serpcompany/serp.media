@@ -4,7 +4,7 @@ title: "All 66 Asia Argento Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-66-asia-argento-movies-in-order/"
+slug: "/movies/all-asia-argento-movies-in-order/"
 
 excerpt: ""
 

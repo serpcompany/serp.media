@@ -4,7 +4,7 @@ title: "All 28 Ana Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-28-ana-movies-in-order/"
+slug: "/movies/all-ana-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 43 Akshaye Khanna Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-43-akshaye-khanna-movies-in-order/"
+slug: "/movies/all-akshaye-khanna-movies-in-order/"
 
 excerpt: ""
 

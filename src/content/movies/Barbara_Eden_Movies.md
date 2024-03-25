@@ -4,7 +4,7 @@ title: "All 47 Barbara Eden Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-47-barbara-eden-movies-in-order/"
+slug: "/movies/all-barbara-eden-movies-in-order/"
 
 excerpt: ""
 

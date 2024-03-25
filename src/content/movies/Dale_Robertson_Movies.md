@@ -4,7 +4,7 @@ title: "All 42 Dale Robertson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-42-dale-robertson-movies-in-order/"
+slug: "/movies/all-dale-robertson-movies-in-order/"
 
 excerpt: ""
 

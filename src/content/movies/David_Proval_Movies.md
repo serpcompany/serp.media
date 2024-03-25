@@ -4,7 +4,7 @@ title: "All 65 David Proval Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-65-david-proval-movies-in-order/"
+slug: "/movies/all-david-proval-movies-in-order/"
 
 excerpt: ""
 

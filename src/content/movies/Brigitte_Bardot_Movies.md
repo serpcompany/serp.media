@@ -4,7 +4,7 @@ title: "All 73 Brigitte Bardot Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-73-brigitte-bardot-movies-in-order/"
+slug: "/movies/all-brigitte-bardot-movies-in-order/"
 
 excerpt: ""
 

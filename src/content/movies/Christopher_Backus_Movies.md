@@ -4,7 +4,7 @@ title: "All 22 Christopher Backus Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-22-christopher-backus-movies-in-order/"
+slug: "/movies/all-christopher-backus-movies-in-order/"
 
 excerpt: ""
 

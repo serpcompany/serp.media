@@ -4,7 +4,7 @@ title: "All 31 Brian Peck Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-31-brian-peck-movies-in-order/"
+slug: "/movies/all-brian-peck-movies-in-order/"
 
 excerpt: ""
 

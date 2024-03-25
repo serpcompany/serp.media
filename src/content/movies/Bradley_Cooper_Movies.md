@@ -4,7 +4,7 @@ title: "All 68 Bradley Cooper Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-68-bradley-cooper-movies-in-order/"
+slug: "/movies/all-bradley-cooper-movies-in-order/"
 
 excerpt: ""
 

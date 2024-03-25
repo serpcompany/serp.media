@@ -4,7 +4,7 @@ title: "All 26 Daddy Yankee Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-26-daddy-yankee-movies-in-order/"
+slug: "/movies/all-daddy-yankee-movies-in-order/"
 
 excerpt: ""
 

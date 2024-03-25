@@ -4,7 +4,7 @@ title: "All 22 Dev Patel Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-22-dev-patel-movies-in-order/"
+slug: "/movies/all-dev-patel-movies-in-order/"
 
 excerpt: ""
 

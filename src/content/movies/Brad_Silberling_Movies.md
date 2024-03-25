@@ -4,7 +4,7 @@ title: "All 17 Brad Silberling Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-17-brad-silberling-movies-in-order/"
+slug: "/movies/all-brad-silberling-movies-in-order/"
 
 excerpt: ""
 

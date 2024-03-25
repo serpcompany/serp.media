@@ -4,7 +4,7 @@ title: "All 16 Alfonso Ribeiro Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-alfonso-ribeiro-movies-in-order/"
+slug: "/movies/all-alfonso-ribeiro-movies-in-order/"
 
 excerpt: ""
 

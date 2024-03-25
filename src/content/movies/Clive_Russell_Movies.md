@@ -4,7 +4,7 @@ title: "All 42 Clive Russell Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-42-clive-russell-movies-in-order/"
+slug: "/movies/all-clive-russell-movies-in-order/"
 
 excerpt: ""
 

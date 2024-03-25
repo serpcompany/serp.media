@@ -4,7 +4,7 @@ title: "All 33 Adam Pally Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-33-adam-pally-movies-in-order/"
+slug: "/movies/all-adam-pally-movies-in-order/"
 
 excerpt: ""
 

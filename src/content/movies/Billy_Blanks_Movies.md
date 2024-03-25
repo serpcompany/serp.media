@@ -4,7 +4,7 @@ title: "All 31 Billy Blanks Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-31-billy-blanks-movies-in-order/"
+slug: "/movies/all-billy-blanks-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 25 David Starzyk Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-25-david-starzyk-movies-in-order/"
+slug: "/movies/all-david-starzyk-movies-in-order/"
 
 excerpt: ""
 

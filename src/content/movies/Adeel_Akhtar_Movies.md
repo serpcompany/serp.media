@@ -4,7 +4,7 @@ title: "All 24 Adeel Akhtar Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-24-adeel-akhtar-movies-in-order/"
+slug: "/movies/all-adeel-akhtar-movies-in-order/"
 
 excerpt: ""
 

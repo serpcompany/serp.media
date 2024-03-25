@@ -4,7 +4,7 @@ title: "All 16 David Mendenhall Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-david-mendenhall-movies-in-order/"
+slug: "/movies/all-david-mendenhall-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 19 Bethany Joy Lenz Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-19-bethany-joy-lenz-movies-in-order/"
+slug: "/movies/all-bethany-joy-lenz-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 47 Cynthia Gibb Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-47-cynthia-gibb-movies-in-order/"
+slug: "/movies/all-cynthia-gibb-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 18 Cara Delevingne Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-18-cara-delevingne-movies-in-order/"
+slug: "/movies/all-cara-delevingne-movies-in-order/"
 
 excerpt: ""
 

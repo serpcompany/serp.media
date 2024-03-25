@@ -4,7 +4,7 @@ title: "All 41 Ashley Greene Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-41-ashley-greene-movies-in-order/"
+slug: "/movies/all-ashley-greene-movies-in-order/"
 
 excerpt: ""
 

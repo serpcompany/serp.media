@@ -4,7 +4,7 @@ title: "All 99 Alain Delon Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-99-alain-delon-movies-in-order/"
+slug: "/movies/all-alain-delon-movies-in-order/"
 
 excerpt: ""
 

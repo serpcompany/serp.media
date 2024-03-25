@@ -4,7 +4,7 @@ title: "All 50 Bill Nighy Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-50-bill-nighy-movies-in-order/"
+slug: "/movies/all-bill-nighy-movies-in-order/"
 
 excerpt: ""
 

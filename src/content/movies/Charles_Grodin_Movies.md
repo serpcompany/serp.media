@@ -4,7 +4,7 @@ title: "All 44 Charles Grodin Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-44-charles-grodin-movies-in-order/"
+slug: "/movies/all-charles-grodin-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 35 Bobby Lee Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-35-bobby-lee-movies-in-order/"
+slug: "/movies/all-bobby-lee-movies-in-order/"
 
 excerpt: ""
 

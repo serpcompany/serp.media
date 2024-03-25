@@ -4,7 +4,7 @@ title: "All 14 Christopher Landon Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-14-christopher-landon-movies-in-order/"
+slug: "/movies/all-christopher-landon-movies-in-order/"
 
 excerpt: ""
 

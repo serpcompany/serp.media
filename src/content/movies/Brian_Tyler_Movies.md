@@ -4,7 +4,7 @@ title: "All 124 Brian Tyler Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-124-brian-tyler-movies-in-order/"
+slug: "/movies/all-brian-tyler-movies-in-order/"
 
 excerpt: ""
 

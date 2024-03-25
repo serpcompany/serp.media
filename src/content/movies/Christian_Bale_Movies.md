@@ -4,7 +4,7 @@ title: "All 70 Christian Bale Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-70-christian-bale-movies-in-order/"
+slug: "/movies/all-christian-bale-movies-in-order/"
 
 excerpt: ""
 

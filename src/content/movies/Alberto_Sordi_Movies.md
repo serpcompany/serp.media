@@ -4,7 +4,7 @@ title: "All 168 Alberto Sordi Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-168-alberto-sordi-movies-in-order/"
+slug: "/movies/all-alberto-sordi-movies-in-order/"
 
 excerpt: ""
 

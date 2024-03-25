@@ -4,7 +4,7 @@ title: "All 22 Anna Van Hooft Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-22-anna-van-hooft-movies-in-order/"
+slug: "/movies/all-anna-van-hooft-movies-in-order/"
 
 excerpt: ""
 

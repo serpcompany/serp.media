@@ -4,7 +4,7 @@ title: "All 45 Andrea Riseborough Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-45-andrea-riseborough-movies-in-order/"
+slug: "/movies/all-andrea-riseborough-movies-in-order/"
 
 excerpt: ""
 

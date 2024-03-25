@@ -4,7 +4,7 @@ title: "All 75 David Hasselhoff Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-75-david-hasselhoff-movies-in-order/"
+slug: "/movies/all-david-hasselhoff-movies-in-order/"
 
 excerpt: ""
 

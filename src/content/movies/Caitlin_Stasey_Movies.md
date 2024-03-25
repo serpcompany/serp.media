@@ -4,7 +4,7 @@ title: "All 15 Caitlin Stasey Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-15-caitlin-stasey-movies-in-order/"
+slug: "/movies/all-caitlin-stasey-movies-in-order/"
 
 excerpt: ""
 

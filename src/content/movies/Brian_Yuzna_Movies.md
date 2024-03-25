@@ -4,7 +4,7 @@ title: "All 52 Brian Yuzna Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-52-brian-yuzna-movies-in-order/"
+slug: "/movies/all-brian-yuzna-movies-in-order/"
 
 excerpt: ""
 

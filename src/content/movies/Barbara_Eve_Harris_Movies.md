@@ -4,7 +4,7 @@ title: "All 34 Barbara Eve Harris Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-34-barbara-eve-harris-movies-in-order/"
+slug: "/movies/all-barbara-eve-harris-movies-in-order/"
 
 excerpt: ""
 

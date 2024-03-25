@@ -4,7 +4,7 @@ title: "All 21 Denzel Whitaker Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-21-denzel-whitaker-movies-in-order/"
+slug: "/movies/all-denzel-whitaker-movies-in-order/"
 
 excerpt: ""
 

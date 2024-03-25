@@ -4,7 +4,7 @@ title: "All 49 Deborah Unger Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-49-deborah-unger-movies-in-order/"
+slug: "/movies/all-deborah-unger-movies-in-order/"
 
 excerpt: ""
 

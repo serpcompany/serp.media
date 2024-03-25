@@ -4,7 +4,7 @@ title: "All 19 Aya Cash Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-19-aya-cash-movies-in-order/"
+slug: "/movies/all-aya-cash-movies-in-order/"
 
 excerpt: ""
 

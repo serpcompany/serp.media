@@ -4,7 +4,7 @@ title: "All 102 Barry Corbin Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-102-barry-corbin-movies-in-order/"
+slug: "/movies/all-barry-corbin-movies-in-order/"
 
 excerpt: ""
 

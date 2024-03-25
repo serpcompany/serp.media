@@ -4,7 +4,7 @@ title: "All 28 Andy Sidaris Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-28-andy-sidaris-movies-in-order/"
+slug: "/movies/all-andy-sidaris-movies-in-order/"
 
 excerpt: ""
 

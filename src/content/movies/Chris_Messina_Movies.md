@@ -4,7 +4,7 @@ title: "All 51 Chris Messina Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-51-chris-messina-movies-in-order/"
+slug: "/movies/all-chris-messina-movies-in-order/"
 
 excerpt: ""
 

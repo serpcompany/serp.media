@@ -4,7 +4,7 @@ title: "All 156 Danny D Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-156-danny-d-movies-in-order/"
+slug: "/movies/all-danny-d-movies-in-order/"
 
 excerpt: ""
 

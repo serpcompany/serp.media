@@ -4,7 +4,7 @@ title: "All 39 Brenda Bakke Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-39-brenda-bakke-movies-in-order/"
+slug: "/movies/all-brenda-bakke-movies-in-order/"
 
 excerpt: ""
 

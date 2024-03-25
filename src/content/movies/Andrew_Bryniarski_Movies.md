@@ -4,7 +4,7 @@ title: "All 28 Andrew Bryniarski Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-28-andrew-bryniarski-movies-in-order/"
+slug: "/movies/all-andrew-bryniarski-movies-in-order/"
 
 excerpt: ""
 

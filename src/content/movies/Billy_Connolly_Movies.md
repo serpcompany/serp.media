@@ -4,7 +4,7 @@ title: "All 79 Billy Connolly Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-79-billy-connolly-movies-in-order/"
+slug: "/movies/all-billy-connolly-movies-in-order/"
 
 excerpt: ""
 

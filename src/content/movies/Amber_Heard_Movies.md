@@ -4,7 +4,7 @@ title: "All 43 Amber Heard Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-43-amber-heard-movies-in-order/"
+slug: "/movies/all-amber-heard-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 31 Diora Baird Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-31-diora-baird-movies-in-order/"
+slug: "/movies/all-diora-baird-movies-in-order/"
 
 excerpt: ""
 

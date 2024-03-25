@@ -4,7 +4,7 @@ title: "All 66 Dexter Fletcher Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-66-dexter-fletcher-movies-in-order/"
+slug: "/movies/all-dexter-fletcher-movies-in-order/"
 
 excerpt: ""
 

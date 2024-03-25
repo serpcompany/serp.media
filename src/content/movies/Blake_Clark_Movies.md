@@ -4,7 +4,7 @@ title: "All 53 Blake Clark Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-53-blake-clark-movies-in-order/"
+slug: "/movies/all-blake-clark-movies-in-order/"
 
 excerpt: ""
 

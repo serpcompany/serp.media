@@ -4,7 +4,7 @@ title: "All 32 Ashley Tisdale Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-32-ashley-tisdale-movies-in-order/"
+slug: "/movies/all-ashley-tisdale-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 38 Carole Lombard Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-38-carole-lombard-movies-in-order/"
+slug: "/movies/all-carole-lombard-movies-in-order/"
 
 excerpt: ""
 

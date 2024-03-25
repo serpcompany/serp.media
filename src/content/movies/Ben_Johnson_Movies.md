@@ -4,7 +4,7 @@ title: "All 84 Ben Johnson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-84-ben-johnson-movies-in-order/"
+slug: "/movies/all-ben-johnson-movies-in-order/"
 
 excerpt: ""
 

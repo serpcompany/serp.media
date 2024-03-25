@@ -4,7 +4,7 @@ title: "All 104 Denzel Washington Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-104-denzel-washington-movies-in-order/"
+slug: "/movies/all-denzel-washington-movies-in-order/"
 
 excerpt: ""
 

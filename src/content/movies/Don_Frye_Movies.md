@@ -4,7 +4,7 @@ title: "All 19 Don Frye Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-19-don-frye-movies-in-order/"
+slug: "/movies/all-don-frye-movies-in-order/"
 
 excerpt: ""
 

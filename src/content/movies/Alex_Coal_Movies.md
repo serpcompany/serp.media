@@ -4,7 +4,7 @@ title: "All 32 Alex Coal Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-32-alex-coal-movies-in-order/"
+slug: "/movies/all-alex-coal-movies-in-order/"
 
 excerpt: ""
 

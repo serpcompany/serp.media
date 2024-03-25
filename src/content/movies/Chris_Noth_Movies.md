@@ -4,7 +4,7 @@ title: "All 39 Chris Noth Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-39-chris-noth-movies-in-order/"
+slug: "/movies/all-chris-noth-movies-in-order/"
 
 excerpt: ""
 

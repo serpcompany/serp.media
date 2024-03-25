@@ -4,7 +4,7 @@ title: "All 42 Darius Khondji Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-42-darius-khondji-movies-in-order/"
+slug: "/movies/all-darius-khondji-movies-in-order/"
 
 excerpt: ""
 

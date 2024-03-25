@@ -4,7 +4,7 @@ title: "All 67 Anthony LaPaglia Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-67-anthony-lapaglia-movies-in-order/"
+slug: "/movies/all-anthony-lapaglia-movies-in-order/"
 
 excerpt: ""
 

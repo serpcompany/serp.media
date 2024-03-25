@@ -4,7 +4,7 @@ title: "All 38 Dylan Walsh Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-38-dylan-walsh-movies-in-order/"
+slug: "/movies/all-dylan-walsh-movies-in-order/"
 
 excerpt: ""
 

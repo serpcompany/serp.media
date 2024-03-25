@@ -4,7 +4,7 @@ title: "All 23 Cameron Douglas Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-23-cameron-douglas-movies-in-order/"
+slug: "/movies/all-cameron-douglas-movies-in-order/"
 
 excerpt: ""
 

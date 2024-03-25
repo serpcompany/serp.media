@@ -4,7 +4,7 @@ title: "All 82 Aldo Ray Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-82-aldo-ray-movies-in-order/"
+slug: "/movies/all-aldo-ray-movies-in-order/"
 
 excerpt: ""
 

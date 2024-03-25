@@ -4,7 +4,7 @@ title: "All 97 Billy Joel Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-97-billy-joel-movies-in-order/"
+slug: "/movies/all-billy-joel-movies-in-order/"
 
 excerpt: ""
 

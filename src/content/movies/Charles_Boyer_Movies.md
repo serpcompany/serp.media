@@ -4,7 +4,7 @@ title: "All 41 Charles Boyer Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-41-charles-boyer-movies-in-order/"
+slug: "/movies/all-charles-boyer-movies-in-order/"
 
 excerpt: ""
 

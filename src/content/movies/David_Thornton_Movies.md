@@ -4,7 +4,7 @@ title: "All 53 David Thornton Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-53-david-thornton-movies-in-order/"
+slug: "/movies/all-david-thornton-movies-in-order/"
 
 excerpt: ""
 

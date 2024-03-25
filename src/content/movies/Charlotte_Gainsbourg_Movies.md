@@ -4,7 +4,7 @@ title: "All 82 Charlotte Gainsbourg Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-82-charlotte-gainsbourg-movies-in-order/"
+slug: "/movies/all-charlotte-gainsbourg-movies-in-order/"
 
 excerpt: ""
 

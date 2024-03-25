@@ -4,7 +4,7 @@ title: "All 44 Alan King Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-44-alan-king-movies-in-order/"
+slug: "/movies/all-alan-king-movies-in-order/"
 
 excerpt: ""
 

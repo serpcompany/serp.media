@@ -4,7 +4,7 @@ title: "All 23 Anushka Sharma Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-23-anushka-sharma-movies-in-order/"
+slug: "/movies/all-anushka-sharma-movies-in-order/"
 
 excerpt: ""
 

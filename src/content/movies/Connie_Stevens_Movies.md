@@ -4,7 +4,7 @@ title: "All 48 Connie Stevens Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-48-connie-stevens-movies-in-order/"
+slug: "/movies/all-connie-stevens-movies-in-order/"
 
 excerpt: ""
 

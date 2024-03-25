@@ -4,7 +4,7 @@ title: "All 16 Damien Leone Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-damien-leone-movies-in-order/"
+slug: "/movies/all-damien-leone-movies-in-order/"
 
 excerpt: ""
 

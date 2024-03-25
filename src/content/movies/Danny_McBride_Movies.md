@@ -4,7 +4,7 @@ title: "All 50 Danny McBride Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-50-danny-mcbride-movies-in-order/"
+slug: "/movies/all-danny-mcbride-movies-in-order/"
 
 excerpt: ""
 

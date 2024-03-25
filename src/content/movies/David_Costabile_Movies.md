@@ -4,7 +4,7 @@ title: "All 21 David Costabile Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-21-david-costabile-movies-in-order/"
+slug: "/movies/all-david-costabile-movies-in-order/"
 
 excerpt: ""
 

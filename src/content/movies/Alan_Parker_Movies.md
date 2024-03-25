@@ -4,7 +4,7 @@ title: "All 36 Alan Parker Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-36-alan-parker-movies-in-order/"
+slug: "/movies/all-alan-parker-movies-in-order/"
 
 excerpt: ""
 

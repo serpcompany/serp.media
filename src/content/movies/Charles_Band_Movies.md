@@ -4,7 +4,7 @@ title: "All 146 Charles Band Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-146-charles-band-movies-in-order/"
+slug: "/movies/all-charles-band-movies-in-order/"
 
 excerpt: ""
 

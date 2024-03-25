@@ -4,7 +4,7 @@ title: "All 33 Chad Lindberg Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-33-chad-lindberg-movies-in-order/"
+slug: "/movies/all-chad-lindberg-movies-in-order/"
 
 excerpt: ""
 

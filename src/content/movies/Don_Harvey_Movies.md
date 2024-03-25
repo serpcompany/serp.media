@@ -4,7 +4,7 @@ title: "All 56 Don Harvey Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-56-don-harvey-movies-in-order/"
+slug: "/movies/all-don-harvey-movies-in-order/"
 
 excerpt: ""
 

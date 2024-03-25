@@ -4,7 +4,7 @@ title: "All 30 Ammy Virk Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-30-ammy-virk-movies-in-order/"
+slug: "/movies/all-ammy-virk-movies-in-order/"
 
 excerpt: ""
 

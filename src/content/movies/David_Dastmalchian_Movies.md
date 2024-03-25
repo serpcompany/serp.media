@@ -4,7 +4,7 @@ title: "All 31 David Dastmalchian Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-31-david-dastmalchian-movies-in-order/"
+slug: "/movies/all-david-dastmalchian-movies-in-order/"
 
 excerpt: ""
 

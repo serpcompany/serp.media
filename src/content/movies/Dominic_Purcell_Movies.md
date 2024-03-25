@@ -4,7 +4,7 @@ title: "All 40 Dominic Purcell Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-40-dominic-purcell-movies-in-order/"
+slug: "/movies/all-dominic-purcell-movies-in-order/"
 
 excerpt: ""
 

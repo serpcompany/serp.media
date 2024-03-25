@@ -4,7 +4,7 @@ title: "All 64 Adam McKay Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-64-adam-mckay-movies-in-order/"
+slug: "/movies/all-adam-mckay-movies-in-order/"
 
 excerpt: ""
 

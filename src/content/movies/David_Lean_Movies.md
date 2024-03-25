@@ -4,7 +4,7 @@ title: "All 50 David Lean Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-50-david-lean-movies-in-order/"
+slug: "/movies/all-david-lean-movies-in-order/"
 
 excerpt: ""
 

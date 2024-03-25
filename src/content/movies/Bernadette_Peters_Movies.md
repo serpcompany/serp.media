@@ -4,7 +4,7 @@ title: "All 62 Bernadette Peters Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-62-bernadette-peters-movies-in-order/"
+slug: "/movies/all-bernadette-peters-movies-in-order/"
 
 excerpt: ""
 

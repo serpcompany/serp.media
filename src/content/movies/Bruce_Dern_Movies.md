@@ -4,7 +4,7 @@ title: "All 129 Bruce Dern Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-129-bruce-dern-movies-in-order/"
+slug: "/movies/all-bruce-dern-movies-in-order/"
 
 excerpt: ""
 

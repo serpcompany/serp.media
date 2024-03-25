@@ -4,7 +4,7 @@ title: "All 20 Celine Sciamma Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-20-celine-sciamma-movies-in-order/"
+slug: "/movies/all-celine-sciamma-movies-in-order/"
 
 excerpt: ""
 

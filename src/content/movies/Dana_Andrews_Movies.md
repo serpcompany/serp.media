@@ -4,7 +4,7 @@ title: "All 82 Dana Andrews Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-82-dana-andrews-movies-in-order/"
+slug: "/movies/all-dana-andrews-movies-in-order/"
 
 excerpt: ""
 

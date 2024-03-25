@@ -4,7 +4,7 @@ title: "All 82 Angelina Jolie Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-82-angelina-jolie-movies-in-order/"
+slug: "/movies/all-angelina-jolie-movies-in-order/"
 
 excerpt: ""
 

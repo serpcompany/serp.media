@@ -4,7 +4,7 @@ title: "All 71 Amanda Plummer Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-71-amanda-plummer-movies-in-order/"
+slug: "/movies/all-amanda-plummer-movies-in-order/"
 
 excerpt: ""
 

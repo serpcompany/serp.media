@@ -4,7 +4,7 @@ title: "All 24 Clare Kramer Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-24-clare-kramer-movies-in-order/"
+slug: "/movies/all-clare-kramer-movies-in-order/"
 
 excerpt: ""
 

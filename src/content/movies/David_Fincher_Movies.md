@@ -4,7 +4,7 @@ title: "All 64 David Fincher Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-64-david-fincher-movies-in-order/"
+slug: "/movies/all-david-fincher-movies-in-order/"
 
 excerpt: ""
 

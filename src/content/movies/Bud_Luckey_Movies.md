@@ -4,7 +4,7 @@ title: "All 13 Bud Luckey Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-13-bud-luckey-movies-in-order/"
+slug: "/movies/all-bud-luckey-movies-in-order/"
 
 excerpt: ""
 

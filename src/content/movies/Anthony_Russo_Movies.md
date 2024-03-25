@@ -4,7 +4,7 @@ title: "All 25 Anthony Russo Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-25-anthony-russo-movies-in-order/"
+slug: "/movies/all-anthony-russo-movies-in-order/"
 
 excerpt: ""
 

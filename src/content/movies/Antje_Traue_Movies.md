@@ -4,7 +4,7 @@ title: "All 27 Antje Traue Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-27-antje-traue-movies-in-order/"
+slug: "/movies/all-antje-traue-movies-in-order/"
 
 excerpt: ""
 

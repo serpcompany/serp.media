@@ -4,7 +4,7 @@ title: "All 12 Antony Starr Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-12-antony-starr-movies-in-order/"
+slug: "/movies/all-antony-starr-movies-in-order/"
 
 excerpt: ""
 

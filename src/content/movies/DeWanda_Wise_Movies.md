@@ -4,7 +4,7 @@ title: "All 15 DeWanda Wise Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-15-dewanda-wise-movies-in-order/"
+slug: "/movies/all-dewanda-wise-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 43 Diane Salinger Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-43-diane-salinger-movies-in-order/"
+slug: "/movies/all-diane-salinger-movies-in-order/"
 
 excerpt: ""
 

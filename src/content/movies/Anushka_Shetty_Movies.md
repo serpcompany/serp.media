@@ -4,7 +4,7 @@ title: "All 44 Anushka Shetty Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-44-anushka-shetty-movies-in-order/"
+slug: "/movies/all-anushka-shetty-movies-in-order/"
 
 excerpt: ""
 

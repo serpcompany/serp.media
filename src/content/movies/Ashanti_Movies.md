@@ -4,7 +4,7 @@ title: "All 47 Ashanti Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-47-ashanti-movies-in-order/"
+slug: "/movies/all-ashanti-movies-in-order/"
 
 excerpt: ""
 

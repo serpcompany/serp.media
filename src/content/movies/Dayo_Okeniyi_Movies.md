@@ -4,7 +4,7 @@ title: "All 16 Dayo Okeniyi Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-dayo-okeniyi-movies-in-order/"
+slug: "/movies/all-dayo-okeniyi-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 25 Adam Garcia Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-25-adam-garcia-movies-in-order/"
+slug: "/movies/all-adam-garcia-movies-in-order/"
 
 excerpt: ""
 

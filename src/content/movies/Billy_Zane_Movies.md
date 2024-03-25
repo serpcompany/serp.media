@@ -4,7 +4,7 @@ title: "All 79 Billy Zane Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-79-billy-zane-movies-in-order/"
+slug: "/movies/all-billy-zane-movies-in-order/"
 
 excerpt: ""
 

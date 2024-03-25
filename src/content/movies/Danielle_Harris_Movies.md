@@ -4,7 +4,7 @@ title: "All 55 Danielle Harris Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-55-danielle-harris-movies-in-order/"
+slug: "/movies/all-danielle-harris-movies-in-order/"
 
 excerpt: ""
 

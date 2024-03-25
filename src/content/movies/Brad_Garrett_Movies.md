@@ -4,7 +4,7 @@ title: "All 56 Brad Garrett Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-56-brad-garrett-movies-in-order/"
+slug: "/movies/all-brad-garrett-movies-in-order/"
 
 excerpt: ""
 

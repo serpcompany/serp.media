@@ -4,7 +4,7 @@ title: "All 16 Brittany Curran Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-brittany-curran-movies-in-order/"
+slug: "/movies/all-brittany-curran-movies-in-order/"
 
 excerpt: ""
 

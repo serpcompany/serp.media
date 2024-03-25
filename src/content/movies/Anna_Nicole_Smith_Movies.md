@@ -4,7 +4,7 @@ title: "All 22 Anna Nicole Smith Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-22-anna-nicole-smith-movies-in-order/"
+slug: "/movies/all-anna-nicole-smith-movies-in-order/"
 
 excerpt: ""
 

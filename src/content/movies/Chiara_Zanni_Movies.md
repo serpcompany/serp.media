@@ -4,7 +4,7 @@ title: "All 40 Chiara Zanni Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-40-chiara-zanni-movies-in-order/"
+slug: "/movies/all-chiara-zanni-movies-in-order/"
 
 excerpt: ""
 

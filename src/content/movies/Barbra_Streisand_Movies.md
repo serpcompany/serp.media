@@ -4,7 +4,7 @@ title: "All 104 Barbra Streisand Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-104-barbra-streisand-movies-in-order/"
+slug: "/movies/all-barbra-streisand-movies-in-order/"
 
 excerpt: ""
 

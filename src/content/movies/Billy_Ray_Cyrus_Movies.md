@@ -4,7 +4,7 @@ title: "All 30 Billy Ray Cyrus Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-30-billy-ray-cyrus-movies-in-order/"
+slug: "/movies/all-billy-ray-cyrus-movies-in-order/"
 
 excerpt: ""
 

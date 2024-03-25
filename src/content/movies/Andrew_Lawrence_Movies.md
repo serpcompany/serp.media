@@ -4,7 +4,7 @@ title: "All 34 Andrew Lawrence Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-34-andrew-lawrence-movies-in-order/"
+slug: "/movies/all-andrew-lawrence-movies-in-order/"
 
 excerpt: ""
 

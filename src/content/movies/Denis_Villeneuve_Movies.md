@@ -4,7 +4,7 @@ title: "All 19 Denis Villeneuve Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-19-denis-villeneuve-movies-in-order/"
+slug: "/movies/all-denis-villeneuve-movies-in-order/"
 
 excerpt: ""
 

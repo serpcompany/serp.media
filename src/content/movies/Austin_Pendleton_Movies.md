@@ -4,7 +4,7 @@ title: "All 87 Austin Pendleton Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-87-austin-pendleton-movies-in-order/"
+slug: "/movies/all-austin-pendleton-movies-in-order/"
 
 excerpt: ""
 

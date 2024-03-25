@@ -4,7 +4,7 @@ title: "All 29 Billie Jean King Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-29-billie-jean-king-movies-in-order/"
+slug: "/movies/all-billie-jean-king-movies-in-order/"
 
 excerpt: ""
 

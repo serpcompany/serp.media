@@ -4,7 +4,7 @@ title: "All 15 Brian Taylor Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-15-brian-taylor-movies-in-order/"
+slug: "/movies/all-brian-taylor-movies-in-order/"
 
 excerpt: ""
 

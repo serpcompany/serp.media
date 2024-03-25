@@ -4,7 +4,7 @@ title: "All 31 Angus Sampson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-31-angus-sampson-movies-in-order/"
+slug: "/movies/all-angus-sampson-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 105 Carrie Fisher Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-105-carrie-fisher-movies-in-order/"
+slug: "/movies/all-carrie-fisher-movies-in-order/"
 
 excerpt: ""
 

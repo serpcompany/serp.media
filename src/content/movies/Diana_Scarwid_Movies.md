@@ -4,7 +4,7 @@ title: "All 48 Diana Scarwid Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-48-diana-scarwid-movies-in-order/"
+slug: "/movies/all-diana-scarwid-movies-in-order/"
 
 excerpt: ""
 

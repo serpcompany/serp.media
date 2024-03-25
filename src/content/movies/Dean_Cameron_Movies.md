@@ -4,7 +4,7 @@ title: "All 31 Dean Cameron Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-31-dean-cameron-movies-in-order/"
+slug: "/movies/all-dean-cameron-movies-in-order/"
 
 excerpt: ""
 

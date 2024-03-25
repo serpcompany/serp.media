@@ -4,7 +4,7 @@ title: "All 100 Ava DuVernay Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-100-ava-duvernay-movies-in-order/"
+slug: "/movies/all-ava-duvernay-movies-in-order/"
 
 excerpt: ""
 

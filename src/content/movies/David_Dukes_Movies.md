@@ -4,7 +4,7 @@ title: "All 47 David Dukes Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-47-david-dukes-movies-in-order/"
+slug: "/movies/all-david-dukes-movies-in-order/"
 
 excerpt: ""
 

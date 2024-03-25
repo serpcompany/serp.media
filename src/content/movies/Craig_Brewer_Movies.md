@@ -4,7 +4,7 @@ title: "All 14 Craig Brewer Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-14-craig-brewer-movies-in-order/"
+slug: "/movies/all-craig-brewer-movies-in-order/"
 
 excerpt: ""
 

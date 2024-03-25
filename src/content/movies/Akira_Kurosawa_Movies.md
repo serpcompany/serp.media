@@ -4,7 +4,7 @@ title: "All 94 Akira Kurosawa Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-94-akira-kurosawa-movies-in-order/"
+slug: "/movies/all-akira-kurosawa-movies-in-order/"
 
 excerpt: ""
 

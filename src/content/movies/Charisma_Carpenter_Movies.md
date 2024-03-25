@@ -4,7 +4,7 @@ title: "All 29 Charisma Carpenter Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-29-charisma-carpenter-movies-in-order/"
+slug: "/movies/all-charisma-carpenter-movies-in-order/"
 
 excerpt: ""
 

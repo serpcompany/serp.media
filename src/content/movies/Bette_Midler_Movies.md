@@ -4,7 +4,7 @@ title: "All 93 Bette Midler Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-93-bette-midler-movies-in-order/"
+slug: "/movies/all-bette-midler-movies-in-order/"
 
 excerpt: ""
 

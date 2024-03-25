@@ -4,7 +4,7 @@ title: "All 103 Corbin Bernsen Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-103-corbin-bernsen-movies-in-order/"
+slug: "/movies/all-corbin-bernsen-movies-in-order/"
 
 excerpt: ""
 

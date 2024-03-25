@@ -4,7 +4,7 @@ title: "All 16 Brando Eaton Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-brando-eaton-movies-in-order/"
+slug: "/movies/all-brando-eaton-movies-in-order/"
 
 excerpt: ""
 

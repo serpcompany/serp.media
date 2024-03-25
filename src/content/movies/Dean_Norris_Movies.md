@@ -4,7 +4,7 @@ title: "All 69 Dean Norris Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-69-dean-norris-movies-in-order/"
+slug: "/movies/all-dean-norris-movies-in-order/"
 
 excerpt: ""
 

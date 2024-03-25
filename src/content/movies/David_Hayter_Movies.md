@@ -4,7 +4,7 @@ title: "All 27 David Hayter Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-27-david-hayter-movies-in-order/"
+slug: "/movies/all-david-hayter-movies-in-order/"
 
 excerpt: ""
 

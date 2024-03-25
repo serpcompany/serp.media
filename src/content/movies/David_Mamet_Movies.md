@@ -4,7 +4,7 @@ title: "All 43 David Mamet Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-43-david-mamet-movies-in-order/"
+slug: "/movies/all-david-mamet-movies-in-order/"
 
 excerpt: ""
 

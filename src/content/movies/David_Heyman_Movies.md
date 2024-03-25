@@ -4,7 +4,7 @@ title: "All 46 David Heyman Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-46-david-heyman-movies-in-order/"
+slug: "/movies/all-david-heyman-movies-in-order/"
 
 excerpt: ""
 

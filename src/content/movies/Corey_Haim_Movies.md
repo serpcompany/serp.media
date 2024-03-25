@@ -4,7 +4,7 @@ title: "All 50 Corey Haim Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-50-corey-haim-movies-in-order/"
+slug: "/movies/all-corey-haim-movies-in-order/"
 
 excerpt: ""
 

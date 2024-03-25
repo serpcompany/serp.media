@@ -4,7 +4,7 @@ title: "All 22 Doug Hutchison Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-22-doug-hutchison-movies-in-order/"
+slug: "/movies/all-doug-hutchison-movies-in-order/"
 
 excerpt: ""
 

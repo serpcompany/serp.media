@@ -4,7 +4,7 @@ title: "All 81 David Spade Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-81-david-spade-movies-in-order/"
+slug: "/movies/all-david-spade-movies-in-order/"
 
 excerpt: ""
 

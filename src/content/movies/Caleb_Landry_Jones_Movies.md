@@ -4,7 +4,7 @@ title: "All 31 Caleb Landry Jones Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-31-caleb-landry-jones-movies-in-order/"
+slug: "/movies/all-caleb-landry-jones-movies-in-order/"
 
 excerpt: ""
 

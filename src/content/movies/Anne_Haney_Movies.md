@@ -4,7 +4,7 @@ title: "All 46 Anne Haney Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-46-anne-haney-movies-in-order/"
+slug: "/movies/all-anne-haney-movies-in-order/"
 
 excerpt: ""
 

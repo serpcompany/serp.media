@@ -4,7 +4,7 @@ title: "All 110 Billy Crystal Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-110-billy-crystal-movies-in-order/"
+slug: "/movies/all-billy-crystal-movies-in-order/"
 
 excerpt: ""
 

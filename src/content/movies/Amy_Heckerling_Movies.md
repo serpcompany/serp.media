@@ -4,7 +4,7 @@ title: "All 24 Amy Heckerling Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-24-amy-heckerling-movies-in-order/"
+slug: "/movies/all-amy-heckerling-movies-in-order/"
 
 excerpt: ""
 

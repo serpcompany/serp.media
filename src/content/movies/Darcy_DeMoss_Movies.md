@@ -4,7 +4,7 @@ title: "All 33 Darcy DeMoss Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-33-darcy-demoss-movies-in-order/"
+slug: "/movies/all-darcy-demoss-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 17 Christie Brinkley Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-17-christie-brinkley-movies-in-order/"
+slug: "/movies/all-christie-brinkley-movies-in-order/"
 
 excerpt: ""
 

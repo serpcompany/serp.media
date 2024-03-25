@@ -4,7 +4,7 @@ title: "All 23 Christian Camargo Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-23-christian-camargo-movies-in-order/"
+slug: "/movies/all-christian-camargo-movies-in-order/"
 
 excerpt: ""
 

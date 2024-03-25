@@ -4,7 +4,7 @@ title: "All 115 Burgess Meredith Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-115-burgess-meredith-movies-in-order/"
+slug: "/movies/all-burgess-meredith-movies-in-order/"
 
 excerpt: ""
 

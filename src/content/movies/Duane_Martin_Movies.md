@@ -4,7 +4,7 @@ title: "All 26 Duane Martin Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-26-duane-martin-movies-in-order/"
+slug: "/movies/all-duane-martin-movies-in-order/"
 
 excerpt: ""
 

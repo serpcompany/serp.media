@@ -4,7 +4,7 @@ title: "All 19 Diego Boneta Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-19-diego-boneta-movies-in-order/"
+slug: "/movies/all-diego-boneta-movies-in-order/"
 
 excerpt: ""
 

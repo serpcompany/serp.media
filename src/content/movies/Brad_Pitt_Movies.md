@@ -4,7 +4,7 @@ title: "All 136 Brad Pitt Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-136-brad-pitt-movies-in-order/"
+slug: "/movies/all-brad-pitt-movies-in-order/"
 
 excerpt: ""
 

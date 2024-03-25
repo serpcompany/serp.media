@@ -4,7 +4,7 @@ title: "All 40 BD Wong Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-40-bd-wong-movies-in-order/"
+slug: "/movies/all-bd-wong-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 21 Bonnie Wright Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-21-bonnie-wright-movies-in-order/"
+slug: "/movies/all-bonnie-wright-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 23 Alex Pettyfer Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-23-alex-pettyfer-movies-in-order/"
+slug: "/movies/all-alex-pettyfer-movies-in-order/"
 
 excerpt: ""
 

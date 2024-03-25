@@ -4,7 +4,7 @@ title: "All 8 Adrian Uribe Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-8-adrian-uribe-movies-in-order/"
+slug: "/movies/all-adrian-uribe-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 41 Chris Tucker Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-41-chris-tucker-movies-in-order/"
+slug: "/movies/all-chris-tucker-movies-in-order/"
 
 excerpt: ""
 

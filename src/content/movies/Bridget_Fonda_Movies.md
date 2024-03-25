@@ -4,7 +4,7 @@ title: "All 47 Bridget Fonda Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-47-bridget-fonda-movies-in-order/"
+slug: "/movies/all-bridget-fonda-movies-in-order/"
 
 excerpt: ""
 

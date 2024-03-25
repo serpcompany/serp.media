@@ -4,7 +4,7 @@ title: "All 29 Adam Godley Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-29-adam-godley-movies-in-order/"
+slug: "/movies/all-adam-godley-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 78 David Paymer Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-78-david-paymer-movies-in-order/"
+slug: "/movies/all-david-paymer-movies-in-order/"
 
 excerpt: ""
 

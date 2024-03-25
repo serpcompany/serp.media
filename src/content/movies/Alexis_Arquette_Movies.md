@@ -4,7 +4,7 @@ title: "All 55 Alexis Arquette Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-55-alexis-arquette-movies-in-order/"
+slug: "/movies/all-alexis-arquette-movies-in-order/"
 
 excerpt: ""
 

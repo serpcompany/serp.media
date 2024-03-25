@@ -4,7 +4,7 @@ title: "All 42 Chad Lowe Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-42-chad-lowe-movies-in-order/"
+slug: "/movies/all-chad-lowe-movies-in-order/"
 
 excerpt: ""
 

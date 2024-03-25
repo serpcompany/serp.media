@@ -4,7 +4,7 @@ title: "All 16 Amanda Schull Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-amanda-schull-movies-in-order/"
+slug: "/movies/all-amanda-schull-movies-in-order/"
 
 excerpt: ""
 

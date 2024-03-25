@@ -4,7 +4,7 @@ title: "All 93 Anjelica Huston Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-93-anjelica-huston-movies-in-order/"
+slug: "/movies/all-anjelica-huston-movies-in-order/"
 
 excerpt: ""
 

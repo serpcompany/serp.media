@@ -4,7 +4,7 @@ title: "All 56 Dey Young Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-56-dey-young-movies-in-order/"
+slug: "/movies/all-dey-young-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 13 Charity Wakefield Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-13-charity-wakefield-movies-in-order/"
+slug: "/movies/all-charity-wakefield-movies-in-order/"
 
 excerpt: ""
 

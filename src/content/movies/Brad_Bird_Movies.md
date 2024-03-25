@@ -4,7 +4,7 @@ title: "All 33 Brad Bird Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-33-brad-bird-movies-in-order/"
+slug: "/movies/all-brad-bird-movies-in-order/"
 
 excerpt: ""
 

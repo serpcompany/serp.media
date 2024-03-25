@@ -4,7 +4,7 @@ title: "All 35 Don King Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-35-don-king-movies-in-order/"
+slug: "/movies/all-don-king-movies-in-order/"
 
 excerpt: ""
 

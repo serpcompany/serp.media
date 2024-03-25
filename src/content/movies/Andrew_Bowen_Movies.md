@@ -4,7 +4,7 @@ title: "All 24 Andrew Bowen Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-24-andrew-bowen-movies-in-order/"
+slug: "/movies/all-andrew-bowen-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 23 Christopher Reid Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-23-christopher-reid-movies-in-order/"
+slug: "/movies/all-christopher-reid-movies-in-order/"
 
 excerpt: ""
 

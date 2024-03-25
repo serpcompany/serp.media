@@ -4,7 +4,7 @@ title: "All 123 Alexandre Desplat Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-123-alexandre-desplat-movies-in-order/"
+slug: "/movies/all-alexandre-desplat-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 24 Dany Garcia Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-24-dany-garcia-movies-in-order/"
+slug: "/movies/all-dany-garcia-movies-in-order/"
 
 excerpt: ""
 

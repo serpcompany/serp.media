@@ -4,7 +4,7 @@ title: "All 22 Chonda Pierce Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-22-chonda-pierce-movies-in-order/"
+slug: "/movies/all-chonda-pierce-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 11 Adria Arjona Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-11-adria-arjona-movies-in-order/"
+slug: "/movies/all-adria-arjona-movies-in-order/"
 
 excerpt: ""
 

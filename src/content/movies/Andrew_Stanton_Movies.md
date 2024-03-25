@@ -4,7 +4,7 @@ title: "All 35 Andrew Stanton Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-35-andrew-stanton-movies-in-order/"
+slug: "/movies/all-andrew-stanton-movies-in-order/"
 
 excerpt: ""
 

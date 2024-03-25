@@ -4,7 +4,7 @@ title: "All 55 Chloe Sevigny Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-55-chloe-sevigny-movies-in-order/"
+slug: "/movies/all-chloe-sevigny-movies-in-order/"
 
 excerpt: ""
 

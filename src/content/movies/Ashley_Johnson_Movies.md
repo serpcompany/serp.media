@@ -4,7 +4,7 @@ title: "All 33 Ashley Johnson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-33-ashley-johnson-movies-in-order/"
+slug: "/movies/all-ashley-johnson-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 45 Chris Pine Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-45-chris-pine-movies-in-order/"
+slug: "/movies/all-chris-pine-movies-in-order/"
 
 excerpt: ""
 

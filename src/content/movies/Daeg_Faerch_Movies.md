@@ -4,7 +4,7 @@ title: "All 14 Daeg Faerch Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-14-daeg-faerch-movies-in-order/"
+slug: "/movies/all-daeg-faerch-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 26 Bobbie Phillips Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-26-bobbie-phillips-movies-in-order/"
+slug: "/movies/all-bobbie-phillips-movies-in-order/"
 
 excerpt: ""
 

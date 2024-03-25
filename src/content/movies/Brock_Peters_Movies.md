@@ -4,7 +4,7 @@ title: "All 56 Brock Peters Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-56-brock-peters-movies-in-order/"
+slug: "/movies/all-brock-peters-movies-in-order/"
 
 excerpt: ""
 

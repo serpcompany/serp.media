@@ -4,7 +4,7 @@ title: "All 21 Anna Chlumsky Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-21-anna-chlumsky-movies-in-order/"
+slug: "/movies/all-anna-chlumsky-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 35 David Graf Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-35-david-graf-movies-in-order/"
+slug: "/movies/all-david-graf-movies-in-order/"
 
 excerpt: ""
 

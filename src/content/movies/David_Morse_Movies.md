@@ -4,7 +4,7 @@ title: "All 64 David Morse Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-64-david-morse-movies-in-order/"
+slug: "/movies/all-david-morse-movies-in-order/"
 
 excerpt: ""
 

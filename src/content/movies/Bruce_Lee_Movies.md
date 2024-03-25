@@ -4,7 +4,7 @@ title: "All 67 Bruce Lee Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-67-bruce-lee-movies-in-order/"
+slug: "/movies/all-bruce-lee-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 74 Christoph Waltz Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-74-christoph-waltz-movies-in-order/"
+slug: "/movies/all-christoph-waltz-movies-in-order/"
 
 excerpt: ""
 

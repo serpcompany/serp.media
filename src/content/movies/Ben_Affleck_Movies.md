@@ -4,7 +4,7 @@ title: "All 105 Ben Affleck Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-105-ben-affleck-movies-in-order/"
+slug: "/movies/all-ben-affleck-movies-in-order/"
 
 excerpt: ""
 

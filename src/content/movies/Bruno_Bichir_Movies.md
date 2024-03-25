@@ -4,7 +4,7 @@ title: "All 54 Bruno Bichir Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-54-bruno-bichir-movies-in-order/"
+slug: "/movies/all-bruno-bichir-movies-in-order/"
 
 excerpt: ""
 

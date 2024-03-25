@@ -4,7 +4,7 @@ title: "All 34 Brittany Snow Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-34-brittany-snow-movies-in-order/"
+slug: "/movies/all-brittany-snow-movies-in-order/"
 
 excerpt: ""
 

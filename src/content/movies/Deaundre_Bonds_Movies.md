@@ -4,7 +4,7 @@ title: "All 23 Deaundre Bonds Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-23-deaundre-bonds-movies-in-order/"
+slug: "/movies/all-deaundre-bonds-movies-in-order/"
 
 excerpt: ""
 

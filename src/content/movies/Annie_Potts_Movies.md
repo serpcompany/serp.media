@@ -4,7 +4,7 @@ title: "All 46 Annie Potts Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-46-annie-potts-movies-in-order/"
+slug: "/movies/all-annie-potts-movies-in-order/"
 
 excerpt: ""
 

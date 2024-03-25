@@ -4,7 +4,7 @@ title: "All 101 Brian Grazer Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-101-brian-grazer-movies-in-order/"
+slug: "/movies/all-brian-grazer-movies-in-order/"
 
 excerpt: ""
 

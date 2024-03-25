@@ -4,7 +4,7 @@ title: "All 55 Ajay Naidu Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-55-ajay-naidu-movies-in-order/"
+slug: "/movies/all-ajay-naidu-movies-in-order/"
 
 excerpt: ""
 

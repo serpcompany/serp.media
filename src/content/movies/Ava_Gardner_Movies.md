@@ -4,7 +4,7 @@ title: "All 46 Ava Gardner Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-46-ava-gardner-movies-in-order/"
+slug: "/movies/all-ava-gardner-movies-in-order/"
 
 excerpt: ""
 

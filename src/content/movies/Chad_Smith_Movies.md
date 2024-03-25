@@ -4,7 +4,7 @@ title: "All 56 Chad Smith Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-56-chad-smith-movies-in-order/"
+slug: "/movies/all-chad-smith-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 56 Andy Samberg Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-56-andy-samberg-movies-in-order/"
+slug: "/movies/all-andy-samberg-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 24 Brian Goodman Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-24-brian-goodman-movies-in-order/"
+slug: "/movies/all-brian-goodman-movies-in-order/"
 
 excerpt: ""
 

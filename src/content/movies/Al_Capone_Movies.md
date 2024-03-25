@@ -4,7 +4,7 @@ title: "All 16 Al Capone Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-al-capone-movies-in-order/"
+slug: "/movies/all-al-capone-movies-in-order/"
 
 excerpt: ""
 

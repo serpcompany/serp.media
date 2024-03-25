@@ -4,7 +4,7 @@ title: "All 18 Alison Lohman Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-18-alison-lohman-movies-in-order/"
+slug: "/movies/all-alison-lohman-movies-in-order/"
 
 excerpt: ""
 

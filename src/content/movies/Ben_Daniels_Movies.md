@@ -4,7 +4,7 @@ title: "All 28 Ben Daniels Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-28-ben-daniels-movies-in-order/"
+slug: "/movies/all-ben-daniels-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 25 Chris Henchy Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-25-chris-henchy-movies-in-order/"
+slug: "/movies/all-chris-henchy-movies-in-order/"
 
 excerpt: ""
 

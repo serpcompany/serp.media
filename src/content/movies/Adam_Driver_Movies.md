@@ -4,7 +4,7 @@ title: "All 42 Adam Driver Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-42-adam-driver-movies-in-order/"
+slug: "/movies/all-adam-driver-movies-in-order/"
 
 excerpt: ""
 

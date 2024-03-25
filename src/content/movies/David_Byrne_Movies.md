@@ -4,7 +4,7 @@ title: "All 139 David Byrne Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-139-david-byrne-movies-in-order/"
+slug: "/movies/all-david-byrne-movies-in-order/"
 
 excerpt: ""
 

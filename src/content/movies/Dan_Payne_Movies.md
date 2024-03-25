@@ -4,7 +4,7 @@ title: "All 44 Dan Payne Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-44-dan-payne-movies-in-order/"
+slug: "/movies/all-dan-payne-movies-in-order/"
 
 excerpt: ""
 

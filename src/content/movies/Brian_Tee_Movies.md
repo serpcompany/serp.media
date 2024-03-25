@@ -4,7 +4,7 @@ title: "All 22 Brian Tee Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-22-brian-tee-movies-in-order/"
+slug: "/movies/all-brian-tee-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 65 Anthony Kiedis Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-65-anthony-kiedis-movies-in-order/"
+slug: "/movies/all-anthony-kiedis-movies-in-order/"
 
 excerpt: ""
 

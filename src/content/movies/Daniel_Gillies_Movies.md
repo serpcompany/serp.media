@@ -4,7 +4,7 @@ title: "All 15 Daniel Gillies Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-15-daniel-gillies-movies-in-order/"
+slug: "/movies/all-daniel-gillies-movies-in-order/"
 
 excerpt: ""
 

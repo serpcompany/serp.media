@@ -4,7 +4,7 @@ title: "All 38 Alice Braga Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-38-alice-braga-movies-in-order/"
+slug: "/movies/all-alice-braga-movies-in-order/"
 
 excerpt: ""
 

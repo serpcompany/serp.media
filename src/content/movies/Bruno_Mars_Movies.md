@@ -4,7 +4,7 @@ title: "All 68 Bruno Mars Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-68-bruno-mars-movies-in-order/"
+slug: "/movies/all-bruno-mars-movies-in-order/"
 
 excerpt: ""
 

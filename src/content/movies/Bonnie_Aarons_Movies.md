@@ -4,7 +4,7 @@ title: "All 30 Bonnie Aarons Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-30-bonnie-aarons-movies-in-order/"
+slug: "/movies/all-bonnie-aarons-movies-in-order/"
 
 excerpt: ""
 

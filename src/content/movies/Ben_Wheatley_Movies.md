@@ -4,7 +4,7 @@ title: "All 25 Ben Wheatley Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-25-ben-wheatley-movies-in-order/"
+slug: "/movies/all-ben-wheatley-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 39 Aidan Gillen Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-39-aidan-gillen-movies-in-order/"
+slug: "/movies/all-aidan-gillen-movies-in-order/"
 
 excerpt: ""
 

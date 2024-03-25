@@ -4,7 +4,7 @@ title: "All 31 Big Sean Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-31-big-sean-movies-in-order/"
+slug: "/movies/all-big-sean-movies-in-order/"
 
 excerpt: ""
 

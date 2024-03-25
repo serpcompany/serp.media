@@ -4,7 +4,7 @@ title: "All 20 Amia Miley Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-20-amia-miley-movies-in-order/"
+slug: "/movies/all-amia-miley-movies-in-order/"
 
 excerpt: ""
 

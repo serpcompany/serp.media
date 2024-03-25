@@ -4,7 +4,7 @@ title: "All 66 Corey Feldman Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-66-corey-feldman-movies-in-order/"
+slug: "/movies/all-corey-feldman-movies-in-order/"
 
 excerpt: ""
 

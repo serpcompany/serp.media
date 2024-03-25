@@ -4,7 +4,7 @@ title: "All 41 Britt Ekland Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-41-britt-ekland-movies-in-order/"
+slug: "/movies/all-britt-ekland-movies-in-order/"
 
 excerpt: ""
 

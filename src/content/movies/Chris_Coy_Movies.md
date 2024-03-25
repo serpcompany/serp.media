@@ -4,7 +4,7 @@ title: "All 16 Chris Coy Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-chris-coy-movies-in-order/"
+slug: "/movies/all-chris-coy-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 53 Brent Briscoe Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-53-brent-briscoe-movies-in-order/"
+slug: "/movies/all-brent-briscoe-movies-in-order/"
 
 excerpt: ""
 

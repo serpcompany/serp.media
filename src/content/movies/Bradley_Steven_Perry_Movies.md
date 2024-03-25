@@ -4,7 +4,7 @@ title: "All 10 Bradley Steven Perry Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-10-bradley-steven-perry-movies-in-order/"
+slug: "/movies/all-bradley-steven-perry-movies-in-order/"
 
 excerpt: ""
 

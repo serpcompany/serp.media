@@ -4,7 +4,7 @@ title: "All 39 David Lowery Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-39-david-lowery-movies-in-order/"
+slug: "/movies/all-david-lowery-movies-in-order/"
 
 excerpt: ""
 

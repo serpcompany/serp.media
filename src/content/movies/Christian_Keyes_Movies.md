@@ -4,7 +4,7 @@ title: "All 32 Christian Keyes Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-32-christian-keyes-movies-in-order/"
+slug: "/movies/all-christian-keyes-movies-in-order/"
 
 excerpt: ""
 

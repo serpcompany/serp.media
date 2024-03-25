@@ -4,7 +4,7 @@ title: "All 36 Doug Liman Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-36-doug-liman-movies-in-order/"
+slug: "/movies/all-doug-liman-movies-in-order/"
 
 excerpt: ""
 

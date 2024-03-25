@@ -4,7 +4,7 @@ title: "All 20 Dania Ramirez Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-20-dania-ramirez-movies-in-order/"
+slug: "/movies/all-dania-ramirez-movies-in-order/"
 
 excerpt: ""
 

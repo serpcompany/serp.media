@@ -4,7 +4,7 @@ title: "All 61 Chris Ellis Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-61-chris-ellis-movies-in-order/"
+slug: "/movies/all-chris-ellis-movies-in-order/"
 
 excerpt: ""
 

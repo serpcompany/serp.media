@@ -4,7 +4,7 @@ title: "All 129 Anupam Kher Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-129-anupam-kher-movies-in-order/"
+slug: "/movies/all-anupam-kher-movies-in-order/"
 
 excerpt: ""
 

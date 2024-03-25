@@ -4,7 +4,7 @@ title: "All 53 Cecil Kellaway Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-53-cecil-kellaway-movies-in-order/"
+slug: "/movies/all-cecil-kellaway-movies-in-order/"
 
 excerpt: ""
 

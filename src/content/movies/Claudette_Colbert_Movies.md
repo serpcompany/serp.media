@@ -4,7 +4,7 @@ title: "All 56 Claudette Colbert Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-56-claudette-colbert-movies-in-order/"
+slug: "/movies/all-claudette-colbert-movies-in-order/"
 
 excerpt: ""
 

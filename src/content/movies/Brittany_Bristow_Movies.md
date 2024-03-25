@@ -4,7 +4,7 @@ title: "All 31 Brittany Bristow Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-31-brittany-bristow-movies-in-order/"
+slug: "/movies/all-brittany-bristow-movies-in-order/"
 
 excerpt: ""
 

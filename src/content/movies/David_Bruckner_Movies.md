@@ -4,7 +4,7 @@ title: "All 10 David Bruckner Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-10-david-bruckner-movies-in-order/"
+slug: "/movies/all-david-bruckner-movies-in-order/"
 
 excerpt: ""
 

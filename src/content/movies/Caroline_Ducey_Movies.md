@@ -4,7 +4,7 @@ title: "All 26 Caroline Ducey Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-26-caroline-ducey-movies-in-order/"
+slug: "/movies/all-caroline-ducey-movies-in-order/"
 
 excerpt: ""
 

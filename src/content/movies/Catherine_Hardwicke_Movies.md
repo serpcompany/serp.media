@@ -4,7 +4,7 @@ title: "All 48 Catherine Hardwicke Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-48-catherine-hardwicke-movies-in-order/"
+slug: "/movies/all-catherine-hardwicke-movies-in-order/"
 
 excerpt: ""
 

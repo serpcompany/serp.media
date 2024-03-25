@@ -4,7 +4,7 @@ title: "All 90 Alfre Woodard Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-90-alfre-woodard-movies-in-order/"
+slug: "/movies/all-alfre-woodard-movies-in-order/"
 
 excerpt: ""
 

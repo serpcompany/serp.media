@@ -4,7 +4,7 @@ title: "All 18 Dylan OBrien Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-18-dylan-obrien-movies-in-order/"
+slug: "/movies/all-dylan-obrien-movies-in-order/"
 
 excerpt: ""
 

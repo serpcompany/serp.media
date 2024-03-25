@@ -4,7 +4,7 @@ title: "All 161 Bob Hope Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-161-bob-hope-movies-in-order/"
+slug: "/movies/all-bob-hope-movies-in-order/"
 
 excerpt: ""
 

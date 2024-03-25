@@ -4,7 +4,7 @@ title: "All 22 Craig Roberts Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-22-craig-roberts-movies-in-order/"
+slug: "/movies/all-craig-roberts-movies-in-order/"
 
 excerpt: ""
 

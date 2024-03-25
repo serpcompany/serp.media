@@ -4,7 +4,7 @@ title: "All 129 Brad Dourif Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-129-brad-dourif-movies-in-order/"
+slug: "/movies/all-brad-dourif-movies-in-order/"
 
 excerpt: ""
 

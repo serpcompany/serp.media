@@ -4,7 +4,7 @@ title: "All 47 Chuck Liddell Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-47-chuck-liddell-movies-in-order/"
+slug: "/movies/all-chuck-liddell-movies-in-order/"
 
 excerpt: ""
 

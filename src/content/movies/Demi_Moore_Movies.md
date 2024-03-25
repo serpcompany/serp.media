@@ -4,7 +4,7 @@ title: "All 68 Demi Moore Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-68-demi-moore-movies-in-order/"
+slug: "/movies/all-demi-moore-movies-in-order/"
 
 excerpt: ""
 

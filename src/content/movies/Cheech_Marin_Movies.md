@@ -4,7 +4,7 @@ title: "All 104 Cheech Marin Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-104-cheech-marin-movies-in-order/"
+slug: "/movies/all-cheech-marin-movies-in-order/"
 
 excerpt: ""
 

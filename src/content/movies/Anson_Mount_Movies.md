@@ -4,7 +4,7 @@ title: "All 32 Anson Mount Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-32-anson-mount-movies-in-order/"
+slug: "/movies/all-anson-mount-movies-in-order/"
 
 excerpt: ""
 

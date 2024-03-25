@@ -4,7 +4,7 @@ title: "All 28 Angela Featherstone Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-28-angela-featherstone-movies-in-order/"
+slug: "/movies/all-angela-featherstone-movies-in-order/"
 
 excerpt: ""
 

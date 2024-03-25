@@ -4,7 +4,7 @@ title: "All 94 Allison Janney Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-94-allison-janney-movies-in-order/"
+slug: "/movies/all-allison-janney-movies-in-order/"
 
 excerpt: ""
 

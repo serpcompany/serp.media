@@ -4,7 +4,7 @@ title: "All 48 Alice Drummond Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-48-alice-drummond-movies-in-order/"
+slug: "/movies/all-alice-drummond-movies-in-order/"
 
 excerpt: ""
 

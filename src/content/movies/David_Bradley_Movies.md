@@ -4,7 +4,7 @@ title: "All 50 David Bradley Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-50-david-bradley-movies-in-order/"
+slug: "/movies/all-david-bradley-movies-in-order/"
 
 excerpt: ""
 

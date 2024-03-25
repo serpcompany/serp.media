@@ -4,7 +4,7 @@ title: "All 44 Alexander Payne Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-44-alexander-payne-movies-in-order/"
+slug: "/movies/all-alexander-payne-movies-in-order/"
 
 excerpt: ""
 

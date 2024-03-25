@@ -4,7 +4,7 @@ title: "All 27 Annabelle Wallis Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-27-annabelle-wallis-movies-in-order/"
+slug: "/movies/all-annabelle-wallis-movies-in-order/"
 
 excerpt: ""
 

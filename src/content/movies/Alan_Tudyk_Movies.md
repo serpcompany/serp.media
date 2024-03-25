@@ -4,7 +4,7 @@ title: "All 51 Alan Tudyk Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-51-alan-tudyk-movies-in-order/"
+slug: "/movies/all-alan-tudyk-movies-in-order/"
 
 excerpt: ""
 

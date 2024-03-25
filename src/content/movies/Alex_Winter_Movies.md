@@ -4,7 +4,7 @@ title: "All 34 Alex Winter Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-34-alex-winter-movies-in-order/"
+slug: "/movies/all-alex-winter-movies-in-order/"
 
 excerpt: ""
 

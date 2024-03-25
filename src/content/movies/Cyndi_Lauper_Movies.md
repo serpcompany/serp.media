@@ -4,7 +4,7 @@ title: "All 92 Cyndi Lauper Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-92-cyndi-lauper-movies-in-order/"
+slug: "/movies/all-cyndi-lauper-movies-in-order/"
 
 excerpt: ""
 

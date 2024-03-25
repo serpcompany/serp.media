@@ -4,7 +4,7 @@ title: "All 41 Dorothy McGuire Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-41-dorothy-mcguire-movies-in-order/"
+slug: "/movies/all-dorothy-mcguire-movies-in-order/"
 
 excerpt: ""
 

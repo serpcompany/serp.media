@@ -4,7 +4,7 @@ title: "All 58 Bruce Payne Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-58-bruce-payne-movies-in-order/"
+slug: "/movies/all-bruce-payne-movies-in-order/"
 
 excerpt: ""
 

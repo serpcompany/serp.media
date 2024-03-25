@@ -4,7 +4,7 @@ title: "All 14 Ariana DeBose Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-14-ariana-debose-movies-in-order/"
+slug: "/movies/all-ariana-debose-movies-in-order/"
 
 excerpt: ""
 

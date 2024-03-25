@@ -4,7 +4,7 @@ title: "All 16 Angourie Rice Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-angourie-rice-movies-in-order/"
+slug: "/movies/all-angourie-rice-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 103 Dominique Pinon Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-103-dominique-pinon-movies-in-order/"
+slug: "/movies/all-dominique-pinon-movies-in-order/"
 
 excerpt: ""
 

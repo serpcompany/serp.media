@@ -4,7 +4,7 @@ title: "All 11 Don Omar Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-11-don-omar-movies-in-order/"
+slug: "/movies/all-don-omar-movies-in-order/"
 
 excerpt: ""
 

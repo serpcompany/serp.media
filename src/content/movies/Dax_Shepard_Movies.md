@@ -4,7 +4,7 @@ title: "All 32 Dax Shepard Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-32-dax-shepard-movies-in-order/"
+slug: "/movies/all-dax-shepard-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 60 Art Hindle Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-60-art-hindle-movies-in-order/"
+slug: "/movies/all-art-hindle-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 36 Dule Hill Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-36-dule-hill-movies-in-order/"
+slug: "/movies/all-dule-hill-movies-in-order/"
 
 excerpt: ""
 

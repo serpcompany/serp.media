@@ -4,7 +4,7 @@ title: "All 54 Conchata Ferrell Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-54-conchata-ferrell-movies-in-order/"
+slug: "/movies/all-conchata-ferrell-movies-in-order/"
 
 excerpt: ""
 

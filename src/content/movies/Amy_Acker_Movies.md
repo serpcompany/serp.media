@@ -4,7 +4,7 @@ title: "All 19 Amy Acker Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-19-amy-acker-movies-in-order/"
+slug: "/movies/all-amy-acker-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 21 Aimee Teegarden Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-21-aimee-teegarden-movies-in-order/"
+slug: "/movies/all-aimee-teegarden-movies-in-order/"
 
 excerpt: ""
 

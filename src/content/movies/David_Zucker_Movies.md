@@ -4,7 +4,7 @@ title: "All 27 David Zucker Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-27-david-zucker-movies-in-order/"
+slug: "/movies/all-david-zucker-movies-in-order/"
 
 excerpt: ""
 

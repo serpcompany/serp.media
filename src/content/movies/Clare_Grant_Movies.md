@@ -4,7 +4,7 @@ title: "All 26 Clare Grant Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-26-clare-grant-movies-in-order/"
+slug: "/movies/all-clare-grant-movies-in-order/"
 
 excerpt: ""
 

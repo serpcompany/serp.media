@@ -4,7 +4,7 @@ title: "All 10 Charlie McDermott Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-10-charlie-mcdermott-movies-in-order/"
+slug: "/movies/all-charlie-mcdermott-movies-in-order/"
 
 excerpt: ""
 

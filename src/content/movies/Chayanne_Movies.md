@@ -4,7 +4,7 @@ title: "All 5 Chayanne Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-5-chayanne-movies-in-order/"
+slug: "/movies/all-chayanne-movies-in-order/"
 
 excerpt: ""
 

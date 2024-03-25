@@ -4,7 +4,7 @@ title: "All 7 Danna Paola Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-7-danna-paola-movies-in-order/"
+slug: "/movies/all-danna-paola-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 45 Amanda Wyss Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-45-amanda-wyss-movies-in-order/"
+slug: "/movies/all-amanda-wyss-movies-in-order/"
 
 excerpt: ""
 

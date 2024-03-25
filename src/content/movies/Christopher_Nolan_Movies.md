@@ -4,7 +4,7 @@ title: "All 36 Christopher Nolan Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-36-christopher-nolan-movies-in-order/"
+slug: "/movies/all-christopher-nolan-movies-in-order/"
 
 excerpt: ""
 

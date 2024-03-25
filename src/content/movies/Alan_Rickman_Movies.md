@@ -4,7 +4,7 @@ title: "All 62 Alan Rickman Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-62-alan-rickman-movies-in-order/"
+slug: "/movies/all-alan-rickman-movies-in-order/"
 
 excerpt: ""
 

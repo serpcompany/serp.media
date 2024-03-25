@@ -4,7 +4,7 @@ title: "All 36 Deon Cole Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-36-deon-cole-movies-in-order/"
+slug: "/movies/all-deon-cole-movies-in-order/"
 
 excerpt: ""
 

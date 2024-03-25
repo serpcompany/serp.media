@@ -4,7 +4,7 @@ title: "All 33 Alexandra Holden Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-33-alexandra-holden-movies-in-order/"
+slug: "/movies/all-alexandra-holden-movies-in-order/"
 
 excerpt: ""
 

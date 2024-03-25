@@ -4,7 +4,7 @@ title: "All 17 Ben Savage Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-17-ben-savage-movies-in-order/"
+slug: "/movies/all-ben-savage-movies-in-order/"
 
 excerpt: ""
 

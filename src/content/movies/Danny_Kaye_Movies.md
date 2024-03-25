@@ -4,7 +4,7 @@ title: "All 48 Danny Kaye Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-48-danny-kaye-movies-in-order/"
+slug: "/movies/all-danny-kaye-movies-in-order/"
 
 excerpt: ""
 

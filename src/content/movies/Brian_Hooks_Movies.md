@@ -4,7 +4,7 @@ title: "All 38 Brian Hooks Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-38-brian-hooks-movies-in-order/"
+slug: "/movies/all-brian-hooks-movies-in-order/"
 
 excerpt: ""
 

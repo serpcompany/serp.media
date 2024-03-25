@@ -4,7 +4,7 @@ title: "All 54 Boots Southerland Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-54-boots-southerland-movies-in-order/"
+slug: "/movies/all-boots-southerland-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 20 David Furnish Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-20-david-furnish-movies-in-order/"
+slug: "/movies/all-david-furnish-movies-in-order/"
 
 excerpt: ""
 

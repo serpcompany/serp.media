@@ -4,7 +4,7 @@ title: "All 97 Dean Cain Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-97-dean-cain-movies-in-order/"
+slug: "/movies/all-dean-cain-movies-in-order/"
 
 excerpt: ""
 

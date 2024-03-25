@@ -4,7 +4,7 @@ title: "All 33 Drew Carey Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-33-drew-carey-movies-in-order/"
+slug: "/movies/all-drew-carey-movies-in-order/"
 
 excerpt: ""
 

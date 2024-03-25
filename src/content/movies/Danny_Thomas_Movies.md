@@ -4,7 +4,7 @@ title: "All 31 Danny Thomas Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-31-danny-thomas-movies-in-order/"
+slug: "/movies/all-danny-thomas-movies-in-order/"
 
 excerpt: ""
 

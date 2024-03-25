@@ -4,7 +4,7 @@ title: "All 53 Danica McKellar Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-53-danica-mckellar-movies-in-order/"
+slug: "/movies/all-danica-mckellar-movies-in-order/"
 
 excerpt: ""
 

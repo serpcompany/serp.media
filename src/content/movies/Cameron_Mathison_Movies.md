@@ -4,7 +4,7 @@ title: "All 32 Cameron Mathison Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-32-cameron-mathison-movies-in-order/"
+slug: "/movies/all-cameron-mathison-movies-in-order/"
 
 excerpt: ""
 

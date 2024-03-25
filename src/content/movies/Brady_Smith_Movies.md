@@ -4,7 +4,7 @@ title: "All 19 Brady Smith Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-19-brady-smith-movies-in-order/"
+slug: "/movies/all-brady-smith-movies-in-order/"
 
 excerpt: ""
 

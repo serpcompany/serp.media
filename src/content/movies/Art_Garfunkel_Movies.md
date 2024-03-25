@@ -4,7 +4,7 @@ title: "All 45 Art Garfunkel Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-45-art-garfunkel-movies-in-order/"
+slug: "/movies/all-art-garfunkel-movies-in-order/"
 
 excerpt: ""
 

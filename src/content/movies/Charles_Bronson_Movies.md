@@ -4,7 +4,7 @@ title: "All 100 Charles Bronson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-100-charles-bronson-movies-in-order/"
+slug: "/movies/all-charles-bronson-movies-in-order/"
 
 excerpt: ""
 

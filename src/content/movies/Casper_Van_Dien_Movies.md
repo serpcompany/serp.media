@@ -4,7 +4,7 @@ title: "All 83 Casper Van Dien Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-83-casper-van-dien-movies-in-order/"
+slug: "/movies/all-casper-van-dien-movies-in-order/"
 
 excerpt: ""
 

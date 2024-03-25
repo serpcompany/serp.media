@@ -4,7 +4,7 @@ title: "All 17 Andre Gower Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-17-andre-gower-movies-in-order/"
+slug: "/movies/all-andre-gower-movies-in-order/"
 
 excerpt: ""
 

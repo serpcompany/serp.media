@@ -4,7 +4,7 @@ title: "All 44 Don Swayze Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-44-don-swayze-movies-in-order/"
+slug: "/movies/all-don-swayze-movies-in-order/"
 
 excerpt: ""
 

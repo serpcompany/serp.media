@@ -4,7 +4,7 @@ title: "All 36 AleXa Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-36-alexa-movies-in-order/"
+slug: "/movies/all-alexa-movies-in-order/"
 
 excerpt: ""
 

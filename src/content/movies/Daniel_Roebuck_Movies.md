@@ -4,7 +4,7 @@ title: "All 89 Daniel Roebuck Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-89-daniel-roebuck-movies-in-order/"
+slug: "/movies/all-daniel-roebuck-movies-in-order/"
 
 excerpt: ""
 

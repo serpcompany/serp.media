@@ -4,7 +4,7 @@ title: "All 32 Andra Day Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-32-andra-day-movies-in-order/"
+slug: "/movies/all-andra-day-movies-in-order/"
 
 excerpt: ""
 

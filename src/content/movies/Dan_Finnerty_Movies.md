@@ -4,7 +4,7 @@ title: "All 17 Dan Finnerty Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-17-dan-finnerty-movies-in-order/"
+slug: "/movies/all-dan-finnerty-movies-in-order/"
 
 excerpt: ""
 

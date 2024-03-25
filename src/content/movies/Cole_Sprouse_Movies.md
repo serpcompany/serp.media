@@ -4,7 +4,7 @@ title: "All 21 Cole Sprouse Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-21-cole-sprouse-movies-in-order/"
+slug: "/movies/all-cole-sprouse-movies-in-order/"
 
 excerpt: ""
 

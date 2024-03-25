@@ -4,7 +4,7 @@ title: "All 38 David Lipper Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-38-david-lipper-movies-in-order/"
+slug: "/movies/all-david-lipper-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 31 Brady Corbet Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-31-brady-corbet-movies-in-order/"
+slug: "/movies/all-brady-corbet-movies-in-order/"
 
 excerpt: ""
 

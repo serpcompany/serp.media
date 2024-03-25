@@ -4,7 +4,7 @@ title: "All 25 Conleth Hill Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-25-conleth-hill-movies-in-order/"
+slug: "/movies/all-conleth-hill-movies-in-order/"
 
 excerpt: ""
 

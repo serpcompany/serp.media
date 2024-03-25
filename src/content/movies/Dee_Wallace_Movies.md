@@ -4,7 +4,7 @@ title: "All 167 Dee Wallace Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-167-dee-wallace-movies-in-order/"
+slug: "/movies/all-dee-wallace-movies-in-order/"
 
 excerpt: ""
 

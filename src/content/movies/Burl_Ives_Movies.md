@@ -4,7 +4,7 @@ title: "All 62 Burl Ives Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-62-burl-ives-movies-in-order/"
+slug: "/movies/all-burl-ives-movies-in-order/"
 
 excerpt: ""
 

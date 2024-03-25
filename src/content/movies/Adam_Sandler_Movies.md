@@ -4,7 +4,7 @@ title: "All 124 Adam Sandler Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-124-adam-sandler-movies-in-order/"
+slug: "/movies/all-adam-sandler-movies-in-order/"
 
 excerpt: ""
 

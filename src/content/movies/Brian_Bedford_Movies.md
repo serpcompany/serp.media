@@ -4,7 +4,7 @@ title: "All 18 Brian Bedford Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-18-brian-bedford-movies-in-order/"
+slug: "/movies/all-brian-bedford-movies-in-order/"
 
 excerpt: ""
 

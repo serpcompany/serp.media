@@ -4,7 +4,7 @@ title: "All 40 Autumn Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-40-autumn-movies-in-order/"
+slug: "/movies/all-autumn-movies-in-order/"
 
 excerpt: ""
 

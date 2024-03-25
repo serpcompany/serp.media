@@ -4,7 +4,7 @@ title: "All 96 Dee Bradley Baker Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-96-dee-bradley-baker-movies-in-order/"
+slug: "/movies/all-dee-bradley-baker-movies-in-order/"
 
 excerpt: ""
 

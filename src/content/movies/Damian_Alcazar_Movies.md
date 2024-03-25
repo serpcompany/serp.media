@@ -4,7 +4,7 @@ title: "All 57 Damian Alcazar Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-57-damian-alcazar-movies-in-order/"
+slug: "/movies/all-damian-alcazar-movies-in-order/"
 
 excerpt: ""
 

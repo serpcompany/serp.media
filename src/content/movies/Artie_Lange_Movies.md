@@ -4,7 +4,7 @@ title: "All 25 Artie Lange Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-25-artie-lange-movies-in-order/"
+slug: "/movies/all-artie-lange-movies-in-order/"
 
 excerpt: ""
 

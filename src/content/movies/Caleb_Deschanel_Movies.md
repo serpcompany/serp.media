@@ -4,7 +4,7 @@ title: "All 59 Caleb Deschanel Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-59-caleb-deschanel-movies-in-order/"
+slug: "/movies/all-caleb-deschanel-movies-in-order/"
 
 excerpt: ""
 

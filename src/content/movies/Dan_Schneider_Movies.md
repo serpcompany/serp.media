@@ -4,7 +4,7 @@ title: "All 17 Dan Schneider Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-17-dan-schneider-movies-in-order/"
+slug: "/movies/all-dan-schneider-movies-in-order/"
 
 excerpt: ""
 

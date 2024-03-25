@@ -4,7 +4,7 @@ title: "All 22 Dylan Kussman Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-22-dylan-kussman-movies-in-order/"
+slug: "/movies/all-dylan-kussman-movies-in-order/"
 
 excerpt: ""
 

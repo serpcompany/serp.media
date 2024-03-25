@@ -4,7 +4,7 @@ title: "All 94 Dermot Mulroney Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-94-dermot-mulroney-movies-in-order/"
+slug: "/movies/all-dermot-mulroney-movies-in-order/"
 
 excerpt: ""
 

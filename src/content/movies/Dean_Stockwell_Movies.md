@@ -4,7 +4,7 @@ title: "All 90 Dean Stockwell Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-90-dean-stockwell-movies-in-order/"
+slug: "/movies/all-dean-stockwell-movies-in-order/"
 
 excerpt: ""
 

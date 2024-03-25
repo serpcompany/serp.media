@@ -4,7 +4,7 @@ title: "All 52 Craig Fairbrass Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-52-craig-fairbrass-movies-in-order/"
+slug: "/movies/all-craig-fairbrass-movies-in-order/"
 
 excerpt: ""
 

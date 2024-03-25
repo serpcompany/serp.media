@@ -4,7 +4,7 @@ title: "All 94 Busta Rhymes Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-94-busta-rhymes-movies-in-order/"
+slug: "/movies/all-busta-rhymes-movies-in-order/"
 
 excerpt: ""
 

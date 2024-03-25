@@ -4,7 +4,7 @@ title: "All 10 Andrea Anders Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-10-andrea-anders-movies-in-order/"
+slug: "/movies/all-andrea-anders-movies-in-order/"
 
 excerpt: ""
 

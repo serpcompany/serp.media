@@ -4,7 +4,7 @@ title: "All 24 Ava Cadell Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-24-ava-cadell-movies-in-order/"
+slug: "/movies/all-ava-cadell-movies-in-order/"
 
 excerpt: ""
 

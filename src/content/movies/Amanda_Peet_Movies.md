@@ -4,7 +4,7 @@ title: "All 41 Amanda Peet Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-41-amanda-peet-movies-in-order/"
+slug: "/movies/all-amanda-peet-movies-in-order/"
 
 excerpt: ""
 

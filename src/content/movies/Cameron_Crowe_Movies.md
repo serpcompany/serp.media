@@ -4,7 +4,7 @@ title: "All 43 Cameron Crowe Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-43-cameron-crowe-movies-in-order/"
+slug: "/movies/all-cameron-crowe-movies-in-order/"
 
 excerpt: ""
 

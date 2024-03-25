@@ -4,7 +4,7 @@ title: "All 65 Don Siegel Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-65-don-siegel-movies-in-order/"
+slug: "/movies/all-don-siegel-movies-in-order/"
 
 excerpt: ""
 

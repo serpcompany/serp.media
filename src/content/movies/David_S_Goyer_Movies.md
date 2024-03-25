@@ -4,7 +4,7 @@ title: "All 43 David S Goyer Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-43-david-s-goyer-movies-in-order/"
+slug: "/movies/all-david-s-goyer-movies-in-order/"
 
 excerpt: ""
 

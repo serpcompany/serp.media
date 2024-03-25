@@ -4,7 +4,7 @@ title: "All 15 Amanda Bynes Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-15-amanda-bynes-movies-in-order/"
+slug: "/movies/all-amanda-bynes-movies-in-order/"
 
 excerpt: ""
 

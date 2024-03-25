@@ -4,7 +4,7 @@ title: "All 24 Christopher McQuarrie Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-24-christopher-mcquarrie-movies-in-order/"
+slug: "/movies/all-christopher-mcquarrie-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 36 Bob Saget Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-36-bob-saget-movies-in-order/"
+slug: "/movies/all-bob-saget-movies-in-order/"
 
 excerpt: ""
 

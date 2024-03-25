@@ -4,7 +4,7 @@ title: "All 26 Ana de la Reguera Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-26-ana-de-la-reguera-movies-in-order/"
+slug: "/movies/all-ana-de-la-reguera-movies-in-order/"
 
 excerpt: ""
 

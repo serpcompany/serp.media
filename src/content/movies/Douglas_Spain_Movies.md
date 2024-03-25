@@ -4,7 +4,7 @@ title: "All 43 Douglas Spain Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-43-douglas-spain-movies-in-order/"
+slug: "/movies/all-douglas-spain-movies-in-order/"
 
 excerpt: ""
 

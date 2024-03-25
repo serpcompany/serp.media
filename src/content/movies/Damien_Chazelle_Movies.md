@@ -4,7 +4,7 @@ title: "All 21 Damien Chazelle Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-21-damien-chazelle-movies-in-order/"
+slug: "/movies/all-damien-chazelle-movies-in-order/"
 
 excerpt: ""
 

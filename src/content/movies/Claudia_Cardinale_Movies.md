@@ -4,7 +4,7 @@ title: "All 98 Claudia Cardinale Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-98-claudia-cardinale-movies-in-order/"
+slug: "/movies/all-claudia-cardinale-movies-in-order/"
 
 excerpt: ""
 

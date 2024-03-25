@@ -4,7 +4,7 @@ title: "All 58 Christopher Mitchum Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-58-christopher-mitchum-movies-in-order/"
+slug: "/movies/all-christopher-mitchum-movies-in-order/"
 
 excerpt: ""
 

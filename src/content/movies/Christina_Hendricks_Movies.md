@@ -4,7 +4,7 @@ title: "All 40 Christina Hendricks Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-40-christina-hendricks-movies-in-order/"
+slug: "/movies/all-christina-hendricks-movies-in-order/"
 
 excerpt: ""
 

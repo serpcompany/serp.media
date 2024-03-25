@@ -4,7 +4,7 @@ title: "All 112 Bob Marley Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-112-bob-marley-movies-in-order/"
+slug: "/movies/all-bob-marley-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 70 Cody Rhodes Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-70-cody-rhodes-movies-in-order/"
+slug: "/movies/all-cody-rhodes-movies-in-order/"
 
 excerpt: ""
 

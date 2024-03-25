@@ -4,7 +4,7 @@ title: "All 53 Chris Evans Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-53-chris-evans-movies-in-order/"
+slug: "/movies/all-chris-evans-movies-in-order/"
 
 excerpt: ""
 

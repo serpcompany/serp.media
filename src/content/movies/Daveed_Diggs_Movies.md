@@ -4,7 +4,7 @@ title: "All 16 Daveed Diggs Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-daveed-diggs-movies-in-order/"
+slug: "/movies/all-daveed-diggs-movies-in-order/"
 
 excerpt: ""
 

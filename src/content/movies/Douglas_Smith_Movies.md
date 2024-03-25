@@ -4,7 +4,7 @@ title: "All 25 Douglas Smith Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-25-douglas-smith-movies-in-order/"
+slug: "/movies/all-douglas-smith-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 39 Brian Geraghty Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-39-brian-geraghty-movies-in-order/"
+slug: "/movies/all-brian-geraghty-movies-in-order/"
 
 excerpt: ""
 

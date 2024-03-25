@@ -4,7 +4,7 @@ title: "All 17 Carrie Coon Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-17-carrie-coon-movies-in-order/"
+slug: "/movies/all-carrie-coon-movies-in-order/"
 
 excerpt: ""
 

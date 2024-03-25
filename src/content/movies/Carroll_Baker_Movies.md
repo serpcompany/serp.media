@@ -4,7 +4,7 @@ title: "All 54 Carroll Baker Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-54-carroll-baker-movies-in-order/"
+slug: "/movies/all-carroll-baker-movies-in-order/"
 
 excerpt: ""
 

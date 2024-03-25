@@ -4,7 +4,7 @@ title: "All 60 Andrew Divoff Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-60-andrew-divoff-movies-in-order/"
+slug: "/movies/all-andrew-divoff-movies-in-order/"
 
 excerpt: ""
 

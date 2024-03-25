@@ -4,7 +4,7 @@ title: "All 18 Catherine Corcoran Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-18-catherine-corcoran-movies-in-order/"
+slug: "/movies/all-catherine-corcoran-movies-in-order/"
 
 excerpt: ""
 

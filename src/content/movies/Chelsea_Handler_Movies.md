@@ -4,7 +4,7 @@ title: "All 19 Chelsea Handler Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-19-chelsea-handler-movies-in-order/"
+slug: "/movies/all-chelsea-handler-movies-in-order/"
 
 excerpt: ""
 

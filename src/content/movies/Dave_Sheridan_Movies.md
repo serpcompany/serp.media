@@ -4,7 +4,7 @@ title: "All 56 Dave Sheridan Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-56-dave-sheridan-movies-in-order/"
+slug: "/movies/all-dave-sheridan-movies-in-order/"
 
 excerpt: ""
 

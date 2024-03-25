@@ -4,7 +4,7 @@ title: "All 44 Dale Midkiff Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-44-dale-midkiff-movies-in-order/"
+slug: "/movies/all-dale-midkiff-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 33 Donna Mills Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-33-donna-mills-movies-in-order/"
+slug: "/movies/all-donna-mills-movies-in-order/"
 
 excerpt: ""
 

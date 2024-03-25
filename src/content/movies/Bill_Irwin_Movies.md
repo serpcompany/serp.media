@@ -4,7 +4,7 @@ title: "All 42 Bill Irwin Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-42-bill-irwin-movies-in-order/"
+slug: "/movies/all-bill-irwin-movies-in-order/"
 
 excerpt: ""
 

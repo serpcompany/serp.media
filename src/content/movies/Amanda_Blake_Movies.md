@@ -4,7 +4,7 @@ title: "All 25 Amanda Blake Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-25-amanda-blake-movies-in-order/"
+slug: "/movies/all-amanda-blake-movies-in-order/"
 
 excerpt: ""
 

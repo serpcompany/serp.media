@@ -4,7 +4,7 @@ title: "All 27 Diane Delano Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-27-diane-delano-movies-in-order/"
+slug: "/movies/all-diane-delano-movies-in-order/"
 
 excerpt: ""
 

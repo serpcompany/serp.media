@@ -4,7 +4,7 @@ title: "All 78 Carter Wong Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-78-carter-wong-movies-in-order/"
+slug: "/movies/all-carter-wong-movies-in-order/"
 
 excerpt: ""
 

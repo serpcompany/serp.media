@@ -4,7 +4,7 @@ title: "All 37 Danny De La Paz Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-37-danny-de-la-paz-movies-in-order/"
+slug: "/movies/all-danny-de-la-paz-movies-in-order/"
 
 excerpt: ""
 

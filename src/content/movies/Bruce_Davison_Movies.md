@@ -4,7 +4,7 @@ title: "All 137 Bruce Davison Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-137-bruce-davison-movies-in-order/"
+slug: "/movies/all-bruce-davison-movies-in-order/"
 
 excerpt: ""
 

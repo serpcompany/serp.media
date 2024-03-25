@@ -4,7 +4,7 @@ title: "All 30 Catherine Bell Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-30-catherine-bell-movies-in-order/"
+slug: "/movies/all-catherine-bell-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 35 Bradley Stryker Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-35-bradley-stryker-movies-in-order/"
+slug: "/movies/all-bradley-stryker-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 20 Carlos Ponce Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-20-carlos-ponce-movies-in-order/"
+slug: "/movies/all-carlos-ponce-movies-in-order/"
 
 excerpt: ""
 

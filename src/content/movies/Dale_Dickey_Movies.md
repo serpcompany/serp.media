@@ -4,7 +4,7 @@ title: "All 47 Dale Dickey Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-47-dale-dickey-movies-in-order/"
+slug: "/movies/all-dale-dickey-movies-in-order/"
 
 excerpt: ""
 

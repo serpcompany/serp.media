@@ -4,7 +4,7 @@ title: "All 22 August Ames Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-22-august-ames-movies-in-order/"
+slug: "/movies/all-august-ames-movies-in-order/"
 
 excerpt: ""
 

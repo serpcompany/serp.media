@@ -4,7 +4,7 @@ title: "All 75 Christopher Reeve Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-75-christopher-reeve-movies-in-order/"
+slug: "/movies/all-christopher-reeve-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 34 Columbus Short Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-34-columbus-short-movies-in-order/"
+slug: "/movies/all-columbus-short-movies-in-order/"
 
 excerpt: ""
 

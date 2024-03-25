@@ -4,7 +4,7 @@ title: "All 25 Brian Libby Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-25-brian-libby-movies-in-order/"
+slug: "/movies/all-brian-libby-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 73 Catherine Keener Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-73-catherine-keener-movies-in-order/"
+slug: "/movies/all-catherine-keener-movies-in-order/"
 
 excerpt: ""
 

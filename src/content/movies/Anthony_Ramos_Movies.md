@@ -4,7 +4,7 @@ title: "All 20 Anthony Ramos Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-20-anthony-ramos-movies-in-order/"
+slug: "/movies/all-anthony-ramos-movies-in-order/"
 
 excerpt: ""
 

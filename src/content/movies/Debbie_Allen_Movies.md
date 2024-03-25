@@ -4,7 +4,7 @@ title: "All 62 Debbie Allen Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-62-debbie-allen-movies-in-order/"
+slug: "/movies/all-debbie-allen-movies-in-order/"
 
 excerpt: ""
 

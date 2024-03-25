@@ -4,7 +4,7 @@ title: "All 17 Chance the Rapper Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-17-chance-the-rapper-movies-in-order/"
+slug: "/movies/all-chance-the-rapper-movies-in-order/"
 
 excerpt: ""
 

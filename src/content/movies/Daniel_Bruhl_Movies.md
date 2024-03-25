@@ -4,7 +4,7 @@ title: "All 49 Daniel Bruhl Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-49-daniel-bruhl-movies-in-order/"
+slug: "/movies/all-daniel-bruhl-movies-in-order/"
 
 excerpt: ""
 

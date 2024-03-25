@@ -4,7 +4,7 @@ title: "All 64 Anthony Mackie Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-64-anthony-mackie-movies-in-order/"
+slug: "/movies/all-anthony-mackie-movies-in-order/"
 
 excerpt: ""
 

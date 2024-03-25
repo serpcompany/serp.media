@@ -4,7 +4,7 @@ title: "All 13 Bennett Miller Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-13-bennett-miller-movies-in-order/"
+slug: "/movies/all-bennett-miller-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 33 Ali Larter Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-33-ali-larter-movies-in-order/"
+slug: "/movies/all-ali-larter-movies-in-order/"
 
 excerpt: ""
 

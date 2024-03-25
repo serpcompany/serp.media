@@ -4,7 +4,7 @@ title: "All 118 Antonio Banderas Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-118-antonio-banderas-movies-in-order/"
+slug: "/movies/all-antonio-banderas-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 14 Adam Pascal Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-14-adam-pascal-movies-in-order/"
+slug: "/movies/all-adam-pascal-movies-in-order/"
 
 excerpt: ""
 

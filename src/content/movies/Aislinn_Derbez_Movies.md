@@ -4,7 +4,7 @@ title: "All 21 Aislinn Derbez Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-21-aislinn-derbez-movies-in-order/"
+slug: "/movies/all-aislinn-derbez-movies-in-order/"
 
 excerpt: ""
 

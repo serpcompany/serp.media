@@ -4,7 +4,7 @@ title: "All 42 Bob Clark Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-42-bob-clark-movies-in-order/"
+slug: "/movies/all-bob-clark-movies-in-order/"
 
 excerpt: ""
 

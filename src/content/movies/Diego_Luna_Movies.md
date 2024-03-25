@@ -4,7 +4,7 @@ title: "All 65 Diego Luna Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-65-diego-luna-movies-in-order/"
+slug: "/movies/all-diego-luna-movies-in-order/"
 
 excerpt: ""
 

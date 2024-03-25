@@ -4,7 +4,7 @@ title: "All 40 Daniel Radcliffe Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-40-daniel-radcliffe-movies-in-order/"
+slug: "/movies/all-daniel-radcliffe-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 24 Ali Hillis Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-24-ali-hillis-movies-in-order/"
+slug: "/movies/all-ali-hillis-movies-in-order/"
 
 excerpt: ""
 

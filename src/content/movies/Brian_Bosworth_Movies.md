@@ -4,7 +4,7 @@ title: "All 20 Brian Bosworth Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-20-brian-bosworth-movies-in-order/"
+slug: "/movies/all-brian-bosworth-movies-in-order/"
 
 excerpt: ""
 

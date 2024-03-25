@@ -4,7 +4,7 @@ title: "All 70 Bo Svenson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-70-bo-svenson-movies-in-order/"
+slug: "/movies/all-bo-svenson-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 68 Dilip Kumar Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-68-dilip-kumar-movies-in-order/"
+slug: "/movies/all-dilip-kumar-movies-in-order/"
 
 excerpt: ""
 

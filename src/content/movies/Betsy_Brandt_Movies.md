@@ -4,7 +4,7 @@ title: "All 20 Betsy Brandt Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-20-betsy-brandt-movies-in-order/"
+slug: "/movies/all-betsy-brandt-movies-in-order/"
 
 excerpt: ""
 

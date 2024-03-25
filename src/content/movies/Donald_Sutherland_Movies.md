@@ -4,7 +4,7 @@ title: "All 182 Donald Sutherland Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-182-donald-sutherland-movies-in-order/"
+slug: "/movies/all-donald-sutherland-movies-in-order/"
 
 excerpt: ""
 

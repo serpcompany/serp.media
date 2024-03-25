@@ -4,7 +4,7 @@ title: "All 34 Bryan Callen Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-34-bryan-callen-movies-in-order/"
+slug: "/movies/all-bryan-callen-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 20 Annie Mumolo Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-20-annie-mumolo-movies-in-order/"
+slug: "/movies/all-annie-mumolo-movies-in-order/"
 
 excerpt: ""
 

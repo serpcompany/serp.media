@@ -4,7 +4,7 @@ title: "All 42 Brad William Henke Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-42-brad-william-henke-movies-in-order/"
+slug: "/movies/all-brad-william-henke-movies-in-order/"
 
 excerpt: ""
 

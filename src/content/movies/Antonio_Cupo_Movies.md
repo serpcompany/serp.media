@@ -4,7 +4,7 @@ title: "All 51 Antonio Cupo Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-51-antonio-cupo-movies-in-order/"
+slug: "/movies/all-antonio-cupo-movies-in-order/"
 
 excerpt: ""
 

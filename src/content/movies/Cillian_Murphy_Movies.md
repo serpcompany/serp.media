@@ -4,7 +4,7 @@ title: "All 42 Cillian Murphy Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-42-cillian-murphy-movies-in-order/"
+slug: "/movies/all-cillian-murphy-movies-in-order/"
 
 excerpt: ""
 

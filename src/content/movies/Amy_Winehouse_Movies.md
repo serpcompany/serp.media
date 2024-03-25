@@ -4,7 +4,7 @@ title: "All 40 Amy Winehouse Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-40-amy-winehouse-movies-in-order/"
+slug: "/movies/all-amy-winehouse-movies-in-order/"
 
 excerpt: ""
 

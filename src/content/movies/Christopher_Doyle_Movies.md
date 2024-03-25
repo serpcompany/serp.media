@@ -4,7 +4,7 @@ title: "All 51 Christopher Doyle Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-51-christopher-doyle-movies-in-order/"
+slug: "/movies/all-christopher-doyle-movies-in-order/"
 
 excerpt: ""
 

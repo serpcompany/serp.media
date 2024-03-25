@@ -4,7 +4,7 @@ title: "All 55 Anne Fletcher Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-55-anne-fletcher-movies-in-order/"
+slug: "/movies/all-anne-fletcher-movies-in-order/"
 
 excerpt: ""
 

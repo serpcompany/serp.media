@@ -4,7 +4,7 @@ title: "All 55 Brian Thompson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-55-brian-thompson-movies-in-order/"
+slug: "/movies/all-brian-thompson-movies-in-order/"
 
 excerpt: ""
 

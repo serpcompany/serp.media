@@ -4,7 +4,7 @@ title: "All 36 Chris Owen Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-36-chris-owen-movies-in-order/"
+slug: "/movies/all-chris-owen-movies-in-order/"
 
 excerpt: ""
 

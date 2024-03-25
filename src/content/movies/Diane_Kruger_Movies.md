@@ -4,7 +4,7 @@ title: "All 51 Diane Kruger Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-51-diane-kruger-movies-in-order/"
+slug: "/movies/all-diane-kruger-movies-in-order/"
 
 excerpt: ""
 

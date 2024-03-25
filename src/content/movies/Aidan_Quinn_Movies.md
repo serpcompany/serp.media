@@ -4,7 +4,7 @@ title: "All 82 Aidan Quinn Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-82-aidan-quinn-movies-in-order/"
+slug: "/movies/all-aidan-quinn-movies-in-order/"
 
 excerpt: ""
 

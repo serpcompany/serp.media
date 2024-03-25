@@ -4,7 +4,7 @@ title: "All 221 Bing Crosby Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-221-bing-crosby-movies-in-order/"
+slug: "/movies/all-bing-crosby-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 26 Charlie Day Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-26-charlie-day-movies-in-order/"
+slug: "/movies/all-charlie-day-movies-in-order/"
 
 excerpt: ""
 

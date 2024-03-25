@@ -4,7 +4,7 @@ title: "All 21 Brianne Davis Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-21-brianne-davis-movies-in-order/"
+slug: "/movies/all-brianne-davis-movies-in-order/"
 
 excerpt: ""
 

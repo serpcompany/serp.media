@@ -4,7 +4,7 @@ title: "All 33 Ann Blyth Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-33-ann-blyth-movies-in-order/"
+slug: "/movies/all-ann-blyth-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 33 Domhnall Gleeson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-33-domhnall-gleeson-movies-in-order/"
+slug: "/movies/all-domhnall-gleeson-movies-in-order/"
 
 excerpt: ""
 

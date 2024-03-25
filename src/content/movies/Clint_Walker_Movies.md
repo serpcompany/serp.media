@@ -4,7 +4,7 @@ title: "All 33 Clint Walker Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-33-clint-walker-movies-in-order/"
+slug: "/movies/all-clint-walker-movies-in-order/"
 
 excerpt: ""
 

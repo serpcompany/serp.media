@@ -4,7 +4,7 @@ title: "All 70 Andre 3000 Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-70-andre-3000-movies-in-order/"
+slug: "/movies/all-andre-3000-movies-in-order/"
 
 excerpt: ""
 

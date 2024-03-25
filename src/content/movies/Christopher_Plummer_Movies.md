@@ -4,7 +4,7 @@ title: "All 165 Christopher Plummer Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-165-christopher-plummer-movies-in-order/"
+slug: "/movies/all-christopher-plummer-movies-in-order/"
 
 excerpt: ""
 

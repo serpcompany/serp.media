@@ -4,7 +4,7 @@ title: "All 55 Caroline Munro Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-55-caroline-munro-movies-in-order/"
+slug: "/movies/all-caroline-munro-movies-in-order/"
 
 excerpt: ""
 

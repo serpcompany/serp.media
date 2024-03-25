@@ -4,7 +4,7 @@ title: "All 46 Carolyn Hennesy Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-46-carolyn-hennesy-movies-in-order/"
+slug: "/movies/all-carolyn-hennesy-movies-in-order/"
 
 excerpt: ""
 

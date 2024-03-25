@@ -4,7 +4,7 @@ title: "All 49 Anna Thomson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-49-anna-thomson-movies-in-order/"
+slug: "/movies/all-anna-thomson-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 42 Connie Nielsen Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-42-connie-nielsen-movies-in-order/"
+slug: "/movies/all-connie-nielsen-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 20 Austin Stowell Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-20-austin-stowell-movies-in-order/"
+slug: "/movies/all-austin-stowell-movies-in-order/"
 
 excerpt: ""
 

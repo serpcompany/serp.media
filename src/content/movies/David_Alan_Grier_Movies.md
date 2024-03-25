@@ -4,7 +4,7 @@ title: "All 70 David Alan Grier Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-70-david-alan-grier-movies-in-order/"
+slug: "/movies/all-david-alan-grier-movies-in-order/"
 
 excerpt: ""
 

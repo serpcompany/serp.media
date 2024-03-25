@@ -4,7 +4,7 @@ title: "All 34 Chris Buck Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-34-chris-buck-movies-in-order/"
+slug: "/movies/all-chris-buck-movies-in-order/"
 
 excerpt: ""
 

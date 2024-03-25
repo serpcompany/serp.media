@@ -4,7 +4,7 @@ title: "All 42 Charles Cyphers Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-42-charles-cyphers-movies-in-order/"
+slug: "/movies/all-charles-cyphers-movies-in-order/"
 
 excerpt: ""
 

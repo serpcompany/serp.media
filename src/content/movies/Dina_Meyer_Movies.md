@@ -4,7 +4,7 @@ title: "All 59 Dina Meyer Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-59-dina-meyer-movies-in-order/"
+slug: "/movies/all-dina-meyer-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 117 Colleen Camp Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-117-colleen-camp-movies-in-order/"
+slug: "/movies/all-colleen-camp-movies-in-order/"
 
 excerpt: ""
 

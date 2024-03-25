@@ -4,7 +4,7 @@ title: "All 13 Cristin Milioti Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-13-cristin-milioti-movies-in-order/"
+slug: "/movies/all-cristin-milioti-movies-in-order/"
 
 excerpt: ""
 

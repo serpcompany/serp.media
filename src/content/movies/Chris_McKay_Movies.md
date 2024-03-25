@@ -4,7 +4,7 @@ title: "All 14 Chris McKay Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-14-chris-mckay-movies-in-order/"
+slug: "/movies/all-chris-mckay-movies-in-order/"
 
 excerpt: ""
 

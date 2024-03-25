@@ -4,7 +4,7 @@ title: "All 32 Dirty Sanchez Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-32-dirty-sanchez-movies-in-order/"
+slug: "/movies/all-dirty-sanchez-movies-in-order/"
 
 excerpt: ""
 

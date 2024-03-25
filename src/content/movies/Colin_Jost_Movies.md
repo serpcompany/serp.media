@@ -4,7 +4,7 @@ title: "All 17 Colin Jost Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-17-colin-jost-movies-in-order/"
+slug: "/movies/all-colin-jost-movies-in-order/"
 
 excerpt: ""
 

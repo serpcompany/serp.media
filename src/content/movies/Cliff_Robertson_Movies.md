@@ -4,7 +4,7 @@ title: "All 53 Cliff Robertson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-53-cliff-robertson-movies-in-order/"
+slug: "/movies/all-cliff-robertson-movies-in-order/"
 
 excerpt: ""
 

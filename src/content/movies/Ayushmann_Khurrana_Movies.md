@@ -4,7 +4,7 @@ title: "All 22 Ayushmann Khurrana Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-22-ayushmann-khurrana-movies-in-order/"
+slug: "/movies/all-ayushmann-khurrana-movies-in-order/"
 
 excerpt: ""
 

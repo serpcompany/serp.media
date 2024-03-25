@@ -4,7 +4,7 @@ title: "All 19 David Ayer Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-19-david-ayer-movies-in-order/"
+slug: "/movies/all-david-ayer-movies-in-order/"
 
 excerpt: ""
 

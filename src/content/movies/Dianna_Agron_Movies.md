@@ -4,7 +4,7 @@ title: "All 29 Dianna Agron Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-29-dianna-agron-movies-in-order/"
+slug: "/movies/all-dianna-agron-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 17 David Twohy Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-17-david-twohy-movies-in-order/"
+slug: "/movies/all-david-twohy-movies-in-order/"
 
 excerpt: ""
 

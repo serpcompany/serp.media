@@ -4,7 +4,7 @@ title: "All 88 Ajay Devgn Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-88-ajay-devgn-movies-in-order/"
+slug: "/movies/all-ajay-devgn-movies-in-order/"
 
 excerpt: ""
 

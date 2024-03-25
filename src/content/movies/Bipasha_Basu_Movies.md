@@ -4,7 +4,7 @@ title: "All 58 Bipasha Basu Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-58-bipasha-basu-movies-in-order/"
+slug: "/movies/all-bipasha-basu-movies-in-order/"
 
 excerpt: ""
 

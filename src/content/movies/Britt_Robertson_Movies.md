@@ -4,7 +4,7 @@ title: "All 35 Britt Robertson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-35-britt-robertson-movies-in-order/"
+slug: "/movies/all-britt-robertson-movies-in-order/"
 
 excerpt: ""
 

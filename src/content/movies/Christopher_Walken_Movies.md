@@ -4,7 +4,7 @@ title: "All 146 Christopher Walken Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-146-christopher-walken-movies-in-order/"
+slug: "/movies/all-christopher-walken-movies-in-order/"
 
 excerpt: ""
 

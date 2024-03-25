@@ -4,7 +4,7 @@ title: "All 45 Amrita Singh Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-45-amrita-singh-movies-in-order/"
+slug: "/movies/all-amrita-singh-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 38 Bonnie Hunt Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-38-bonnie-hunt-movies-in-order/"
+slug: "/movies/all-bonnie-hunt-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 68 Chris Cooper Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-68-chris-cooper-movies-in-order/"
+slug: "/movies/all-chris-cooper-movies-in-order/"
 
 excerpt: ""
 

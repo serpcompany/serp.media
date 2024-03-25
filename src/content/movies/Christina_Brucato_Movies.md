@@ -4,7 +4,7 @@ title: "All 13 Christina Brucato Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-13-christina-brucato-movies-in-order/"
+slug: "/movies/all-christina-brucato-movies-in-order/"
 
 excerpt: ""
 

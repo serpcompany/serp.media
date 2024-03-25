@@ -4,7 +4,7 @@ title: "All 140 Clint Howard Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-140-clint-howard-movies-in-order/"
+slug: "/movies/all-clint-howard-movies-in-order/"
 
 excerpt: ""
 

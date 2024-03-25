@@ -4,7 +4,7 @@ title: "All 38 Bill Condon Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-38-bill-condon-movies-in-order/"
+slug: "/movies/all-bill-condon-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 105 Ben Gazzara Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-105-ben-gazzara-movies-in-order/"
+slug: "/movies/all-ben-gazzara-movies-in-order/"
 
 excerpt: ""
 

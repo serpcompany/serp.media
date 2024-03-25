@@ -4,7 +4,7 @@ title: "All 25 Ali Fazal Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-25-ali-fazal-movies-in-order/"
+slug: "/movies/all-ali-fazal-movies-in-order/"
 
 excerpt: ""
 

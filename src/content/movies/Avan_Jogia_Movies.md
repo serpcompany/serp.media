@@ -4,7 +4,7 @@ title: "All 34 Avan Jogia Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-34-avan-jogia-movies-in-order/"
+slug: "/movies/all-avan-jogia-movies-in-order/"
 
 excerpt: ""
 

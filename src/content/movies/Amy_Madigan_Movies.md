@@ -4,7 +4,7 @@ title: "All 57 Amy Madigan Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-57-amy-madigan-movies-in-order/"
+slug: "/movies/all-amy-madigan-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 86 Dominique Swain Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-86-dominique-swain-movies-in-order/"
+slug: "/movies/all-dominique-swain-movies-in-order/"
 
 excerpt: ""
 

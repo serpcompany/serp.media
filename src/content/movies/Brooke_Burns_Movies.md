@@ -4,7 +4,7 @@ title: "All 23 Brooke Burns Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-23-brooke-burns-movies-in-order/"
+slug: "/movies/all-brooke-burns-movies-in-order/"
 
 excerpt: ""
 

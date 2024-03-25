@@ -4,7 +4,7 @@ title: "All 47 Carrie Underwood Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-47-carrie-underwood-movies-in-order/"
+slug: "/movies/all-carrie-underwood-movies-in-order/"
 
 excerpt: ""
 

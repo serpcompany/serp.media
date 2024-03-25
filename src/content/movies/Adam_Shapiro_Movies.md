@@ -4,7 +4,7 @@ title: "All 23 Adam Shapiro Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-23-adam-shapiro-movies-in-order/"
+slug: "/movies/all-adam-shapiro-movies-in-order/"
 
 excerpt: ""
 

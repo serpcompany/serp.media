@@ -4,7 +4,7 @@ title: "All 141 Bette Davis Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-141-bette-davis-movies-in-order/"
+slug: "/movies/all-bette-davis-movies-in-order/"
 
 excerpt: ""
 

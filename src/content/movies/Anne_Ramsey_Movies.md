@@ -4,7 +4,7 @@ title: "All 39 Anne Ramsey Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-39-anne-ramsey-movies-in-order/"
+slug: "/movies/all-anne-ramsey-movies-in-order/"
 
 excerpt: ""
 

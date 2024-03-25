@@ -4,7 +4,7 @@ title: "All 39 Bryan Singer Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-39-bryan-singer-movies-in-order/"
+slug: "/movies/all-bryan-singer-movies-in-order/"
 
 excerpt: ""
 

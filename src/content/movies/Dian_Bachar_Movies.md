@@ -4,7 +4,7 @@ title: "All 22 Dian Bachar Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-22-dian-bachar-movies-in-order/"
+slug: "/movies/all-dian-bachar-movies-in-order/"
 
 excerpt: ""
 

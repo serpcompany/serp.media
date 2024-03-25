@@ -4,7 +4,7 @@ title: "All 27 Chris Potter Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-27-chris-potter-movies-in-order/"
+slug: "/movies/all-chris-potter-movies-in-order/"
 
 excerpt: ""
 

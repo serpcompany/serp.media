@@ -4,7 +4,7 @@ title: "All 102 Charlotte Rampling Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-102-charlotte-rampling-movies-in-order/"
+slug: "/movies/all-charlotte-rampling-movies-in-order/"
 
 excerpt: ""
 

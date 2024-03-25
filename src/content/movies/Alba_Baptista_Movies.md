@@ -4,7 +4,7 @@ title: "All 12 Alba Baptista Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-12-alba-baptista-movies-in-order/"
+slug: "/movies/all-alba-baptista-movies-in-order/"
 
 excerpt: ""
 

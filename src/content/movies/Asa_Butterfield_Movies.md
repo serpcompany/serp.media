@@ -4,7 +4,7 @@ title: "All 22 Asa Butterfield Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-22-asa-butterfield-movies-in-order/"
+slug: "/movies/all-asa-butterfield-movies-in-order/"
 
 excerpt: ""
 

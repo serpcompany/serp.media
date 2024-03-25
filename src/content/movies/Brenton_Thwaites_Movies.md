@@ -4,7 +4,7 @@ title: "All 12 Brenton Thwaites Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-12-brenton-thwaites-movies-in-order/"
+slug: "/movies/all-brenton-thwaites-movies-in-order/"
 
 excerpt: ""
 

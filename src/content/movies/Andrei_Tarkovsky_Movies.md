@@ -4,7 +4,7 @@ title: "All 31 Andrei Tarkovsky Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-31-andrei-tarkovsky-movies-in-order/"
+slug: "/movies/all-andrei-tarkovsky-movies-in-order/"
 
 excerpt: ""
 

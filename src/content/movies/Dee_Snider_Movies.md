@@ -4,7 +4,7 @@ title: "All 58 Dee Snider Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-58-dee-snider-movies-in-order/"
+slug: "/movies/all-dee-snider-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 59 Chris Kattan Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-59-chris-kattan-movies-in-order/"
+slug: "/movies/all-chris-kattan-movies-in-order/"
 
 excerpt: ""
 

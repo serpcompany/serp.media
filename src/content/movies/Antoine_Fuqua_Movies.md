@@ -4,7 +4,7 @@ title: "All 28 Antoine Fuqua Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-28-antoine-fuqua-movies-in-order/"
+slug: "/movies/all-antoine-fuqua-movies-in-order/"
 
 excerpt: ""
 

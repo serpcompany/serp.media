@@ -4,7 +4,7 @@ title: "All 47 Coldplay Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-47-coldplay-movies-in-order/"
+slug: "/movies/all-coldplay-movies-in-order/"
 
 excerpt: ""
 

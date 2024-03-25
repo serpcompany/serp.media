@@ -4,7 +4,7 @@ title: "All 14 Candice King Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-14-candice-king-movies-in-order/"
+slug: "/movies/all-candice-king-movies-in-order/"
 
 excerpt: ""
 

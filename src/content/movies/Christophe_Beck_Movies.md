@@ -4,7 +4,7 @@ title: "All 139 Christophe Beck Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-139-christophe-beck-movies-in-order/"
+slug: "/movies/all-christophe-beck-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 34 Beverly Todd Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-34-beverly-todd-movies-in-order/"
+slug: "/movies/all-beverly-todd-movies-in-order/"
 
 excerpt: ""
 

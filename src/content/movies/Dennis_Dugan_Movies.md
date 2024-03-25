@@ -4,7 +4,7 @@ title: "All 44 Dennis Dugan Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-44-dennis-dugan-movies-in-order/"
+slug: "/movies/all-dennis-dugan-movies-in-order/"
 
 excerpt: ""
 

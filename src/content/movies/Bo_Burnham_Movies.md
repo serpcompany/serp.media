@@ -4,7 +4,7 @@ title: "All 17 Bo Burnham Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-17-bo-burnham-movies-in-order/"
+slug: "/movies/all-bo-burnham-movies-in-order/"
 
 excerpt: ""
 

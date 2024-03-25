@@ -4,7 +4,7 @@ title: "All 28 Donna Murphy Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-28-donna-murphy-movies-in-order/"
+slug: "/movies/all-donna-murphy-movies-in-order/"
 
 excerpt: ""
 

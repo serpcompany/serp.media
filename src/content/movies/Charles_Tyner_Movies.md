@@ -4,7 +4,7 @@ title: "All 44 Charles Tyner Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-44-charles-tyner-movies-in-order/"
+slug: "/movies/all-charles-tyner-movies-in-order/"
 
 excerpt: ""
 

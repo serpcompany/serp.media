@@ -4,7 +4,7 @@ title: "All 70 Dwight Yoakam Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-70-dwight-yoakam-movies-in-order/"
+slug: "/movies/all-dwight-yoakam-movies-in-order/"
 
 excerpt: ""
 

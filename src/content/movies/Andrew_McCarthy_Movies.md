@@ -4,7 +4,7 @@ title: "All 60 Andrew McCarthy Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-60-andrew-mccarthy-movies-in-order/"
+slug: "/movies/all-andrew-mccarthy-movies-in-order/"
 
 excerpt: ""
 

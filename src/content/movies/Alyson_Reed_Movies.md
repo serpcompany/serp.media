@@ -4,7 +4,7 @@ title: "All 18 Alyson Reed Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-18-alyson-reed-movies-in-order/"
+slug: "/movies/all-alyson-reed-movies-in-order/"
 
 excerpt: ""
 

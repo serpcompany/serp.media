@@ -4,7 +4,7 @@ title: "All 45 Benoit Blanc Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-45-benoit-blanc-movies-in-order/"
+slug: "/movies/all-benoit-blanc-movies-in-order/"
 
 excerpt: ""
 

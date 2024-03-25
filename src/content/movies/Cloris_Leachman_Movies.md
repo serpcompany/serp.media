@@ -4,7 +4,7 @@ title: "All 109 Cloris Leachman Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-109-cloris-leachman-movies-in-order/"
+slug: "/movies/all-cloris-leachman-movies-in-order/"
 
 excerpt: ""
 

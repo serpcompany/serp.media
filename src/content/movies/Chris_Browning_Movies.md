@@ -4,7 +4,7 @@ title: "All 41 Chris Browning Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-41-chris-browning-movies-in-order/"
+slug: "/movies/all-chris-browning-movies-in-order/"
 
 excerpt: ""
 

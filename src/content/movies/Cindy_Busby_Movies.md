@@ -4,7 +4,7 @@ title: "All 50 Cindy Busby Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-50-cindy-busby-movies-in-order/"
+slug: "/movies/all-cindy-busby-movies-in-order/"
 
 excerpt: ""
 

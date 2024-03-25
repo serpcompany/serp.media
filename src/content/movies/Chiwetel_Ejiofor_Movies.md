@@ -4,7 +4,7 @@ title: "All 46 Chiwetel Ejiofor Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-46-chiwetel-ejiofor-movies-in-order/"
+slug: "/movies/all-chiwetel-ejiofor-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 88 Barbara Bouchet Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-88-barbara-bouchet-movies-in-order/"
+slug: "/movies/all-barbara-bouchet-movies-in-order/"
 
 excerpt: ""
 

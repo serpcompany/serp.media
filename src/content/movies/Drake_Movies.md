@@ -4,7 +4,7 @@ title: "All 66 Drake Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-66-drake-movies-in-order/"
+slug: "/movies/all-drake-movies-in-order/"
 
 excerpt: ""
 

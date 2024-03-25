@@ -4,7 +4,7 @@ title: "All 45 Arlene Dahl Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-45-arlene-dahl-movies-in-order/"
+slug: "/movies/all-arlene-dahl-movies-in-order/"
 
 excerpt: ""
 

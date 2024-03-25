@@ -4,7 +4,7 @@ title: "All 100 Christian Slater Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-100-christian-slater-movies-in-order/"
+slug: "/movies/all-christian-slater-movies-in-order/"
 
 excerpt: ""
 

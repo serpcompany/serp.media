@@ -4,7 +4,7 @@ title: "All 46 Bo Derek Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-46-bo-derek-movies-in-order/"
+slug: "/movies/all-bo-derek-movies-in-order/"
 
 excerpt: ""
 

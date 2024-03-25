@@ -4,7 +4,7 @@ title: "All 28 Bert Lahr Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-28-bert-lahr-movies-in-order/"
+slug: "/movies/all-bert-lahr-movies-in-order/"
 
 excerpt: ""
 

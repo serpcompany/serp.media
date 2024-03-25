@@ -4,7 +4,7 @@ title: "All 36 Bibi Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-36-bibi-movies-in-order/"
+slug: "/movies/all-bibi-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 97 Angela Lansbury Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-97-angela-lansbury-movies-in-order/"
+slug: "/movies/all-angela-lansbury-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 36 Basil Joseph Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-36-basil-joseph-movies-in-order/"
+slug: "/movies/all-basil-joseph-movies-in-order/"
 
 excerpt: ""
 

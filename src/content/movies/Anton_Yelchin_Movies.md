@@ -4,7 +4,7 @@ title: "All 44 Anton Yelchin Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-44-anton-yelchin-movies-in-order/"
+slug: "/movies/all-anton-yelchin-movies-in-order/"
 
 excerpt: ""
 

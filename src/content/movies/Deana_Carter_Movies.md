@@ -4,7 +4,7 @@ title: "All 11 Deana Carter Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-11-deana-carter-movies-in-order/"
+slug: "/movies/all-deana-carter-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 53 Dean Jones Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-53-dean-jones-movies-in-order/"
+slug: "/movies/all-dean-jones-movies-in-order/"
 
 excerpt: ""
 

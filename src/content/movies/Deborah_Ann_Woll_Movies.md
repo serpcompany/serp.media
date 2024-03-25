@@ -4,7 +4,7 @@ title: "All 18 Deborah Ann Woll Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-18-deborah-ann-woll-movies-in-order/"
+slug: "/movies/all-deborah-ann-woll-movies-in-order/"
 
 excerpt: ""
 

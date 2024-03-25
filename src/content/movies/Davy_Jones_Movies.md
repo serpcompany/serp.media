@@ -4,7 +4,7 @@ title: "All 28 Davy Jones Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-28-davy-jones-movies-in-order/"
+slug: "/movies/all-davy-jones-movies-in-order/"
 
 excerpt: ""
 

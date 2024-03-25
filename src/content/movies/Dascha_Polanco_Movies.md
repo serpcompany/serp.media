@@ -4,7 +4,7 @@ title: "All 16 Dascha Polanco Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-dascha-polanco-movies-in-order/"
+slug: "/movies/all-dascha-polanco-movies-in-order/"
 
 excerpt: ""
 

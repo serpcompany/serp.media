@@ -4,7 +4,7 @@ title: "All 249 Dean Martin Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-249-dean-martin-movies-in-order/"
+slug: "/movies/all-dean-martin-movies-in-order/"
 
 excerpt: ""
 

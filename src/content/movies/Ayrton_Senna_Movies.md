@@ -4,7 +4,7 @@ title: "All 24 Ayrton Senna Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-24-ayrton-senna-movies-in-order/"
+slug: "/movies/all-ayrton-senna-movies-in-order/"
 
 excerpt: ""
 

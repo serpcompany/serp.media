@@ -4,7 +4,7 @@ title: "All 25 Bryan Greenberg Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-25-bryan-greenberg-movies-in-order/"
+slug: "/movies/all-bryan-greenberg-movies-in-order/"
 
 excerpt: ""
 

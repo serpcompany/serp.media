@@ -4,7 +4,7 @@ title: "All 89 Colin Firth Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-89-colin-firth-movies-in-order/"
+slug: "/movies/all-colin-firth-movies-in-order/"
 
 excerpt: ""
 

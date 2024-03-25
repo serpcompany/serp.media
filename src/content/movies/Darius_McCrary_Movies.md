@@ -4,7 +4,7 @@ title: "All 34 Darius McCrary Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-34-darius-mccrary-movies-in-order/"
+slug: "/movies/all-darius-mccrary-movies-in-order/"
 
 excerpt: ""
 

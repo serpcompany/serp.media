@@ -4,7 +4,7 @@ title: "All 16 Dexter Darden Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-dexter-darden-movies-in-order/"
+slug: "/movies/all-dexter-darden-movies-in-order/"
 
 excerpt: ""
 

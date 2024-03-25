@@ -4,7 +4,7 @@ title: "All 30 Dolly De Leon Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-30-dolly-de-leon-movies-in-order/"
+slug: "/movies/all-dolly-de-leon-movies-in-order/"
 
 excerpt: ""
 

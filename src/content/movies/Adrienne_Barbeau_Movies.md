@@ -4,7 +4,7 @@ title: "All 61 Adrienne Barbeau Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-61-adrienne-barbeau-movies-in-order/"
+slug: "/movies/all-adrienne-barbeau-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 49 David Huddleston Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-49-david-huddleston-movies-in-order/"
+slug: "/movies/all-david-huddleston-movies-in-order/"
 
 excerpt: ""
 

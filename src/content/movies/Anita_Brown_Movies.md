@@ -4,7 +4,7 @@ title: "All 10 Anita Brown Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-10-anita-brown-movies-in-order/"
+slug: "/movies/all-anita-brown-movies-in-order/"
 
 excerpt: ""
 

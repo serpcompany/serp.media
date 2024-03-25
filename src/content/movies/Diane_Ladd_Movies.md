@@ -4,7 +4,7 @@ title: "All 66 Diane Ladd Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-66-diane-ladd-movies-in-order/"
+slug: "/movies/all-diane-ladd-movies-in-order/"
 
 excerpt: ""
 

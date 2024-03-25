@@ -4,7 +4,7 @@ title: "All 50 Douglas Sirk Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-50-douglas-sirk-movies-in-order/"
+slug: "/movies/all-douglas-sirk-movies-in-order/"
 
 excerpt: ""
 

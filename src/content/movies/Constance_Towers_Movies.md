@@ -4,7 +4,7 @@ title: "All 20 Constance Towers Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-20-constance-towers-movies-in-order/"
+slug: "/movies/all-constance-towers-movies-in-order/"
 
 excerpt: ""
 

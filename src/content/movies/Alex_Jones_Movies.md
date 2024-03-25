@@ -4,7 +4,7 @@ title: "All 70 Alex Jones Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-70-alex-jones-movies-in-order/"
+slug: "/movies/all-alex-jones-movies-in-order/"
 
 excerpt: ""
 

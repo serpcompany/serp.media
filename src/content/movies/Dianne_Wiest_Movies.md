@@ -4,7 +4,7 @@ title: "All 56 Dianne Wiest Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-56-dianne-wiest-movies-in-order/"
+slug: "/movies/all-dianne-wiest-movies-in-order/"
 
 excerpt: ""
 

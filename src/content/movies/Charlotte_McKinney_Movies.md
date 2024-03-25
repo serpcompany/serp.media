@@ -4,7 +4,7 @@ title: "All 13 Charlotte McKinney Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-13-charlotte-mckinney-movies-in-order/"
+slug: "/movies/all-charlotte-mckinney-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 84 Carol Kane Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-84-carol-kane-movies-in-order/"
+slug: "/movies/all-carol-kane-movies-in-order/"
 
 excerpt: ""
 

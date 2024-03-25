@@ -4,7 +4,7 @@ title: "All 16 Alex Kendrick Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-alex-kendrick-movies-in-order/"
+slug: "/movies/all-alex-kendrick-movies-in-order/"
 
 excerpt: ""
 

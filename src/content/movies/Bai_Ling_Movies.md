@@ -4,7 +4,7 @@ title: "All 60 Bai Ling Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-60-bai-ling-movies-in-order/"
+slug: "/movies/all-bai-ling-movies-in-order/"
 
 excerpt: ""
 

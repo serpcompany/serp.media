@@ -4,7 +4,7 @@ title: "All 29 Charlyne Yi Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-29-charlyne-yi-movies-in-order/"
+slug: "/movies/all-charlyne-yi-movies-in-order/"
 
 excerpt: ""
 

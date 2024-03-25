@@ -4,7 +4,7 @@ title: "All 35 Camille Sullivan Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-35-camille-sullivan-movies-in-order/"
+slug: "/movies/all-camille-sullivan-movies-in-order/"
 
 excerpt: ""
 

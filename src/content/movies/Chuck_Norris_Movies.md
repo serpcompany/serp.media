@@ -4,7 +4,7 @@ title: "All 48 Chuck Norris Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-48-chuck-norris-movies-in-order/"
+slug: "/movies/all-chuck-norris-movies-in-order/"
 
 excerpt: ""
 

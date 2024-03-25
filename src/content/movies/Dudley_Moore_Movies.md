@@ -4,7 +4,7 @@ title: "All 36 Dudley Moore Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-36-dudley-moore-movies-in-order/"
+slug: "/movies/all-dudley-moore-movies-in-order/"
 
 excerpt: ""
 

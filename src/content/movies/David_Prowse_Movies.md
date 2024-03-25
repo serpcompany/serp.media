@@ -4,7 +4,7 @@ title: "All 42 David Prowse Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-42-david-prowse-movies-in-order/"
+slug: "/movies/all-david-prowse-movies-in-order/"
 
 excerpt: ""
 

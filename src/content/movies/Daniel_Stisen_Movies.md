@@ -4,7 +4,7 @@ title: "All 24 Daniel Stisen Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-24-daniel-stisen-movies-in-order/"
+slug: "/movies/all-daniel-stisen-movies-in-order/"
 
 excerpt: ""
 

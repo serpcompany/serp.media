@@ -4,7 +4,7 @@ title: "All 53 Cliff Curtis Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-53-cliff-curtis-movies-in-order/"
+slug: "/movies/all-cliff-curtis-movies-in-order/"
 
 excerpt: ""
 

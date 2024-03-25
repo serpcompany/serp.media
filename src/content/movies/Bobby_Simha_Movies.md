@@ -4,7 +4,7 @@ title: "All 48 Bobby Simha Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-48-bobby-simha-movies-in-order/"
+slug: "/movies/all-bobby-simha-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 34 Alison Eastwood Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-34-alison-eastwood-movies-in-order/"
+slug: "/movies/all-alison-eastwood-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 44 Da Brat Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-44-da-brat-movies-in-order/"
+slug: "/movies/all-da-brat-movies-in-order/"
 
 excerpt: ""
 

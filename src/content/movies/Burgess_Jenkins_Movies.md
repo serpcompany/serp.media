@@ -4,7 +4,7 @@ title: "All 29 Burgess Jenkins Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-29-burgess-jenkins-movies-in-order/"
+slug: "/movies/all-burgess-jenkins-movies-in-order/"
 
 excerpt: ""
 

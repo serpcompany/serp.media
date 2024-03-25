@@ -4,7 +4,7 @@ title: "All 67 Alan Ladd Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-67-alan-ladd-movies-in-order/"
+slug: "/movies/all-alan-ladd-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 27 Briana Evigan Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-27-briana-evigan-movies-in-order/"
+slug: "/movies/all-briana-evigan-movies-in-order/"
 
 excerpt: ""
 

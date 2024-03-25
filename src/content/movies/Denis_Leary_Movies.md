@@ -4,7 +4,7 @@ title: "All 59 Denis Leary Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-59-denis-leary-movies-in-order/"
+slug: "/movies/all-denis-leary-movies-in-order/"
 
 excerpt: ""
 

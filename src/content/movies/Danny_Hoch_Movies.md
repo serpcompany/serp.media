@@ -4,7 +4,7 @@ title: "All 36 Danny Hoch Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-36-danny-hoch-movies-in-order/"
+slug: "/movies/all-danny-hoch-movies-in-order/"
 
 excerpt: ""
 

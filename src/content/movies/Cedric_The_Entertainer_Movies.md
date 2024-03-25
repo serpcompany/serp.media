@@ -4,7 +4,7 @@ title: "All 82 Cedric The Entertainer Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-82-cedric-the-entertainer-movies-in-order/"
+slug: "/movies/all-cedric-the-entertainer-movies-in-order/"
 
 excerpt: ""
 

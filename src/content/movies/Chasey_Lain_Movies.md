@@ -4,7 +4,7 @@ title: "All 83 Chasey Lain Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-83-chasey-lain-movies-in-order/"
+slug: "/movies/all-chasey-lain-movies-in-order/"
 
 excerpt: ""
 

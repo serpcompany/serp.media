@@ -4,7 +4,7 @@ title: "All 49 Annabella Sciorra Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-49-annabella-sciorra-movies-in-order/"
+slug: "/movies/all-annabella-sciorra-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 40 Capucine Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-40-capucine-movies-in-order/"
+slug: "/movies/all-capucine-movies-in-order/"
 
 excerpt: ""
 

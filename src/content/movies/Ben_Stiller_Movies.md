@@ -4,7 +4,7 @@ title: "All 133 Ben Stiller Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-133-ben-stiller-movies-in-order/"
+slug: "/movies/all-ben-stiller-movies-in-order/"
 
 excerpt: ""
 

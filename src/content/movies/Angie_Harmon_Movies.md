@@ -4,7 +4,7 @@ title: "All 13 Angie Harmon Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-13-angie-harmon-movies-in-order/"
+slug: "/movies/all-angie-harmon-movies-in-order/"
 
 excerpt: ""
 

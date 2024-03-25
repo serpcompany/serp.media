@@ -4,7 +4,7 @@ title: "All 27 Denyce Lawton Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-27-denyce-lawton-movies-in-order/"
+slug: "/movies/all-denyce-lawton-movies-in-order/"
 
 excerpt: ""
 

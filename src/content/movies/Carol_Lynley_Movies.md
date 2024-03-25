@@ -4,7 +4,7 @@ title: "All 52 Carol Lynley Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-52-carol-lynley-movies-in-order/"
+slug: "/movies/all-carol-lynley-movies-in-order/"
 
 excerpt: ""
 

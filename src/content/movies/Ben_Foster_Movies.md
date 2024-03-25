@@ -4,7 +4,7 @@ title: "All 47 Ben Foster Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-47-ben-foster-movies-in-order/"
+slug: "/movies/all-ben-foster-movies-in-order/"
 
 excerpt: ""
 

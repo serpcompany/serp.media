@@ -4,7 +4,7 @@ title: "All 82 Brigitte Lin Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-82-brigitte-lin-movies-in-order/"
+slug: "/movies/all-brigitte-lin-movies-in-order/"
 
 excerpt: ""
 

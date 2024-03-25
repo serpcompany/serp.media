@@ -4,7 +4,7 @@ title: "All 30 Amaury Nolasco Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-30-amaury-nolasco-movies-in-order/"
+slug: "/movies/all-amaury-nolasco-movies-in-order/"
 
 excerpt: ""
 

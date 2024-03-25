@@ -4,7 +4,7 @@ title: "All 31 Chad McQueen Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-31-chad-mcqueen-movies-in-order/"
+slug: "/movies/all-chad-mcqueen-movies-in-order/"
 
 excerpt: ""
 

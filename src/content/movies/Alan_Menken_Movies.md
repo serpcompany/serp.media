@@ -4,7 +4,7 @@ title: "All 76 Alan Menken Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-76-alan-menken-movies-in-order/"
+slug: "/movies/all-alan-menken-movies-in-order/"
 
 excerpt: ""
 

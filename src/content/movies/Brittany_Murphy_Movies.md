@@ -4,7 +4,7 @@ title: "All 53 Brittany Murphy Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-53-brittany-murphy-movies-in-order/"
+slug: "/movies/all-brittany-murphy-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 14 Chrissy Metz Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-14-chrissy-metz-movies-in-order/"
+slug: "/movies/all-chrissy-metz-movies-in-order/"
 
 excerpt: ""
 

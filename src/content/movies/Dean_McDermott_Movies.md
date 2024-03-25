@@ -4,7 +4,7 @@ title: "All 51 Dean McDermott Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-51-dean-mcdermott-movies-in-order/"
+slug: "/movies/all-dean-mcdermott-movies-in-order/"
 
 excerpt: ""
 

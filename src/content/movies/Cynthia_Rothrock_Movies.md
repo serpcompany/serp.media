@@ -4,7 +4,7 @@ title: "All 68 Cynthia Rothrock Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-68-cynthia-rothrock-movies-in-order/"
+slug: "/movies/all-cynthia-rothrock-movies-in-order/"
 
 excerpt: ""
 

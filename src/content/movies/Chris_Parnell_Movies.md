@@ -4,7 +4,7 @@ title: "All 68 Chris Parnell Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-68-chris-parnell-movies-in-order/"
+slug: "/movies/all-chris-parnell-movies-in-order/"
 
 excerpt: ""
 

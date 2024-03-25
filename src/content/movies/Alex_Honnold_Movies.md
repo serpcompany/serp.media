@@ -4,7 +4,7 @@ title: "All 16 Alex Honnold Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-alex-honnold-movies-in-order/"
+slug: "/movies/all-alex-honnold-movies-in-order/"
 
 excerpt: ""
 

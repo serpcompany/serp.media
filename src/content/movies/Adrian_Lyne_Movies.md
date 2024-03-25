@@ -4,7 +4,7 @@ title: "All 16 Adrian Lyne Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-adrian-lyne-movies-in-order/"
+slug: "/movies/all-adrian-lyne-movies-in-order/"
 
 excerpt: ""
 

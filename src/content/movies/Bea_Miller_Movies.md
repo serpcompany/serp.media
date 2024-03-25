@@ -4,7 +4,7 @@ title: "All 13 Bea Miller Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-13-bea-miller-movies-in-order/"
+slug: "/movies/all-bea-miller-movies-in-order/"
 
 excerpt: ""
 

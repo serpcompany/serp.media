@@ -4,7 +4,7 @@ title: "All 123 Anthony Hopkins Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-123-anthony-hopkins-movies-in-order/"
+slug: "/movies/all-anthony-hopkins-movies-in-order/"
 
 excerpt: ""
 

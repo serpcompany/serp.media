@@ -4,7 +4,7 @@ title: "All 13 Caitlin Gerard Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-13-caitlin-gerard-movies-in-order/"
+slug: "/movies/all-caitlin-gerard-movies-in-order/"
 
 excerpt: ""
 

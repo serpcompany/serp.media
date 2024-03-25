@@ -4,7 +4,7 @@ title: "All 50 Bela Lugosi Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-50-bela-lugosi-movies-in-order/"
+slug: "/movies/all-bela-lugosi-movies-in-order/"
 
 excerpt: ""
 

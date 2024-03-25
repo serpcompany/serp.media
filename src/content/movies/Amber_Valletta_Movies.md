@@ -4,7 +4,7 @@ title: "All 22 Amber Valletta Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-22-amber-valletta-movies-in-order/"
+slug: "/movies/all-amber-valletta-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 78 Anthony Anderson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-78-anthony-anderson-movies-in-order/"
+slug: "/movies/all-anthony-anderson-movies-in-order/"
 
 excerpt: ""
 

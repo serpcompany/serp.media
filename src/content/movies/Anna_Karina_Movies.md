@@ -4,7 +4,7 @@ title: "All 70 Anna Karina Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-70-anna-karina-movies-in-order/"
+slug: "/movies/all-anna-karina-movies-in-order/"
 
 excerpt: ""
 

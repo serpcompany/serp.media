@@ -4,7 +4,7 @@ title: "All 77 Doug Jones Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-77-doug-jones-movies-in-order/"
+slug: "/movies/all-doug-jones-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 44 Colin Mochrie Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-44-colin-mochrie-movies-in-order/"
+slug: "/movies/all-colin-mochrie-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 25 Adam Wingard Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-25-adam-wingard-movies-in-order/"
+slug: "/movies/all-adam-wingard-movies-in-order/"
 
 excerpt: ""
 

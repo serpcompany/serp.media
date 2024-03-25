@@ -4,7 +4,7 @@ title: "All 95 Andy Garcia Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-95-andy-garcia-movies-in-order/"
+slug: "/movies/all-andy-garcia-movies-in-order/"
 
 excerpt: ""
 

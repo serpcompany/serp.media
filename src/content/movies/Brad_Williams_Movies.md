@@ -4,7 +4,7 @@ title: "All 14 Brad Williams Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-14-brad-williams-movies-in-order/"
+slug: "/movies/all-brad-williams-movies-in-order/"
 
 excerpt: ""
 

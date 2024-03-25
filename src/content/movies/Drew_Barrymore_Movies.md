@@ -4,7 +4,7 @@ title: "All 98 Drew Barrymore Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-98-drew-barrymore-movies-in-order/"
+slug: "/movies/all-drew-barrymore-movies-in-order/"
 
 excerpt: ""
 

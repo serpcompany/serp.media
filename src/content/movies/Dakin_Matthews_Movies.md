@@ -4,7 +4,7 @@ title: "All 59 Dakin Matthews Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-59-dakin-matthews-movies-in-order/"
+slug: "/movies/all-dakin-matthews-movies-in-order/"
 
 excerpt: ""
 

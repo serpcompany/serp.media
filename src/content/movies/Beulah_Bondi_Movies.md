@@ -4,7 +4,7 @@ title: "All 63 Beulah Bondi Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-63-beulah-bondi-movies-in-order/"
+slug: "/movies/all-beulah-bondi-movies-in-order/"
 
 excerpt: ""
 

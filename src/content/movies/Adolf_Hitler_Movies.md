@@ -4,7 +4,7 @@ title: "All 287 Adolf Hitler Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-287-adolf-hitler-movies-in-order/"
+slug: "/movies/all-adolf-hitler-movies-in-order/"
 
 excerpt: ""
 

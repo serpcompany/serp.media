@@ -4,7 +4,7 @@ title: "All 36 Chris Farley Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-36-chris-farley-movies-in-order/"
+slug: "/movies/all-chris-farley-movies-in-order/"
 
 excerpt: ""
 

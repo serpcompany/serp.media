@@ -4,7 +4,7 @@ title: "All 10 Ashton Holmes Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-10-ashton-holmes-movies-in-order/"
+slug: "/movies/all-ashton-holmes-movies-in-order/"
 
 excerpt: ""
 

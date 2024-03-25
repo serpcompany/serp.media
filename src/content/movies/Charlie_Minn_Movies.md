@@ -4,7 +4,7 @@ title: "All 27 Charlie Minn Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-27-charlie-minn-movies-in-order/"
+slug: "/movies/all-charlie-minn-movies-in-order/"
 
 excerpt: ""
 

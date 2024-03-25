@@ -4,7 +4,7 @@ title: "All 67 Bobby Cannavale Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-67-bobby-cannavale-movies-in-order/"
+slug: "/movies/all-bobby-cannavale-movies-in-order/"
 
 excerpt: ""
 

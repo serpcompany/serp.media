@@ -4,7 +4,7 @@ title: "All 70 Brendan Fletcher Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-70-brendan-fletcher-movies-in-order/"
+slug: "/movies/all-brendan-fletcher-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 69 Cicely Tyson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-69-cicely-tyson-movies-in-order/"
+slug: "/movies/all-cicely-tyson-movies-in-order/"
 
 excerpt: ""
 

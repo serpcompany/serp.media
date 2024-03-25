@@ -4,7 +4,7 @@ title: "All 103 Chevy Chase Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-103-chevy-chase-movies-in-order/"
+slug: "/movies/all-chevy-chase-movies-in-order/"
 
 excerpt: ""
 

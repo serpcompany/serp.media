@@ -4,7 +4,7 @@ title: "All 18 Aaron Lohr Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-18-aaron-lohr-movies-in-order/"
+slug: "/movies/all-aaron-lohr-movies-in-order/"
 
 excerpt: ""
 

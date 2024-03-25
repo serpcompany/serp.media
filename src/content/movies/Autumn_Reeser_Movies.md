@@ -4,7 +4,7 @@ title: "All 40 Autumn Reeser Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-40-autumn-reeser-movies-in-order/"
+slug: "/movies/all-autumn-reeser-movies-in-order/"
 
 excerpt: ""
 

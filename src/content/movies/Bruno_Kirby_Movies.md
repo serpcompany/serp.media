@@ -4,7 +4,7 @@ title: "All 44 Bruno Kirby Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-44-bruno-kirby-movies-in-order/"
+slug: "/movies/all-bruno-kirby-movies-in-order/"
 
 excerpt: ""
 

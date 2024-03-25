@@ -4,7 +4,7 @@ title: "All 27 David Cassidy Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-27-david-cassidy-movies-in-order/"
+slug: "/movies/all-david-cassidy-movies-in-order/"
 
 excerpt: ""
 

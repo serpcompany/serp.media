@@ -4,7 +4,7 @@ title: "All 32 Denise Boutte Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-32-denise-boutte-movies-in-order/"
+slug: "/movies/all-denise-boutte-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 41 Bart Johnson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-41-bart-johnson-movies-in-order/"
+slug: "/movies/all-bart-johnson-movies-in-order/"
 
 excerpt: ""
 

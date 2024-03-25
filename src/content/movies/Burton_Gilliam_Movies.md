@@ -4,7 +4,7 @@ title: "All 55 Burton Gilliam Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-55-burton-gilliam-movies-in-order/"
+slug: "/movies/all-burton-gilliam-movies-in-order/"
 
 excerpt: ""
 

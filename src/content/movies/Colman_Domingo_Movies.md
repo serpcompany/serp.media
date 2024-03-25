@@ -4,7 +4,7 @@ title: "All 40 Colman Domingo Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-40-colman-domingo-movies-in-order/"
+slug: "/movies/all-colman-domingo-movies-in-order/"
 
 excerpt: ""
 

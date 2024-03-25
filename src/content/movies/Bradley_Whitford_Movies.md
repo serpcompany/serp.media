@@ -4,7 +4,7 @@ title: "All 63 Bradley Whitford Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-63-bradley-whitford-movies-in-order/"
+slug: "/movies/all-bradley-whitford-movies-in-order/"
 
 excerpt: ""
 

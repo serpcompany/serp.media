@@ -4,7 +4,7 @@ title: "All 51 Alan Bates Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-51-alan-bates-movies-in-order/"
+slug: "/movies/all-alan-bates-movies-in-order/"
 
 excerpt: ""
 

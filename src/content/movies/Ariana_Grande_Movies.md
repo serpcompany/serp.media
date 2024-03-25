@@ -4,7 +4,7 @@ title: "All 38 Ariana Grande Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-38-ariana-grande-movies-in-order/"
+slug: "/movies/all-ariana-grande-movies-in-order/"
 
 excerpt: ""
 

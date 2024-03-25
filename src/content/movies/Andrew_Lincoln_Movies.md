@@ -4,7 +4,7 @@ title: "All 26 Andrew Lincoln Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-26-andrew-lincoln-movies-in-order/"
+slug: "/movies/all-andrew-lincoln-movies-in-order/"
 
 excerpt: ""
 

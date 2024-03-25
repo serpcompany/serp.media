@@ -4,7 +4,7 @@ title: "All 82 Charles Dance Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-82-charles-dance-movies-in-order/"
+slug: "/movies/all-charles-dance-movies-in-order/"
 
 excerpt: ""
 

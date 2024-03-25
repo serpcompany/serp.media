@@ -4,7 +4,7 @@ title: "All 35 Bruce Bennett Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-35-bruce-bennett-movies-in-order/"
+slug: "/movies/all-bruce-bennett-movies-in-order/"
 
 excerpt: ""
 

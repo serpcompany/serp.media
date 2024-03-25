@@ -4,7 +4,7 @@ title: "All 153 Charlton Heston Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-153-charlton-heston-movies-in-order/"
+slug: "/movies/all-charlton-heston-movies-in-order/"
 
 excerpt: ""
 

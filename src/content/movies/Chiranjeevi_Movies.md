@@ -4,7 +4,7 @@ title: "All 129 Chiranjeevi Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-129-chiranjeevi-movies-in-order/"
+slug: "/movies/all-chiranjeevi-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 22 Barry Watson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-22-barry-watson-movies-in-order/"
+slug: "/movies/all-barry-watson-movies-in-order/"
 
 excerpt: ""
 

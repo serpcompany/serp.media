@@ -4,7 +4,7 @@ title: "All 59 David Otunga Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-59-david-otunga-movies-in-order/"
+slug: "/movies/all-david-otunga-movies-in-order/"
 
 excerpt: ""
 

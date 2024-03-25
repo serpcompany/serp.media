@@ -4,7 +4,7 @@ title: "All 53 August Diehl Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-53-august-diehl-movies-in-order/"
+slug: "/movies/all-august-diehl-movies-in-order/"
 
 excerpt: ""
 

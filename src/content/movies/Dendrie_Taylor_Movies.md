@@ -4,7 +4,7 @@ title: "All 49 Dendrie Taylor Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-49-dendrie-taylor-movies-in-order/"
+slug: "/movies/all-dendrie-taylor-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 105 Alfred Hitchcock Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-105-alfred-hitchcock-movies-in-order/"
+slug: "/movies/all-alfred-hitchcock-movies-in-order/"
 
 excerpt: ""
 

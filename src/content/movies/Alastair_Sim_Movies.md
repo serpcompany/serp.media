@@ -4,7 +4,7 @@ title: "All 53 Alastair Sim Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-53-alastair-sim-movies-in-order/"
+slug: "/movies/all-alastair-sim-movies-in-order/"
 
 excerpt: ""
 

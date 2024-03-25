@@ -4,7 +4,7 @@ title: "All 39 Brian Bloom Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-39-brian-bloom-movies-in-order/"
+slug: "/movies/all-brian-bloom-movies-in-order/"
 
 excerpt: ""
 

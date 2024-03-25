@@ -4,7 +4,7 @@ title: "All 13 Addison Timlin Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-13-addison-timlin-movies-in-order/"
+slug: "/movies/all-addison-timlin-movies-in-order/"
 
 excerpt: ""
 

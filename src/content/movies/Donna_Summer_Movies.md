@@ -4,7 +4,7 @@ title: "All 85 Donna Summer Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-85-donna-summer-movies-in-order/"
+slug: "/movies/all-donna-summer-movies-in-order/"
 
 excerpt: ""
 

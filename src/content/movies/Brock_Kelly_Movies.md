@@ -4,7 +4,7 @@ title: "All 19 Brock Kelly Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-19-brock-kelly-movies-in-order/"
+slug: "/movies/all-brock-kelly-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 30 Beau Knapp Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-30-beau-knapp-movies-in-order/"
+slug: "/movies/all-beau-knapp-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 43 Andy Griffith Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-43-andy-griffith-movies-in-order/"
+slug: "/movies/all-andy-griffith-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 18 Carey Lowell Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-18-carey-lowell-movies-in-order/"
+slug: "/movies/all-carey-lowell-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 47 Alanis Morissette Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-47-alanis-morissette-movies-in-order/"
+slug: "/movies/all-alanis-morissette-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 135 Anthony Quinn Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-135-anthony-quinn-movies-in-order/"
+slug: "/movies/all-anthony-quinn-movies-in-order/"
 
 excerpt: ""
 

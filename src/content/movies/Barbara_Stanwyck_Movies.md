@@ -4,7 +4,7 @@ title: "All 85 Barbara Stanwyck Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-85-barbara-stanwyck-movies-in-order/"
+slug: "/movies/all-barbara-stanwyck-movies-in-order/"
 
 excerpt: ""
 

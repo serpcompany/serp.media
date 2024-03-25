@@ -4,7 +4,7 @@ title: "All 52 Anthony James Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-52-anthony-james-movies-in-order/"
+slug: "/movies/all-anthony-james-movies-in-order/"
 
 excerpt: ""
 

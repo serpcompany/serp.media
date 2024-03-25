@@ -4,7 +4,7 @@ title: "All 41 David Tennant Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-41-david-tennant-movies-in-order/"
+slug: "/movies/all-david-tennant-movies-in-order/"
 
 excerpt: ""
 

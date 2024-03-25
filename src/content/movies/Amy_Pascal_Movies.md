@@ -4,7 +4,7 @@ title: "All 19 Amy Pascal Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-19-amy-pascal-movies-in-order/"
+slug: "/movies/all-amy-pascal-movies-in-order/"
 
 excerpt: ""
 

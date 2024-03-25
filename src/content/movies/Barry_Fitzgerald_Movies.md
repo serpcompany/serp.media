@@ -4,7 +4,7 @@ title: "All 43 Barry Fitzgerald Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-43-barry-fitzgerald-movies-in-order/"
+slug: "/movies/all-barry-fitzgerald-movies-in-order/"
 
 excerpt: ""
 

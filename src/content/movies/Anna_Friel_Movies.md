@@ -4,7 +4,7 @@ title: "All 37 Anna Friel Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-37-anna-friel-movies-in-order/"
+slug: "/movies/all-anna-friel-movies-in-order/"
 
 excerpt: ""
 

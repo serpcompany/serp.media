@@ -4,7 +4,7 @@ title: "All 24 David Reale Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-24-david-reale-movies-in-order/"
+slug: "/movies/all-david-reale-movies-in-order/"
 
 excerpt: ""
 

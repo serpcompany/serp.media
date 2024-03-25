@@ -4,7 +4,7 @@ title: "All 49 Billie Eilish Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-49-billie-eilish-movies-in-order/"
+slug: "/movies/all-billie-eilish-movies-in-order/"
 
 excerpt: ""
 

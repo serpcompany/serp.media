@@ -4,7 +4,7 @@ title: "All 14 Alex D Linz Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-14-alex-d-linz-movies-in-order/"
+slug: "/movies/all-alex-d-linz-movies-in-order/"
 
 excerpt: ""
 

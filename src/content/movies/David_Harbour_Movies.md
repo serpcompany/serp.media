@@ -4,7 +4,7 @@ title: "All 35 David Harbour Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-35-david-harbour-movies-in-order/"
+slug: "/movies/all-david-harbour-movies-in-order/"
 
 excerpt: ""
 

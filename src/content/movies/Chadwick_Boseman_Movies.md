@@ -4,7 +4,7 @@ title: "All 34 Chadwick Boseman Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-34-chadwick-boseman-movies-in-order/"
+slug: "/movies/all-chadwick-boseman-movies-in-order/"
 
 excerpt: ""
 

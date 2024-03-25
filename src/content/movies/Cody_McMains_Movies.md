@@ -4,7 +4,7 @@ title: "All 10 Cody McMains Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-10-cody-mcmains-movies-in-order/"
+slug: "/movies/all-cody-mcmains-movies-in-order/"
 
 excerpt: ""
 

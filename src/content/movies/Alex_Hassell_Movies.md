@@ -4,7 +4,7 @@ title: "All 22 Alex Hassell Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-22-alex-hassell-movies-in-order/"
+slug: "/movies/all-alex-hassell-movies-in-order/"
 
 excerpt: ""
 

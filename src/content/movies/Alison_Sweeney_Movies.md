@@ -4,7 +4,7 @@ title: "All 26 Alison Sweeney Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-26-alison-sweeney-movies-in-order/"
+slug: "/movies/all-alison-sweeney-movies-in-order/"
 
 excerpt: ""
 

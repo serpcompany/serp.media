@@ -4,7 +4,7 @@ title: "All 86 Diane Keaton Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-86-diane-keaton-movies-in-order/"
+slug: "/movies/all-diane-keaton-movies-in-order/"
 
 excerpt: ""
 

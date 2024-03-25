@@ -4,7 +4,7 @@ title: "All 35 Amanda Donohoe Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-35-amanda-donohoe-movies-in-order/"
+slug: "/movies/all-amanda-donohoe-movies-in-order/"
 
 excerpt: ""
 

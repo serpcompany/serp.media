@@ -4,7 +4,7 @@ title: "All 16 Dixie Carter Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-dixie-carter-movies-in-order/"
+slug: "/movies/all-dixie-carter-movies-in-order/"
 
 excerpt: ""
 

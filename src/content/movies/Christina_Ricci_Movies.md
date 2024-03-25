@@ -4,7 +4,7 @@ title: "All 66 Christina Ricci Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-66-christina-ricci-movies-in-order/"
+slug: "/movies/all-christina-ricci-movies-in-order/"
 
 excerpt: ""
 

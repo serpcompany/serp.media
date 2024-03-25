@@ -4,7 +4,7 @@ title: "All 173 David Keith Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-173-david-keith-movies-in-order/"
+slug: "/movies/all-david-keith-movies-in-order/"
 
 excerpt: ""
 

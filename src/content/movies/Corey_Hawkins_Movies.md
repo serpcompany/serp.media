@@ -4,7 +4,7 @@ title: "All 17 Corey Hawkins Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-17-corey-hawkins-movies-in-order/"
+slug: "/movies/all-corey-hawkins-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 20 Ashley Jensen Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-20-ashley-jensen-movies-in-order/"
+slug: "/movies/all-ashley-jensen-movies-in-order/"
 
 excerpt: ""
 

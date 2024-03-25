@@ -4,7 +4,7 @@ title: "All 61 David Gordon Green Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-61-david-gordon-green-movies-in-order/"
+slug: "/movies/all-david-gordon-green-movies-in-order/"
 
 excerpt: ""
 

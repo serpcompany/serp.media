@@ -4,7 +4,7 @@ title: "All 21 AnnaSophia Robb Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-21-annasophia-robb-movies-in-order/"
+slug: "/movies/all-annasophia-robb-movies-in-order/"
 
 excerpt: ""
 

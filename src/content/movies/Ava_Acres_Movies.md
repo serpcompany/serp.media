@@ -4,7 +4,7 @@ title: "All 50 Ava Acres Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-50-ava-acres-movies-in-order/"
+slug: "/movies/all-ava-acres-movies-in-order/"
 
 excerpt: ""
 

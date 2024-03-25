@@ -4,7 +4,7 @@ title: "All 62 Amy Adams Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-62-amy-adams-movies-in-order/"
+slug: "/movies/all-amy-adams-movies-in-order/"
 
 excerpt: ""
 

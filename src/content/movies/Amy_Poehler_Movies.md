@@ -4,7 +4,7 @@ title: "All 83 Amy Poehler Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-83-amy-poehler-movies-in-order/"
+slug: "/movies/all-amy-poehler-movies-in-order/"
 
 excerpt: ""
 

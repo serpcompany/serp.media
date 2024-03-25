@@ -4,7 +4,7 @@ title: "All 53 Christine Baranski Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-53-christine-baranski-movies-in-order/"
+slug: "/movies/all-christine-baranski-movies-in-order/"
 
 excerpt: ""
 

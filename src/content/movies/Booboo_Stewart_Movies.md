@@ -4,7 +4,7 @@ title: "All 43 Booboo Stewart Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-43-booboo-stewart-movies-in-order/"
+slug: "/movies/all-booboo-stewart-movies-in-order/"
 
 excerpt: ""
 

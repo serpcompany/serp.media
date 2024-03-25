@@ -4,7 +4,7 @@ title: "All 14 Adrianne Palicki Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-14-adrianne-palicki-movies-in-order/"
+slug: "/movies/all-adrianne-palicki-movies-in-order/"
 
 excerpt: ""
 

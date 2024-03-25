@@ -4,7 +4,7 @@ title: "All 19 David Lewis Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-19-david-lewis-movies-in-order/"
+slug: "/movies/all-david-lewis-movies-in-order/"
 
 excerpt: ""
 

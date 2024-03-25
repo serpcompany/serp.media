@@ -4,7 +4,7 @@ title: "All 17 Brit Marling Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-17-brit-marling-movies-in-order/"
+slug: "/movies/all-brit-marling-movies-in-order/"
 
 excerpt: ""
 

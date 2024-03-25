@@ -4,7 +4,7 @@ title: "All 57 Chris Penn Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-57-chris-penn-movies-in-order/"
+slug: "/movies/all-chris-penn-movies-in-order/"
 
 excerpt: ""
 

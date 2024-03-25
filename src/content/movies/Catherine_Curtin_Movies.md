@@ -4,7 +4,7 @@ title: "All 51 Catherine Curtin Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-51-catherine-curtin-movies-in-order/"
+slug: "/movies/all-catherine-curtin-movies-in-order/"
 
 excerpt: ""
 

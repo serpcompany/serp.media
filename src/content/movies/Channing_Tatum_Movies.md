@@ -4,7 +4,7 @@ title: "All 55 Channing Tatum Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-55-channing-tatum-movies-in-order/"
+slug: "/movies/all-channing-tatum-movies-in-order/"
 
 excerpt: ""
 

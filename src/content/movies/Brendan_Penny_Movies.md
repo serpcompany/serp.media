@@ -4,7 +4,7 @@ title: "All 34 Brendan Penny Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-34-brendan-penny-movies-in-order/"
+slug: "/movies/all-brendan-penny-movies-in-order/"
 
 excerpt: ""
 

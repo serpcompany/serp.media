@@ -4,7 +4,7 @@ title: "All 10 Camila Mendes Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-10-camila-mendes-movies-in-order/"
+slug: "/movies/all-camila-mendes-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 26 Dane DeHaan Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-26-dane-dehaan-movies-in-order/"
+slug: "/movies/all-dane-dehaan-movies-in-order/"
 
 excerpt: ""
 

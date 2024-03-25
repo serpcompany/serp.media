@@ -4,7 +4,7 @@ title: "All 17 Anders Holm Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-17-anders-holm-movies-in-order/"
+slug: "/movies/all-anders-holm-movies-in-order/"
 
 excerpt: ""
 

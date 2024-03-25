@@ -4,7 +4,7 @@ title: "All 84 Bob Hoskins Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-84-bob-hoskins-movies-in-order/"
+slug: "/movies/all-bob-hoskins-movies-in-order/"
 
 excerpt: ""
 

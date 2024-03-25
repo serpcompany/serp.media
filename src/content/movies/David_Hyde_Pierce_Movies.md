@@ -4,7 +4,7 @@ title: "All 41 David Hyde Pierce Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-41-david-hyde-pierce-movies-in-order/"
+slug: "/movies/all-david-hyde-pierce-movies-in-order/"
 
 excerpt: ""
 

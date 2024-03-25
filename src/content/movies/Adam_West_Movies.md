@@ -4,7 +4,7 @@ title: "All 53 Adam West Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-53-adam-west-movies-in-order/"
+slug: "/movies/all-adam-west-movies-in-order/"
 
 excerpt: ""
 

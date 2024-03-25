@@ -4,7 +4,7 @@ title: "All 30 Adam Devine Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-30-adam-devine-movies-in-order/"
+slug: "/movies/all-adam-devine-movies-in-order/"
 
 excerpt: ""
 

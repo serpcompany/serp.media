@@ -4,7 +4,7 @@ title: "All 34 Christine Taylor Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-34-christine-taylor-movies-in-order/"
+slug: "/movies/all-christine-taylor-movies-in-order/"
 
 excerpt: ""
 

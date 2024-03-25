@@ -4,7 +4,7 @@ title: "All 20 Carsten Norgaard Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-20-carsten-norgaard-movies-in-order/"
+slug: "/movies/all-carsten-norgaard-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 36 Arielle Kebbel Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-36-arielle-kebbel-movies-in-order/"
+slug: "/movies/all-arielle-kebbel-movies-in-order/"
 
 excerpt: ""
 

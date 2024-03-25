@@ -4,7 +4,7 @@ title: "All 18 Chloe Bailey Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-18-chloe-bailey-movies-in-order/"
+slug: "/movies/all-chloe-bailey-movies-in-order/"
 
 excerpt: ""
 

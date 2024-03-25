@@ -4,7 +4,7 @@ title: "All 38 Bobby Moynihan Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-38-bobby-moynihan-movies-in-order/"
+slug: "/movies/all-bobby-moynihan-movies-in-order/"
 
 excerpt: ""
 

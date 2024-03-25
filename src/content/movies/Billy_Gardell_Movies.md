@@ -4,7 +4,7 @@ title: "All 15 Billy Gardell Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-15-billy-gardell-movies-in-order/"
+slug: "/movies/all-billy-gardell-movies-in-order/"
 
 excerpt: ""
 

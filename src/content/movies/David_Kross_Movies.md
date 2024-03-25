@@ -4,7 +4,7 @@ title: "All 34 David Kross Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-34-david-kross-movies-in-order/"
+slug: "/movies/all-david-kross-movies-in-order/"
 
 excerpt: ""
 

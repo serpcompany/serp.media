@@ -4,7 +4,7 @@ title: "All 81 Angie Dickinson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-81-angie-dickinson-movies-in-order/"
+slug: "/movies/all-angie-dickinson-movies-in-order/"
 
 excerpt: ""
 

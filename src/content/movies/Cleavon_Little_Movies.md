@@ -4,7 +4,7 @@ title: "All 31 Cleavon Little Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-31-cleavon-little-movies-in-order/"
+slug: "/movies/all-cleavon-little-movies-in-order/"
 
 excerpt: ""
 

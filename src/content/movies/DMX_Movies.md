@@ -4,7 +4,7 @@ title: "All 78 DMX Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-78-dmx-movies-in-order/"
+slug: "/movies/all-dmx-movies-in-order/"
 
 excerpt: ""
 

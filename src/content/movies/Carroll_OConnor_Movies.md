@@ -4,7 +4,7 @@ title: "All 44 Carroll OConnor Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-44-carroll-oconnor-movies-in-order/"
+slug: "/movies/all-carroll-oconnor-movies-in-order/"
 
 excerpt: ""
 

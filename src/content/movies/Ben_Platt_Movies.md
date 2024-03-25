@@ -4,7 +4,7 @@ title: "All 20 Ben Platt Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-20-ben-platt-movies-in-order/"
+slug: "/movies/all-ben-platt-movies-in-order/"
 
 excerpt: ""
 

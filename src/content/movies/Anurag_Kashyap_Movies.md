@@ -4,7 +4,7 @@ title: "All 114 Anurag Kashyap Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-114-anurag-kashyap-movies-in-order/"
+slug: "/movies/all-anurag-kashyap-movies-in-order/"
 
 excerpt: ""
 

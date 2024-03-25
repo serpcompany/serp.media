@@ -4,7 +4,7 @@ title: "All 22 Ami Dolenz Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-22-ami-dolenz-movies-in-order/"
+slug: "/movies/all-ami-dolenz-movies-in-order/"
 
 excerpt: ""
 

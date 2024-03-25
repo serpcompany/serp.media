@@ -4,7 +4,7 @@ title: "All 31 Drew Seeley Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-31-drew-seeley-movies-in-order/"
+slug: "/movies/all-drew-seeley-movies-in-order/"
 
 excerpt: ""
 

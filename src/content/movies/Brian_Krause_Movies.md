@@ -4,7 +4,7 @@ title: "All 46 Brian Krause Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-46-brian-krause-movies-in-order/"
+slug: "/movies/all-brian-krause-movies-in-order/"
 
 excerpt: ""
 

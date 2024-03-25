@@ -4,7 +4,7 @@ title: "All 73 Anne Baxter Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-73-anne-baxter-movies-in-order/"
+slug: "/movies/all-anne-baxter-movies-in-order/"
 
 excerpt: ""
 

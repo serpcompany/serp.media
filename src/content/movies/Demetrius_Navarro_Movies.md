@@ -4,7 +4,7 @@ title: "All 39 Demetrius Navarro Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-39-demetrius-navarro-movies-in-order/"
+slug: "/movies/all-demetrius-navarro-movies-in-order/"
 
 excerpt: ""
 

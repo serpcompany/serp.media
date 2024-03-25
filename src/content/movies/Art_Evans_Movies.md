@@ -4,7 +4,7 @@ title: "All 47 Art Evans Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-47-art-evans-movies-in-order/"
+slug: "/movies/all-art-evans-movies-in-order/"
 
 excerpt: ""
 

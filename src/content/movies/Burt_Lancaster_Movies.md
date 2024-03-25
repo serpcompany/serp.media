@@ -4,7 +4,7 @@ title: "All 107 Burt Lancaster Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-107-burt-lancaster-movies-in-order/"
+slug: "/movies/all-burt-lancaster-movies-in-order/"
 
 excerpt: ""
 

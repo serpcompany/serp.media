@@ -4,7 +4,7 @@ title: "All 67 David Johansen Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-67-david-johansen-movies-in-order/"
+slug: "/movies/all-david-johansen-movies-in-order/"
 
 excerpt: ""
 

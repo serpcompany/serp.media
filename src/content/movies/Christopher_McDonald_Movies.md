@@ -4,7 +4,7 @@ title: "All 134 Christopher McDonald Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-134-christopher-mcdonald-movies-in-order/"
+slug: "/movies/all-christopher-mcdonald-movies-in-order/"
 
 excerpt: ""
 

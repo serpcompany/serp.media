@@ -4,7 +4,7 @@ title: "All 28 Charlayne Woodard Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-28-charlayne-woodard-movies-in-order/"
+slug: "/movies/all-charlayne-woodard-movies-in-order/"
 
 excerpt: ""
 

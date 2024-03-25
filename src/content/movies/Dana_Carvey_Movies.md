@@ -4,7 +4,7 @@ title: "All 56 Dana Carvey Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-56-dana-carvey-movies-in-order/"
+slug: "/movies/all-dana-carvey-movies-in-order/"
 
 excerpt: ""
 

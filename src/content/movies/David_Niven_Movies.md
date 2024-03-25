@@ -4,7 +4,7 @@ title: "All 88 David Niven Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-88-david-niven-movies-in-order/"
+slug: "/movies/all-david-niven-movies-in-order/"
 
 excerpt: ""
 

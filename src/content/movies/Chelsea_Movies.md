@@ -4,7 +4,7 @@ title: "All 58 Chelsea Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-58-chelsea-movies-in-order/"
+slug: "/movies/all-chelsea-movies-in-order/"
 
 excerpt: ""
 

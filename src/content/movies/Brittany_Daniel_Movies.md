@@ -4,7 +4,7 @@ title: "All 20 Brittany Daniel Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-20-brittany-daniel-movies-in-order/"
+slug: "/movies/all-brittany-daniel-movies-in-order/"
 
 excerpt: ""
 

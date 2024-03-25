@@ -4,7 +4,7 @@ title: "All 14 David Soren Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-14-david-soren-movies-in-order/"
+slug: "/movies/all-david-soren-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 36 Bebe Neuwirth Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-36-bebe-neuwirth-movies-in-order/"
+slug: "/movies/all-bebe-neuwirth-movies-in-order/"
 
 excerpt: ""
 

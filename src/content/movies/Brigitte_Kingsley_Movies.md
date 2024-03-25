@@ -4,7 +4,7 @@ title: "All 34 Brigitte Kingsley Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-34-brigitte-kingsley-movies-in-order/"
+slug: "/movies/all-brigitte-kingsley-movies-in-order/"
 
 excerpt: ""
 

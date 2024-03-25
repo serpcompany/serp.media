@@ -4,7 +4,7 @@ title: "All 38 David Schwimmer Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-38-david-schwimmer-movies-in-order/"
+slug: "/movies/all-david-schwimmer-movies-in-order/"
 
 excerpt: ""
 

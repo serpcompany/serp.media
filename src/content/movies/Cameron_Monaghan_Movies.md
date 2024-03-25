@@ -4,7 +4,7 @@ title: "All 23 Cameron Monaghan Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-23-cameron-monaghan-movies-in-order/"
+slug: "/movies/all-cameron-monaghan-movies-in-order/"
 
 excerpt: ""
 

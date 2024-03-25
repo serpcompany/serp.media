@@ -4,7 +4,7 @@ title: "All 61 Brendan Gleeson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-61-brendan-gleeson-movies-in-order/"
+slug: "/movies/all-brendan-gleeson-movies-in-order/"
 
 excerpt: ""
 

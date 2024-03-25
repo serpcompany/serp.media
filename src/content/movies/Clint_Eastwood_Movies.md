@@ -4,7 +4,7 @@ title: "All 169 Clint Eastwood Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-169-clint-eastwood-movies-in-order/"
+slug: "/movies/all-clint-eastwood-movies-in-order/"
 
 excerpt: ""
 

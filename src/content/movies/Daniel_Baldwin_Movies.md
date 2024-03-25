@@ -4,7 +4,7 @@ title: "All 89 Daniel Baldwin Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-89-daniel-baldwin-movies-in-order/"
+slug: "/movies/all-daniel-baldwin-movies-in-order/"
 
 excerpt: ""
 

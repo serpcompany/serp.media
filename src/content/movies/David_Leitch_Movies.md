@@ -4,7 +4,7 @@ title: "All 92 David Leitch Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-92-david-leitch-movies-in-order/"
+slug: "/movies/all-david-leitch-movies-in-order/"
 
 excerpt: ""
 

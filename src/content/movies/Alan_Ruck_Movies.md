@@ -4,7 +4,7 @@ title: "All 42 Alan Ruck Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-42-alan-ruck-movies-in-order/"
+slug: "/movies/all-alan-ruck-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 23 Billy Boyd Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-23-billy-boyd-movies-in-order/"
+slug: "/movies/all-billy-boyd-movies-in-order/"
 
 excerpt: ""
 

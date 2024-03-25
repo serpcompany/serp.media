@@ -4,7 +4,7 @@ title: "All 29 Catherine McCormack Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-29-catherine-mccormack-movies-in-order/"
+slug: "/movies/all-catherine-mccormack-movies-in-order/"
 
 excerpt: ""
 

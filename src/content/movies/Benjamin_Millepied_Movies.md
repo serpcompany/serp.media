@@ -4,7 +4,7 @@ title: "All 10 Benjamin Millepied Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-10-benjamin-millepied-movies-in-order/"
+slug: "/movies/all-benjamin-millepied-movies-in-order/"
 
 excerpt: ""
 

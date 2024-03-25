@@ -4,7 +4,7 @@ title: "All 43 Dave Chappelle Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-43-dave-chappelle-movies-in-order/"
+slug: "/movies/all-dave-chappelle-movies-in-order/"
 
 excerpt: ""
 

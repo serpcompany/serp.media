@@ -4,7 +4,7 @@ title: "All 50 Delroy Lindo Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-50-delroy-lindo-movies-in-order/"
+slug: "/movies/all-delroy-lindo-movies-in-order/"
 
 excerpt: ""
 

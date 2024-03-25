@@ -4,7 +4,7 @@ title: "All 29 Brad Johnson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-29-brad-johnson-movies-in-order/"
+slug: "/movies/all-brad-johnson-movies-in-order/"
 
 excerpt: ""
 

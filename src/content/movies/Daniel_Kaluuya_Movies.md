@@ -4,7 +4,7 @@ title: "All 26 Daniel Kaluuya Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-26-daniel-kaluuya-movies-in-order/"
+slug: "/movies/all-daniel-kaluuya-movies-in-order/"
 
 excerpt: ""
 

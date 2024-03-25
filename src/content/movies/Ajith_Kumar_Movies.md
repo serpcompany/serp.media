@@ -4,7 +4,7 @@ title: "All 57 Ajith Kumar Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-57-ajith-kumar-movies-in-order/"
+slug: "/movies/all-ajith-kumar-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 33 Ashlie Atkinson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-33-ashlie-atkinson-movies-in-order/"
+slug: "/movies/all-ashlie-atkinson-movies-in-order/"
 
 excerpt: ""
 

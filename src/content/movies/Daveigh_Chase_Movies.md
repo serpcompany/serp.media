@@ -4,7 +4,7 @@ title: "All 21 Daveigh Chase Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-21-daveigh-chase-movies-in-order/"
+slug: "/movies/all-daveigh-chase-movies-in-order/"
 
 excerpt: ""
 

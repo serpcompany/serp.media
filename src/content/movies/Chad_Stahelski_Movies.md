@@ -4,7 +4,7 @@ title: "All 84 Chad Stahelski Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-84-chad-stahelski-movies-in-order/"
+slug: "/movies/all-chad-stahelski-movies-in-order/"
 
 excerpt: ""
 

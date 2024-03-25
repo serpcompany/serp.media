@@ -4,7 +4,7 @@ title: "All 18 Benny Safdie Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-18-benny-safdie-movies-in-order/"
+slug: "/movies/all-benny-safdie-movies-in-order/"
 
 excerpt: ""
 

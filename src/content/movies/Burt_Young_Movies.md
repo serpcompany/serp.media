@@ -4,7 +4,7 @@ title: "All 124 Burt Young Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-124-burt-young-movies-in-order/"
+slug: "/movies/all-burt-young-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 15 Benjamin Walker Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-15-benjamin-walker-movies-in-order/"
+slug: "/movies/all-benjamin-walker-movies-in-order/"
 
 excerpt: ""
 

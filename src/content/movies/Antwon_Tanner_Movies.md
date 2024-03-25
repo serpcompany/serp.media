@@ -4,7 +4,7 @@ title: "All 26 Antwon Tanner Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-26-antwon-tanner-movies-in-order/"
+slug: "/movies/all-antwon-tanner-movies-in-order/"
 
 excerpt: ""
 

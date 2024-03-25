@@ -4,7 +4,7 @@ title: "All 48 Della Reese Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-48-della-reese-movies-in-order/"
+slug: "/movies/all-della-reese-movies-in-order/"
 
 excerpt: ""
 

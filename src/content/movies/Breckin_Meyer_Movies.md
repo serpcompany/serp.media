@@ -4,7 +4,7 @@ title: "All 44 Breckin Meyer Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-44-breckin-meyer-movies-in-order/"
+slug: "/movies/all-breckin-meyer-movies-in-order/"
 
 excerpt: ""
 

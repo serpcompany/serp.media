@@ -4,7 +4,7 @@ title: "All 16 Asher Keddie Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-asher-keddie-movies-in-order/"
+slug: "/movies/all-asher-keddie-movies-in-order/"
 
 excerpt: ""
 

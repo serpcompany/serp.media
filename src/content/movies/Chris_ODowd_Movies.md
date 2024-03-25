@@ -4,7 +4,7 @@ title: "All 42 Chris ODowd Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-42-chris-odowd-movies-in-order/"
+slug: "/movies/all-chris-odowd-movies-in-order/"
 
 excerpt: ""
 

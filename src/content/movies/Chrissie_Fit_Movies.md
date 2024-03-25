@@ -4,7 +4,7 @@ title: "All 16 Chrissie Fit Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-chrissie-fit-movies-in-order/"
+slug: "/movies/all-chrissie-fit-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 68 Chyna Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-68-chyna-movies-in-order/"
+slug: "/movies/all-chyna-movies-in-order/"
 
 excerpt: ""
 

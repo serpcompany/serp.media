@@ -4,7 +4,7 @@ title: "All 14 Austin Butler Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-14-austin-butler-movies-in-order/"
+slug: "/movies/all-austin-butler-movies-in-order/"
 
 excerpt: ""
 

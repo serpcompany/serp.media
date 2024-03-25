@@ -4,7 +4,7 @@ title: "All 21 Diablo Cody Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-21-diablo-cody-movies-in-order/"
+slug: "/movies/all-diablo-cody-movies-in-order/"
 
 excerpt: ""
 

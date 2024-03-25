@@ -4,7 +4,7 @@ title: "All 30 David Denman Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-30-david-denman-movies-in-order/"
+slug: "/movies/all-david-denman-movies-in-order/"
 
 excerpt: ""
 

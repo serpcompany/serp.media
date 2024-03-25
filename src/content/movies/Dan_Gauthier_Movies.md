@@ -4,7 +4,7 @@ title: "All 17 Dan Gauthier Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-17-dan-gauthier-movies-in-order/"
+slug: "/movies/all-dan-gauthier-movies-in-order/"
 
 excerpt: ""
 

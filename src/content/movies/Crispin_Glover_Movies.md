@@ -4,7 +4,7 @@ title: "All 58 Crispin Glover Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-58-crispin-glover-movies-in-order/"
+slug: "/movies/all-crispin-glover-movies-in-order/"
 
 excerpt: ""
 

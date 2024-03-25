@@ -4,7 +4,7 @@ title: "All 16 Cosmo Jarvis Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-cosmo-jarvis-movies-in-order/"
+slug: "/movies/all-cosmo-jarvis-movies-in-order/"
 
 excerpt: ""
 

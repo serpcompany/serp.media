@@ -4,7 +4,7 @@ title: "All 12 Dan Levy Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-12-dan-levy-movies-in-order/"
+slug: "/movies/all-dan-levy-movies-in-order/"
 
 excerpt: ""
 

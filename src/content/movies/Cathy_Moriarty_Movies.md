@@ -4,7 +4,7 @@ title: "All 39 Cathy Moriarty Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-39-cathy-moriarty-movies-in-order/"
+slug: "/movies/all-cathy-moriarty-movies-in-order/"
 
 excerpt: ""
 

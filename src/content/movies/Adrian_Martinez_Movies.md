@@ -4,7 +4,7 @@ title: "All 59 Adrian Martinez Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-59-adrian-martinez-movies-in-order/"
+slug: "/movies/all-adrian-martinez-movies-in-order/"
 
 excerpt: ""
 

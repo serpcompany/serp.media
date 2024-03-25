@@ -4,7 +4,7 @@ title: "All 17 Dylan Sprayberry Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-17-dylan-sprayberry-movies-in-order/"
+slug: "/movies/all-dylan-sprayberry-movies-in-order/"
 
 excerpt: ""
 

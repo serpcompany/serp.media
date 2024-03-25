@@ -4,7 +4,7 @@ title: "All 26 Constance Wu Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-26-constance-wu-movies-in-order/"
+slug: "/movies/all-constance-wu-movies-in-order/"
 
 excerpt: ""
 

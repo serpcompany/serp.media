@@ -4,7 +4,7 @@ title: "All 12 Derek Phillips Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-12-derek-phillips-movies-in-order/"
+slug: "/movies/all-derek-phillips-movies-in-order/"
 
 excerpt: ""
 

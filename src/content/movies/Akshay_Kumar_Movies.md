@@ -4,7 +4,7 @@ title: "All 139 Akshay Kumar Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-139-akshay-kumar-movies-in-order/"
+slug: "/movies/all-akshay-kumar-movies-in-order/"
 
 excerpt: ""
 

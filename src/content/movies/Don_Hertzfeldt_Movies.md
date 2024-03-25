@@ -4,7 +4,7 @@ title: "All 11 Don Hertzfeldt Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-11-don-hertzfeldt-movies-in-order/"
+slug: "/movies/all-don-hertzfeldt-movies-in-order/"
 
 excerpt: ""
 

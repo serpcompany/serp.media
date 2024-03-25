@@ -4,7 +4,7 @@ title: "All 54 Donna Reed Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-54-donna-reed-movies-in-order/"
+slug: "/movies/all-donna-reed-movies-in-order/"
 
 excerpt: ""
 

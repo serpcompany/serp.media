@@ -4,7 +4,7 @@ title: "All 41 Don Knotts Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-41-don-knotts-movies-in-order/"
+slug: "/movies/all-don-knotts-movies-in-order/"
 
 excerpt: ""
 

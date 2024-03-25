@@ -4,7 +4,7 @@ title: "All 49 Alexa PenaVega Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-49-alexa-penavega-movies-in-order/"
+slug: "/movies/all-alexa-penavega-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 40 Clive Barker Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-40-clive-barker-movies-in-order/"
+slug: "/movies/all-clive-barker-movies-in-order/"
 
 excerpt: ""
 

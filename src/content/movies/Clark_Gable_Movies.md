@@ -4,7 +4,7 @@ title: "All 124 Clark Gable Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-124-clark-gable-movies-in-order/"
+slug: "/movies/all-clark-gable-movies-in-order/"
 
 excerpt: ""
 

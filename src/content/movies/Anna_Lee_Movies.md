@@ -4,7 +4,7 @@ title: "All 59 Anna Lee Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-59-anna-lee-movies-in-order/"
+slug: "/movies/all-anna-lee-movies-in-order/"
 
 excerpt: ""
 

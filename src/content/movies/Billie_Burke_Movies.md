@@ -4,7 +4,7 @@ title: "All 42 Billie Burke Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-42-billie-burke-movies-in-order/"
+slug: "/movies/all-billie-burke-movies-in-order/"
 
 excerpt: ""
 

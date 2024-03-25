@@ -4,7 +4,7 @@ title: "All 17 David Henrie Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-17-david-henrie-movies-in-order/"
+slug: "/movies/all-david-henrie-movies-in-order/"
 
 excerpt: ""
 

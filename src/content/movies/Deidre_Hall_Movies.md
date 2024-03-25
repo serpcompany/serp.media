@@ -4,7 +4,7 @@ title: "All 24 Deidre Hall Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-24-deidre-hall-movies-in-order/"
+slug: "/movies/all-deidre-hall-movies-in-order/"
 
 excerpt: ""
 

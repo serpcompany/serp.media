@@ -4,7 +4,7 @@ title: "All 61 Diahann Carroll Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-61-diahann-carroll-movies-in-order/"
+slug: "/movies/all-diahann-carroll-movies-in-order/"
 
 excerpt: ""
 

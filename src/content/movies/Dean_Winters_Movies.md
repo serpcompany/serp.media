@@ -4,7 +4,7 @@ title: "All 27 Dean Winters Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-27-dean-winters-movies-in-order/"
+slug: "/movies/all-dean-winters-movies-in-order/"
 
 excerpt: ""
 

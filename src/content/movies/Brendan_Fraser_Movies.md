@@ -4,7 +4,7 @@ title: "All 59 Brendan Fraser Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-59-brendan-fraser-movies-in-order/"
+slug: "/movies/all-brendan-fraser-movies-in-order/"
 
 excerpt: ""
 

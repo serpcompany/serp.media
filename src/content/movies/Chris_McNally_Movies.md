@@ -4,7 +4,7 @@ title: "All 15 Chris McNally Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-15-chris-mcnally-movies-in-order/"
+slug: "/movies/all-chris-mcnally-movies-in-order/"
 
 excerpt: ""
 

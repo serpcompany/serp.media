@@ -4,7 +4,7 @@ title: "All 18 Derek Cianfrance Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-18-derek-cianfrance-movies-in-order/"
+slug: "/movies/all-derek-cianfrance-movies-in-order/"
 
 excerpt: ""
 

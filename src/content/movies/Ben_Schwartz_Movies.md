@@ -4,7 +4,7 @@ title: "All 35 Ben Schwartz Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-35-ben-schwartz-movies-in-order/"
+slug: "/movies/all-ben-schwartz-movies-in-order/"
 
 excerpt: ""
 

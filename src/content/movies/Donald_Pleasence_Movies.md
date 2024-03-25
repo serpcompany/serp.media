@@ -4,7 +4,7 @@ title: "All 143 Donald Pleasence Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-143-donald-pleasence-movies-in-order/"
+slug: "/movies/all-donald-pleasence-movies-in-order/"
 
 excerpt: ""
 

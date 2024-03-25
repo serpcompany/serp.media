@@ -4,7 +4,7 @@ title: "All 42 Chandra West Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-42-chandra-west-movies-in-order/"
+slug: "/movies/all-chandra-west-movies-in-order/"
 
 excerpt: ""
 

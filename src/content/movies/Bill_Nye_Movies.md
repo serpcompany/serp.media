@@ -4,7 +4,7 @@ title: "All 21 Bill Nye Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-21-bill-nye-movies-in-order/"
+slug: "/movies/all-bill-nye-movies-in-order/"
 
 excerpt: ""
 

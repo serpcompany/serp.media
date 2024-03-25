@@ -4,7 +4,7 @@ title: "All 47 Benjamin Bratt Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-47-benjamin-bratt-movies-in-order/"
+slug: "/movies/all-benjamin-bratt-movies-in-order/"
 
 excerpt: ""
 

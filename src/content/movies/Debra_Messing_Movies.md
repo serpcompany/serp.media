@@ -4,7 +4,7 @@ title: "All 33 Debra Messing Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-33-debra-messing-movies-in-order/"
+slug: "/movies/all-debra-messing-movies-in-order/"
 
 excerpt: ""
 

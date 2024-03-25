@@ -4,7 +4,7 @@ title: "All 41 Debbie Gibson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-41-debbie-gibson-movies-in-order/"
+slug: "/movies/all-debbie-gibson-movies-in-order/"
 
 excerpt: ""
 

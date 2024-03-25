@@ -4,7 +4,7 @@ title: "All 62 Anne Heche Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-62-anne-heche-movies-in-order/"
+slug: "/movies/all-anne-heche-movies-in-order/"
 
 excerpt: ""
 

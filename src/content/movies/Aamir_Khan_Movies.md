@@ -4,7 +4,7 @@ title: "All 64 Aamir Khan Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-64-aamir-khan-movies-in-order/"
+slug: "/movies/all-aamir-khan-movies-in-order/"
 
 excerpt: ""
 

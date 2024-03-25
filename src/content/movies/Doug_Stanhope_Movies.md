@@ -4,7 +4,7 @@ title: "All 14 Doug Stanhope Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-14-doug-stanhope-movies-in-order/"
+slug: "/movies/all-doug-stanhope-movies-in-order/"
 
 excerpt: ""
 

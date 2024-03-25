@@ -4,7 +4,7 @@ title: "All 25 Andrew Adamson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-25-andrew-adamson-movies-in-order/"
+slug: "/movies/all-andrew-adamson-movies-in-order/"
 
 excerpt: ""
 

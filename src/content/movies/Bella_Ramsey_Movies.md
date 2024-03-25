@@ -4,7 +4,7 @@ title: "All 9 Bella Ramsey Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-9-bella-ramsey-movies-in-order/"
+slug: "/movies/all-bella-ramsey-movies-in-order/"
 
 excerpt: ""
 

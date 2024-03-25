@@ -4,7 +4,7 @@ title: "All 34 David O Russell Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-34-david-o-russell-movies-in-order/"
+slug: "/movies/all-david-o-russell-movies-in-order/"
 
 excerpt: ""
 

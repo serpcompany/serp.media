@@ -4,7 +4,7 @@ title: "All 27 Bill Engvall Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-27-bill-engvall-movies-in-order/"
+slug: "/movies/all-bill-engvall-movies-in-order/"
 
 excerpt: ""
 

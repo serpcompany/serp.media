@@ -4,7 +4,7 @@ title: "All 146 Dr Dre Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-146-dr-dre-movies-in-order/"
+slug: "/movies/all-dr-dre-movies-in-order/"
 
 excerpt: ""
 

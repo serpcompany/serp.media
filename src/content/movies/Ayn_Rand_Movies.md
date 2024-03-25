@@ -4,7 +4,7 @@ title: "All 16 Ayn Rand Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-ayn-rand-movies-in-order/"
+slug: "/movies/all-ayn-rand-movies-in-order/"
 
 excerpt: ""
 

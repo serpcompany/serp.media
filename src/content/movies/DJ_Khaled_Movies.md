@@ -4,7 +4,7 @@ title: "All 51 DJ Khaled Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-51-dj-khaled-movies-in-order/"
+slug: "/movies/all-dj-khaled-movies-in-order/"
 
 excerpt: ""
 

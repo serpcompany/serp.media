@@ -4,7 +4,7 @@ title: "All 30 David Caruso Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-30-david-caruso-movies-in-order/"
+slug: "/movies/all-david-caruso-movies-in-order/"
 
 excerpt: ""
 

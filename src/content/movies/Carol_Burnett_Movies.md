@@ -4,7 +4,7 @@ title: "All 64 Carol Burnett Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-64-carol-burnett-movies-in-order/"
+slug: "/movies/all-carol-burnett-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 52 Chloe Grace Moretz Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-52-chloe-grace-moretz-movies-in-order/"
+slug: "/movies/all-chloe-grace-moretz-movies-in-order/"
 
 excerpt: ""
 

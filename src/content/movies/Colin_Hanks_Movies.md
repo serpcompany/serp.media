@@ -4,7 +4,7 @@ title: "All 43 Colin Hanks Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-43-colin-hanks-movies-in-order/"
+slug: "/movies/all-colin-hanks-movies-in-order/"
 
 excerpt: ""
 

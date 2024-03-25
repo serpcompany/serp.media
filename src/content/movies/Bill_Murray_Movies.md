@@ -4,7 +4,7 @@ title: "All 116 Bill Murray Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-116-bill-murray-movies-in-order/"
+slug: "/movies/all-bill-murray-movies-in-order/"
 
 excerpt: ""
 

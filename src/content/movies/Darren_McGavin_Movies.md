@@ -4,7 +4,7 @@ title: "All 57 Darren McGavin Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-57-darren-mcgavin-movies-in-order/"
+slug: "/movies/all-darren-mcgavin-movies-in-order/"
 
 excerpt: ""
 

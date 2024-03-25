@@ -4,7 +4,7 @@ title: "All 70 Carol Sutton Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-70-carol-sutton-movies-in-order/"
+slug: "/movies/all-carol-sutton-movies-in-order/"
 
 excerpt: ""
 

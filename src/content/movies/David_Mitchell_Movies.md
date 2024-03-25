@@ -4,7 +4,7 @@ title: "All 14 David Mitchell Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-14-david-mitchell-movies-in-order/"
+slug: "/movies/all-david-mitchell-movies-in-order/"
 
 excerpt: ""
 

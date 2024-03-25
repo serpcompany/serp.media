@@ -4,7 +4,7 @@ title: "All 62 Betty White Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-62-betty-white-movies-in-order/"
+slug: "/movies/all-betty-white-movies-in-order/"
 
 excerpt: ""
 

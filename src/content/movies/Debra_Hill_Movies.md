@@ -4,7 +4,7 @@ title: "All 44 Debra Hill Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-44-debra-hill-movies-in-order/"
+slug: "/movies/all-debra-hill-movies-in-order/"
 
 excerpt: ""
 

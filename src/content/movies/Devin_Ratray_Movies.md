@@ -4,7 +4,7 @@ title: "All 37 Devin Ratray Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-37-devin-ratray-movies-in-order/"
+slug: "/movies/all-devin-ratray-movies-in-order/"
 
 excerpt: ""
 

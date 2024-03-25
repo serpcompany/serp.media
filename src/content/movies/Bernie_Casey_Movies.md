@@ -4,7 +4,7 @@ title: "All 47 Bernie Casey Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-47-bernie-casey-movies-in-order/"
+slug: "/movies/all-bernie-casey-movies-in-order/"
 
 excerpt: ""
 

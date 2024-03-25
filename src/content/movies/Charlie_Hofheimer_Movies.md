@@ -4,7 +4,7 @@ title: "All 19 Charlie Hofheimer Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-19-charlie-hofheimer-movies-in-order/"
+slug: "/movies/all-charlie-hofheimer-movies-in-order/"
 
 excerpt: ""
 

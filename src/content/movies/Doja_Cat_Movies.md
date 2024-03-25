@@ -4,7 +4,7 @@ title: "All 16 Doja Cat Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-doja-cat-movies-in-order/"
+slug: "/movies/all-doja-cat-movies-in-order/"
 
 excerpt: ""
 

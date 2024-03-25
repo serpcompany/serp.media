@@ -4,7 +4,7 @@ title: "All 11 Brendon Urie Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-11-brendon-urie-movies-in-order/"
+slug: "/movies/all-brendon-urie-movies-in-order/"
 
 excerpt: ""
 

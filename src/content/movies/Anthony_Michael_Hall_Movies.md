@@ -4,7 +4,7 @@ title: "All 59 Anthony Michael Hall Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-59-anthony-michael-hall-movies-in-order/"
+slug: "/movies/all-anthony-michael-hall-movies-in-order/"
 
 excerpt: ""
 

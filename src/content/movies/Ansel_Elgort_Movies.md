@@ -4,7 +4,7 @@ title: "All 21 Ansel Elgort Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-21-ansel-elgort-movies-in-order/"
+slug: "/movies/all-ansel-elgort-movies-in-order/"
 
 excerpt: ""
 

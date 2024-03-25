@@ -4,7 +4,7 @@ title: "All 17 Beanie Sigel Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-17-beanie-sigel-movies-in-order/"
+slug: "/movies/all-beanie-sigel-movies-in-order/"
 
 excerpt: ""
 

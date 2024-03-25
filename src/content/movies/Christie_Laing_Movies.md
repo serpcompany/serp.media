@@ -4,7 +4,7 @@ title: "All 20 Christie Laing Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-20-christie-laing-movies-in-order/"
+slug: "/movies/all-christie-laing-movies-in-order/"
 
 excerpt: ""
 

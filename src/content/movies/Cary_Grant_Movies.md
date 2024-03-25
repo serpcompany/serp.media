@@ -4,7 +4,7 @@ title: "All 125 Cary Grant Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-125-cary-grant-movies-in-order/"
+slug: "/movies/all-cary-grant-movies-in-order/"
 
 excerpt: ""
 

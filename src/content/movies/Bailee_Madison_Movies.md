@@ -4,7 +4,7 @@ title: "All 39 Bailee Madison Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-39-bailee-madison-movies-in-order/"
+slug: "/movies/all-bailee-madison-movies-in-order/"
 
 excerpt: ""
 

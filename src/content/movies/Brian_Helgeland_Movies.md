@@ -4,7 +4,7 @@ title: "All 29 Brian Helgeland Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-29-brian-helgeland-movies-in-order/"
+slug: "/movies/all-brian-helgeland-movies-in-order/"
 
 excerpt: ""
 

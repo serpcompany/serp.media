@@ -4,7 +4,7 @@ title: "All 44 Amanda Seyfried Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-44-amanda-seyfried-movies-in-order/"
+slug: "/movies/all-amanda-seyfried-movies-in-order/"
 
 excerpt: ""
 

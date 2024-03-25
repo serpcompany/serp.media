@@ -4,7 +4,7 @@ title: "All 60 Craig Sheffer Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-60-craig-sheffer-movies-in-order/"
+slug: "/movies/all-craig-sheffer-movies-in-order/"
 
 excerpt: ""
 

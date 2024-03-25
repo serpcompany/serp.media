@@ -4,7 +4,7 @@ title: "All 102 Boris Karloff Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-102-boris-karloff-movies-in-order/"
+slug: "/movies/all-boris-karloff-movies-in-order/"
 
 excerpt: ""
 

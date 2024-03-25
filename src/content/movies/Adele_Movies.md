@@ -4,7 +4,7 @@ title: "All 30 Adele Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-30-adele-movies-in-order/"
+slug: "/movies/all-adele-movies-in-order/"
 
 excerpt: ""
 

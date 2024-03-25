@@ -4,7 +4,7 @@ title: "All 25 Beatrice Straight Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-25-beatrice-straight-movies-in-order/"
+slug: "/movies/all-beatrice-straight-movies-in-order/"
 
 excerpt: ""
 

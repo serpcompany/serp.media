@@ -4,7 +4,7 @@ title: "All 25 Daniel Raymont Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-25-daniel-raymont-movies-in-order/"
+slug: "/movies/all-daniel-raymont-movies-in-order/"
 
 excerpt: ""
 

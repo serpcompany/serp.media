@@ -4,7 +4,7 @@ title: "All 72 Christopher Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-72-christopher-movies-in-order/"
+slug: "/movies/all-christopher-movies-in-order/"
 
 excerpt: ""
 

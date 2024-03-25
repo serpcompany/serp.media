@@ -4,7 +4,7 @@ title: "All 34 Alexandre Aja Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-34-alexandre-aja-movies-in-order/"
+slug: "/movies/all-alexandre-aja-movies-in-order/"
 
 excerpt: ""
 

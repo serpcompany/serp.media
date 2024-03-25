@@ -4,7 +4,7 @@ title: "All 135 Bruce Willis Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-135-bruce-willis-movies-in-order/"
+slug: "/movies/all-bruce-willis-movies-in-order/"
 
 excerpt: ""
 

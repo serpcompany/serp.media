@@ -4,7 +4,7 @@ title: "All 147 Chris Rock Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-147-chris-rock-movies-in-order/"
+slug: "/movies/all-chris-rock-movies-in-order/"
 
 excerpt: ""
 

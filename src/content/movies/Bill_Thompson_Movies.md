@@ -4,7 +4,7 @@ title: "All 12 Bill Thompson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-12-bill-thompson-movies-in-order/"
+slug: "/movies/all-bill-thompson-movies-in-order/"
 
 excerpt: ""
 

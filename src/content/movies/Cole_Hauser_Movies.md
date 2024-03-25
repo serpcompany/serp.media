@@ -4,7 +4,7 @@ title: "All 44 Cole Hauser Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-44-cole-hauser-movies-in-order/"
+slug: "/movies/all-cole-hauser-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 130 Bernabe Melendrez Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-130-bernabe-melendrez-movies-in-order/"
+slug: "/movies/all-bernabe-melendrez-movies-in-order/"
 
 excerpt: ""
 

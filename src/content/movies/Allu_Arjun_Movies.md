@@ -4,7 +4,7 @@ title: "All 28 Allu Arjun Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-28-allu-arjun-movies-in-order/"
+slug: "/movies/all-allu-arjun-movies-in-order/"
 
 excerpt: ""
 

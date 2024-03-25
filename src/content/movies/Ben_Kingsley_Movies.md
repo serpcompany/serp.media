@@ -4,7 +4,7 @@ title: "All 10 Ben Kingsley Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-10-ben-kingsley-movies-in-order/"
+slug: "/movies/all-ben-kingsley-movies-in-order/"
 
 excerpt: ""
 

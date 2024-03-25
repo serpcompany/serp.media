@@ -4,7 +4,7 @@ title: "All 27 Dylan Sprouse Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-27-dylan-sprouse-movies-in-order/"
+slug: "/movies/all-dylan-sprouse-movies-in-order/"
 
 excerpt: ""
 

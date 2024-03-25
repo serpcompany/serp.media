@@ -4,7 +4,7 @@ title: "All 192 Chris Jericho Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-192-chris-jericho-movies-in-order/"
+slug: "/movies/all-chris-jericho-movies-in-order/"
 
 excerpt: ""
 

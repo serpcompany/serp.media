@@ -4,7 +4,7 @@ title: "All 40 Andrew Scott Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-40-andrew-scott-movies-in-order/"
+slug: "/movies/all-andrew-scott-movies-in-order/"
 
 excerpt: ""
 

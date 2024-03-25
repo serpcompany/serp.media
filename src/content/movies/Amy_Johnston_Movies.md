@@ -4,7 +4,7 @@ title: "All 25 Amy Johnston Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-25-amy-johnston-movies-in-order/"
+slug: "/movies/all-amy-johnston-movies-in-order/"
 
 excerpt: ""
 

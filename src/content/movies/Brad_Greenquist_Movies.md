@@ -4,7 +4,7 @@ title: "All 41 Brad Greenquist Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-41-brad-greenquist-movies-in-order/"
+slug: "/movies/all-brad-greenquist-movies-in-order/"
 
 excerpt: ""
 

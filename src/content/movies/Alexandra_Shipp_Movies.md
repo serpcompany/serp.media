@@ -4,7 +4,7 @@ title: "All 25 Alexandra Shipp Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-25-alexandra-shipp-movies-in-order/"
+slug: "/movies/all-alexandra-shipp-movies-in-order/"
 
 excerpt: ""
 

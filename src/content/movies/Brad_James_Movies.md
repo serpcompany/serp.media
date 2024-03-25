@@ -4,7 +4,7 @@ title: "All 28 Brad James Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-28-brad-james-movies-in-order/"
+slug: "/movies/all-brad-james-movies-in-order/"
 
 excerpt: ""
 

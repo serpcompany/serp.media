@@ -4,7 +4,7 @@ title: "All 13 Brad Kane Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-13-brad-kane-movies-in-order/"
+slug: "/movies/all-brad-kane-movies-in-order/"
 
 excerpt: ""
 

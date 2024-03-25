@@ -4,7 +4,7 @@ title: "All 37 David Banner Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-37-david-banner-movies-in-order/"
+slug: "/movies/all-david-banner-movies-in-order/"
 
 excerpt: ""
 

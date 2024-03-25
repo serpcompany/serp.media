@@ -4,7 +4,7 @@ title: "All 16 David Attenborough Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-16-david-attenborough-movies-in-order/"
+slug: "/movies/all-david-attenborough-movies-in-order/"
 
 excerpt: ""
 

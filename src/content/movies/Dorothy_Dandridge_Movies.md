@@ -4,7 +4,7 @@ title: "All 40 Dorothy Dandridge Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-40-dorothy-dandridge-movies-in-order/"
+slug: "/movies/all-dorothy-dandridge-movies-in-order/"
 
 excerpt: ""
 

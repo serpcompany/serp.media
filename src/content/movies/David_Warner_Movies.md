@@ -4,7 +4,7 @@ title: "All 111 David Warner Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-111-david-warner-movies-in-order/"
+slug: "/movies/all-david-warner-movies-in-order/"
 
 excerpt: ""
 

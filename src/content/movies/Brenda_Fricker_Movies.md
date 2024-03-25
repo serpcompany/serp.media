@@ -4,7 +4,7 @@ title: "All 46 Brenda Fricker Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-46-brenda-fricker-movies-in-order/"
+slug: "/movies/all-brenda-fricker-movies-in-order/"
 
 excerpt: ""
 

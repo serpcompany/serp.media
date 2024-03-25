@@ -4,7 +4,7 @@ title: "All 40 Cindy Williams Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-40-cindy-williams-movies-in-order/"
+slug: "/movies/all-cindy-williams-movies-in-order/"
 
 excerpt: ""
 

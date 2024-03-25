@@ -4,7 +4,7 @@ title: "All 25 Danielle Panabaker Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-25-danielle-panabaker-movies-in-order/"
+slug: "/movies/all-danielle-panabaker-movies-in-order/"
 
 excerpt: ""
 

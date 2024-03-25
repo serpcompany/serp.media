@@ -4,7 +4,7 @@ title: "All 50 Bill Nunn Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-50-bill-nunn-movies-in-order/"
+slug: "/movies/all-bill-nunn-movies-in-order/"
 
 excerpt: ""
 

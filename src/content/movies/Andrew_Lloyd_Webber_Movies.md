@@ -4,7 +4,7 @@ title: "All 78 Andrew Lloyd Webber Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-78-andrew-lloyd-webber-movies-in-order/"
+slug: "/movies/all-andrew-lloyd-webber-movies-in-order/"
 
 excerpt: ""
 

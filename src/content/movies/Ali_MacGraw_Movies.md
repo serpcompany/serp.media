@@ -4,7 +4,7 @@ title: "All 33 Ali MacGraw Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-33-ali-macgraw-movies-in-order/"
+slug: "/movies/all-ali-macgraw-movies-in-order/"
 
 excerpt: ""
 

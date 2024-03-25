@@ -4,7 +4,7 @@ title: "All 35 Donald Glover Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-35-donald-glover-movies-in-order/"
+slug: "/movies/all-donald-glover-movies-in-order/"
 
 excerpt: ""
 

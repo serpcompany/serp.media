@@ -4,7 +4,7 @@ title: "All 10 David E Kelley Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-10-david-e-kelley-movies-in-order/"
+slug: "/movies/all-david-e-kelley-movies-in-order/"
 
 excerpt: ""
 

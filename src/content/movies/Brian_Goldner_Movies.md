@@ -4,7 +4,7 @@ title: "All 19 Brian Goldner Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-19-brian-goldner-movies-in-order/"
+slug: "/movies/all-brian-goldner-movies-in-order/"
 
 excerpt: ""
 

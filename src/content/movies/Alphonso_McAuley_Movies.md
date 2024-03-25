@@ -4,7 +4,7 @@ title: "All 18 Alphonso McAuley Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-18-alphonso-mcauley-movies-in-order/"
+slug: "/movies/all-alphonso-mcauley-movies-in-order/"
 
 excerpt: ""
 

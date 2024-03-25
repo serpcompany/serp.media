@@ -4,7 +4,7 @@ title: "All 73 Christopher Atkins Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-73-christopher-atkins-movies-in-order/"
+slug: "/movies/all-christopher-atkins-movies-in-order/"
 
 excerpt: ""
 

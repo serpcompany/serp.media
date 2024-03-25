@@ -4,7 +4,7 @@ title: "All 99 Daniel Booko Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-99-daniel-booko-movies-in-order/"
+slug: "/movies/all-daniel-booko-movies-in-order/"
 
 excerpt: ""
 

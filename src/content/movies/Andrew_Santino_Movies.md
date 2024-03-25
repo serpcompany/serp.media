@@ -4,7 +4,7 @@ title: "All 13 Andrew Santino Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-13-andrew-santino-movies-in-order/"
+slug: "/movies/all-andrew-santino-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 25 DJ Qualls Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-25-dj-qualls-movies-in-order/"
+slug: "/movies/all-dj-qualls-movies-in-order/"
 
 excerpt: ""
 

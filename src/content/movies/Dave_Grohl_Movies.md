@@ -4,7 +4,7 @@ title: "All 90 Dave Grohl Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-90-dave-grohl-movies-in-order/"
+slug: "/movies/all-dave-grohl-movies-in-order/"
 
 excerpt: ""
 

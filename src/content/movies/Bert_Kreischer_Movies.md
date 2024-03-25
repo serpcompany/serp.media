@@ -4,7 +4,7 @@ title: "All 11 Bert Kreischer Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-11-bert-kreischer-movies-in-order/"
+slug: "/movies/all-bert-kreischer-movies-in-order/"
 
 excerpt: ""
 

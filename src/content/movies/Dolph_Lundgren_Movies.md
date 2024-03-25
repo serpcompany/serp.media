@@ -4,7 +4,7 @@ title: "All 90 Dolph Lundgren Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-90-dolph-lundgren-movies-in-order/"
+slug: "/movies/all-dolph-lundgren-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 59 Denise Richards Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-59-denise-richards-movies-in-order/"
+slug: "/movies/all-denise-richards-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 11 Camille Chen Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-11-camille-chen-movies-in-order/"
+slug: "/movies/all-camille-chen-movies-in-order/"
 
 excerpt: ""
 

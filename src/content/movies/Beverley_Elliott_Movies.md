@@ -4,7 +4,7 @@ title: "All 62 Beverley Elliott Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-62-beverley-elliott-movies-in-order/"
+slug: "/movies/all-beverley-elliott-movies-in-order/"
 
 excerpt: ""
 

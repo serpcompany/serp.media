@@ -4,7 +4,7 @@ title: "All 28 Anna Camp Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-28-anna-camp-movies-in-order/"
+slug: "/movies/all-anna-camp-movies-in-order/"
 
 excerpt: ""
 

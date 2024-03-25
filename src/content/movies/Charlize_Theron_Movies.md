@@ -4,7 +4,7 @@ title: "All 86 Charlize Theron Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-86-charlize-theron-movies-in-order/"
+slug: "/movies/all-charlize-theron-movies-in-order/"
 
 excerpt: ""
 

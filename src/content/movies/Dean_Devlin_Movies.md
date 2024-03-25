@@ -4,7 +4,7 @@ title: "All 46 Dean Devlin Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-46-dean-devlin-movies-in-order/"
+slug: "/movies/all-dean-devlin-movies-in-order/"
 
 excerpt: ""
 

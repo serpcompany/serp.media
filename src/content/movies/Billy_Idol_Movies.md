@@ -4,7 +4,7 @@ title: "All 61 Billy Idol Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-61-billy-idol-movies-in-order/"
+slug: "/movies/all-billy-idol-movies-in-order/"
 
 excerpt: ""
 

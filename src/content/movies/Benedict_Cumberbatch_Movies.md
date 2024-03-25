@@ -4,7 +4,7 @@ title: "All 52 Benedict Cumberbatch Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-52-benedict-cumberbatch-movies-in-order/"
+slug: "/movies/all-benedict-cumberbatch-movies-in-order/"
 
 excerpt: ""
 

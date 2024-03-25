@@ -4,7 +4,7 @@ title: "All 22 Anthony Montgomery Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-22-anthony-montgomery-movies-in-order/"
+slug: "/movies/all-anthony-montgomery-movies-in-order/"
 
 excerpt: ""
 

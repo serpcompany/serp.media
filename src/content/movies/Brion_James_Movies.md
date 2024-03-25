@@ -4,7 +4,7 @@ title: "All 83 Brion James Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-83-brion-james-movies-in-order/"
+slug: "/movies/all-brion-james-movies-in-order/"
 
 excerpt: ""
 

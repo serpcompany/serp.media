@@ -4,7 +4,7 @@ title: "All 38 Chris Stokes Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-38-chris-stokes-movies-in-order/"
+slug: "/movies/all-chris-stokes-movies-in-order/"
 
 excerpt: ""
 

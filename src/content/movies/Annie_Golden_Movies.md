@@ -4,7 +4,7 @@ title: "All 31 Annie Golden Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-31-annie-golden-movies-in-order/"
+slug: "/movies/all-annie-golden-movies-in-order/"
 
 excerpt: ""
 

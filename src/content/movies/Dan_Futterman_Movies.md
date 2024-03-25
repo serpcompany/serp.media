@@ -4,7 +4,7 @@ title: "All 23 Dan Futterman Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-23-dan-futterman-movies-in-order/"
+slug: "/movies/all-dan-futterman-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 38 Colson Baker Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-38-colson-baker-movies-in-order/"
+slug: "/movies/all-colson-baker-movies-in-order/"
 
 excerpt: ""
 

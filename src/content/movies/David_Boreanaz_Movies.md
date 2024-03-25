@@ -4,7 +4,7 @@ title: "All 23 David Boreanaz Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-23-david-boreanaz-movies-in-order/"
+slug: "/movies/all-david-boreanaz-movies-in-order/"
 
 excerpt: ""
 

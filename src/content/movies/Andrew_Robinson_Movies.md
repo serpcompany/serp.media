@@ -4,7 +4,7 @@ title: "All 39 Andrew Robinson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-39-andrew-robinson-movies-in-order/"
+slug: "/movies/all-andrew-robinson-movies-in-order/"
 
 excerpt: ""
 

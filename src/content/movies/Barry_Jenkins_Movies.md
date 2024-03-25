@@ -4,7 +4,7 @@ title: "All 22 Barry Jenkins Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-22-barry-jenkins-movies-in-order/"
+slug: "/movies/all-barry-jenkins-movies-in-order/"
 
 excerpt: ""
 

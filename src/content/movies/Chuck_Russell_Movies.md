@@ -4,7 +4,7 @@ title: "All 33 Chuck Russell Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-33-chuck-russell-movies-in-order/"
+slug: "/movies/all-chuck-russell-movies-in-order/"
 
 excerpt: ""
 

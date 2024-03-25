@@ -4,7 +4,7 @@ title: "All 43 Arye Gross Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-43-arye-gross-movies-in-order/"
+slug: "/movies/all-arye-gross-movies-in-order/"
 
 excerpt: ""
 

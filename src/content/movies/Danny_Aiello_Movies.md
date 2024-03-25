@@ -4,7 +4,7 @@ title: "All 77 Danny Aiello Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-77-danny-aiello-movies-in-order/"
+slug: "/movies/all-danny-aiello-movies-in-order/"
 
 excerpt: ""
 

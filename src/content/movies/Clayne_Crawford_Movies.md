@@ -4,7 +4,7 @@ title: "All 32 Clayne Crawford Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-32-clayne-crawford-movies-in-order/"
+slug: "/movies/all-clayne-crawford-movies-in-order/"
 
 excerpt: ""
 

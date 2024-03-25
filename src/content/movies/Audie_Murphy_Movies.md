@@ -4,7 +4,7 @@ title: "All 48 Audie Murphy Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-48-audie-murphy-movies-in-order/"
+slug: "/movies/all-audie-murphy-movies-in-order/"
 
 excerpt: ""
 

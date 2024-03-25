@@ -4,7 +4,7 @@ title: "All 32 Dar Salim Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-32-dar-salim-movies-in-order/"
+slug: "/movies/all-dar-salim-movies-in-order/"
 
 excerpt: ""
 

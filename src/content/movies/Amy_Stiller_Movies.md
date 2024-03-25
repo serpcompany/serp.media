@@ -4,7 +4,7 @@ title: "All 26 Amy Stiller Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-26-amy-stiller-movies-in-order/"
+slug: "/movies/all-amy-stiller-movies-in-order/"
 
 excerpt: ""
 

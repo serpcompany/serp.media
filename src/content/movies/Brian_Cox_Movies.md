@@ -4,7 +4,7 @@ title: "All 118 Brian Cox Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-118-brian-cox-movies-in-order/"
+slug: "/movies/all-brian-cox-movies-in-order/"
 
 excerpt: ""
 

@@ -4,7 +4,7 @@ title: "All 49 Chris Weitz Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-49-chris-weitz-movies-in-order/"
+slug: "/movies/all-chris-weitz-movies-in-order/"
 
 excerpt: ""
 

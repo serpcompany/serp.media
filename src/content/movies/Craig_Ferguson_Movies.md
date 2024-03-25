@@ -4,7 +4,7 @@ title: "All 42 Craig Ferguson Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-42-craig-ferguson-movies-in-order/"
+slug: "/movies/all-craig-ferguson-movies-in-order/"
 
 excerpt: ""
 

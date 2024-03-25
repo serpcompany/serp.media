@@ -4,7 +4,7 @@ title: "All 30 Aaron Moorhead Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-30-aaron-moorhead-movies-in-order/"
+slug: "/movies/all-aaron-moorhead-movies-in-order/"
 
 excerpt: ""
 

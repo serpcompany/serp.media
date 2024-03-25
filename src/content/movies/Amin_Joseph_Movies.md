@@ -4,7 +4,7 @@ title: "All 49 Amin Joseph Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-49-amin-joseph-movies-in-order/"
+slug: "/movies/all-amin-joseph-movies-in-order/"
 
 excerpt: ""
 

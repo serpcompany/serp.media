@@ -4,7 +4,7 @@ title: "All 68 Donnie Yen Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-68-donnie-yen-movies-in-order/"
+slug: "/movies/all-donnie-yen-movies-in-order/"
 
 excerpt: ""
 

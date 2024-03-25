@@ -4,7 +4,7 @@ title: "All 37 Desi Arnaz Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-37-desi-arnaz-movies-in-order/"
+slug: "/movies/all-desi-arnaz-movies-in-order/"
 
 excerpt: ""
 

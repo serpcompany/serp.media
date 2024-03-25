@@ -4,7 +4,7 @@ title: "All 22 Brian Tochi Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-22-brian-tochi-movies-in-order/"
+slug: "/movies/all-brian-tochi-movies-in-order/"
 
 excerpt: ""
 

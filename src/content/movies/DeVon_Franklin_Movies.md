@@ -4,7 +4,7 @@ title: "All 19 DeVon Franklin Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-19-devon-franklin-movies-in-order/"
+slug: "/movies/all-devon-franklin-movies-in-order/"
 
 excerpt: ""
 

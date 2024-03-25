@@ -4,7 +4,7 @@ title: "All 85 Dan Hedaya Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-85-dan-hedaya-movies-in-order/"
+slug: "/movies/all-dan-hedaya-movies-in-order/"
 
 excerpt: ""
 

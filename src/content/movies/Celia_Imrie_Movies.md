@@ -4,7 +4,7 @@ title: "All 62 Celia Imrie Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-62-celia-imrie-movies-in-order/"
+slug: "/movies/all-celia-imrie-movies-in-order/"
 
 excerpt: ""
 

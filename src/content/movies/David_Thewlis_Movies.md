@@ -4,7 +4,7 @@ title: "All 59 David Thewlis Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-59-david-thewlis-movies-in-order/"
+slug: "/movies/all-david-thewlis-movies-in-order/"
 
 excerpt: ""
 

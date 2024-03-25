@@ -4,7 +4,7 @@ title: "All 28 Derek Luke Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-28-derek-luke-movies-in-order/"
+slug: "/movies/all-derek-luke-movies-in-order/"
 
 excerpt: ""
 
